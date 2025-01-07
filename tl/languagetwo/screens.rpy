@@ -4,55 +4,55 @@ translate languagetwo strings:
 
     # screens.rpy:285
     old "START"
-    new "START"
+    new "INICIAR"
 
     # screens.rpy:286
     old "LOAD"
-    new "LOAD"
+    new "CARREGAR"
 
     # screens.rpy:287
     old "OPTIONS"
-    new "OPTIONS"
+    new "OPÇÕES"
 
     # screens.rpy:288
     old "GALLERY"
-    new "GALLERY"
+    new "GALERIA"
 
     # screens.rpy:289
     old "BONUS DATES"
-    new "BONUS DATES"
+    new "ENCONTROS EXTRAS"
 
     # screens.rpy:291
     old "LANGUAGE"
-    new "LANGUAGE"
+    new "IDIOMA"
 
     # screens.rpy:292
     old "HELP"
-    new "HELP"
+    new "AJUDA"
 
     # screens.rpy:293
     old "CREDITS"
-    new "CREDITS"
+    new "CREDITOS"
 
     # screens.rpy:294
     old "QUIT"
-    new "QUIT"
+    new "SAIR"
 
     # screens.rpy:354
     old "RETURN"
-    new "RETURN"
+    new "VOLTAR"
 
     # screens.rpy:359
     old "BEARDS/HAIR"
-    new "BEARDS/HAIR"
+    new "BARBAS/CABELO"
 
     # screens.rpy:362
     old "MAIN MENU"
-    new "MAIN MENU"
+    new "MENU PRINCIPAL"
 
     # screens.rpy:480
     old "Empty Slot."
-    new "Empty Slot."
+    new "Espaço Vazio."
 
     # screens.rpy:486
     old "X"
@@ -60,43 +60,43 @@ translate languagetwo strings:
 
     # screens.rpy:573
     old "PREFERENCES"
-    new "PREFERENCES"
+    new "PREFERENCIAS"
 
     # screens.rpy:586
     old "CENSORED"
-    new "CENSORED"
+    new "CENSURADO"
 
     # screens.rpy:592
     old "ON"
-    new "ON"
+    new "LIGADO"
 
     # screens.rpy:594
     old "OFF"
-    new "OFF"
+    new "DESLIGADO"
 
     # screens.rpy:596
     old "CONDOMS"
-    new "CONDOMS"
+    new "CAMISINHAS"
 
     # screens.rpy:607
     old "DISPLAY"
-    new "DISPLAY"
+    new "TELAS"
 
     # screens.rpy:613
     old "WINDOW"
-    new "WINDOW"
+    new "JANELA"
 
     # screens.rpy:615
     old "FULLSCREEN"
-    new "FULLSCREEN"
+    new "TELA CHEIA"
 
     # screens.rpy:617
     old "TEXT SIZE"
-    new "TEXT SIZE"
+    new "TAMANHO DE TEXTO"
 
     # screens.rpy:623
     old "Large"
-    new "Large"
+    new "Grande"
 
     # screens.rpy:625
     old "Normal"
@@ -108,105 +108,105 @@ translate languagetwo strings:
 
     # screens.rpy:635
     old "TEXT SPEED"
-    new "TEXT SPEED"
+    new "VELOC. DE TEXTO"
 
     # screens.rpy:638
     old "AUTO-FORWARD"
-    new "AUTO-FORWARD"
+    new "AUTO-AVANÇAR"
 
     # screens.rpy:641
     old "SOUND VOLUME"
-    new "SOUND VOLUME"
+    new "VOLUME DE SOM"
 
     # screens.rpy:644
     old "MUSIC VOLUME"
-    new "MUSIC VOLUME"
+    new "VOLUME DA MÚSICA"
 
     # screens.rpy:647
     old "MENU MUSIC"
-    new "MENU MUSIC"
+    new "MÚSICA DO MENU"
 
     # screens.rpy:663
     old "TRANSITIONS"
-    new "TRANSITIONS"
+    new "TRANSIÇÕES"
 
     # screens.rpy:669
     old "ALL"
-    new "ALL"
+    new "TODAS"
 
     # screens.rpy:671
     old "NONE"
-    new "NONE"
+    new "NENHUMA"
 
     # screens.rpy:673
     old "ANIMATIONS"
-    new "ANIMATIONS"
+    new "ANIMAÇÕES"
 
     # screens.rpy:679
     old "HIGH"
-    new "HIGH"
+    new "ALTO"
 
     # screens.rpy:681
     old "LOW"
-    new "LOW"
+    new "BAIXO"
 
     # screens.rpy:683
     old "SKIP UNREAD TEXT"
-    new "SKIP UNREAD TEXT"
+    new "PASSAR TEXTO NÃO-LIDO"
 
     # screens.rpy:689
     old "YES"
-    new "YES"
+    new "SIM"
 
     # screens.rpy:691
     old "NO"
-    new "NO"
+    new "NÃO"
 
     # screens.rpy:693
     old "SKIP AFTER CHOICES"
-    new "SKIP AFTER CHOICES"
+    new "PASSAR APÓS ESCOLHAS"
 
     # screens.rpy:761
     old "Yes"
-    new "Yes"
+    new "Sim"
 
     # screens.rpy:762
     old "No"
-    new "No"
+    new "Não"
 
     # screens.rpy:797
     old "Save"
-    new "Save"
+    new "Salvar"
 
     # screens.rpy:798
     old "Load"
-    new "Load"
+    new "Carregar"
 
     # screens.rpy:799
     old "Options"
-    new "Options"
+    new "Opções"
 
     # screens.rpy:800
     old "Main Menu"
-    new "Main Menu"
+    new "Menu principal"
 
     # screens.rpy:801
     old "Skip"
-    new "Skip"
+    new "Avançar"
 
     # screens.rpy:802
     old "Auto"
-    new "Auto"
+    new "Autom."
 
     # screens.rpy:803
     old "Help"
-    new "Help"
+    new "Ajuda"
 
     # screens.rpy:868
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
-    new "Clipboard voicing enabled. Press 'shift+C' to disable."
+    new "Voz externa ativada. Pressione 'shift+C' para desativar."
 
     # screens.rpy:870
     old "Self-voicing enabled. Press 'v' to disable."
-    new "Self-voicing enabled. Press 'v' to disable."
+    new "Voz-automática ativada. Pressione 'v' para desativar."
 
