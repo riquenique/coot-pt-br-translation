@@ -4578,395 +4578,683 @@ translate languagetwo amos_flowers_4fd5ec6d:
     # "Unfortunately, you notice the heads of Penny and Ian peeking from around a corner."
     "Infelizmente, você nota as cabeças de Penny e Ian espiando de um canto."
 
-# game/script_amos.rpy:1835
-translate languagetwo amos_flowers_29107a67:
+# game/script_amos.rpy:1836
+translate languagetwo amos_flowers_d57f9261:
 
-    # mside "What are you guys doing?"
-    mside "O que vocês estão fazendo?"
-
-# game/script_amos.rpy:1837
-translate languagetwo amos_flowers_a58f3353:
-
-    # lb "We were just checking on you."
-    lb "Só estávamos vendo como você estava."
-
-# game/script_amos.rpy:1839
-translate languagetwo amos_flowers_0083320b:
-
-    # lb "You know, since the date."
-    lb "Sabe, desde o encontro."
-
-# game/script_amos.rpy:1841
-translate languagetwo amos_flowers_0320aa22:
-
-    # ian "We didn't want to intrude."
-    ian "Não queríamos incomodar."
+    # mside "Uh. Can I help you guys? Is there a reason you're both weirdly spying on me like that?"
+    mside "Uh. Posso ajudar vocês? Tem algum motivo para vocês dois estarem me espionando estranhamente desse jeito?"
 
 # game/script_amos.rpy:1843
-translate languagetwo amos_flowers_87dbd430:
-
-    # lb "But we're dying to know!"
-    lb "Mas estamos morrendo de curiosidade!"
-
-# game/script_amos.rpy:1845
-translate languagetwo amos_flowers_68d4a6f2:
-
-    # lb "Tell us! Did you rock the mic?"
-    lb "Conta pra gente! Você arrasou no microfone?"
-
-# game/script_amos.rpy:1847
-translate languagetwo amos_flowers_9236a2cd:
-
-    # mside "Well, I got a reaction, that's for sure. But Amos seemed to really like the poem."
-    mside "Bem, eu tive uma reação, isso é certeza. Mas o Amos pareceu gostar muito do poema."
-
-# game/script_amos.rpy:1849
-translate languagetwo amos_flowers_773534d7:
-
-    # lb "Awwwwww! That is so sweet!"
-    lb "Ownnnnnn! Isso é tão fofo!"
-
-# game/script_amos.rpy:1851
-translate languagetwo amos_flowers_2239f29a:
-
-    # ian "Heck yeah! We helped write that!"
-    ian "Com certeza! Nós ajudamos a escrever!"
-
-# game/script_amos.rpy:1853
-translate languagetwo amos_flowers_699103c2:
-
-    # lb "We're basically Cyrano de Bergerac-ing this thing."
-    lb "Estamos basicamente fazendo o papel de Cyrano de Bergerac nessa história."
-
-# game/script_amos.rpy:1855
-translate languagetwo amos_flowers_9586522e:
-
-    # mside "Well, thanks for your help, guys."
-    mside "Bem, obrigado pela ajuda, pessoal."
-
-# game/script_amos.rpy:1857
-translate languagetwo amos_flowers_3c2d66ce:
-
-    # "Just then, the doorbell rings."
-    "Nesse momento, a campainha toca."
-
-# game/script_amos.rpy:1860
-translate languagetwo amos_flowers_38622729:
-
-    # ian "I'll get it!"
-    ian "Eu atendo!"
-
-# game/script_amos.rpy:1861
-translate languagetwo amos_flowers_1333be27:
-
-    # "Ian rushes to the door."
-    "Ian corre para a porta."
-
-# game/script_amos.rpy:1863
-translate languagetwo amos_flowers_f7d23d93:
-
-    # dante_off "Delivery for [m] [lastname]."
-    dante_off "Entrega para [m] [lastname]."
-
-# game/script_amos.rpy:1865
-translate languagetwo amos_flowers_f738027a:
-
-    # ian "Holy crap. [m], get over here!"
-    ian "Caramba. [m], vem aqui!"
-
-# game/script_amos.rpy:1867
-translate languagetwo amos_flowers_e5a23071:
-
-    # "You walk to the door."
-    "Você caminha até a porta."
-
-# game/script_amos.rpy:1870
-translate languagetwo amos_flowers_76ccfc9f:
-
-    # "A rather bored looking delivery man stands in the doorway holding a massive bouquet of red roses."
-    "Um entregador com cara de tédio está na porta segurando um buquê enorme de rosas vermelhas."
-
-# game/script_amos.rpy:1872
-translate languagetwo amos_flowers_95c76346:
-
-    # "He's wearing a name tag that says 'Dante.'"
-    "Ele está usando um crachá que diz 'Dante'."
-
-# game/script_amos.rpy:1874
-translate languagetwo amos_flowers_0c8d067c:
-
-    # danteside "Sign here."
-    danteside "Assine aqui."
-
-# game/script_amos.rpy:1876
-translate languagetwo amos_flowers_9927ad97:
-
-    # mside "..."
-    mside "..."
-
-# game/script_amos.rpy:1878
-translate languagetwo amos_flowers_71694314:
-
-    # danteside "Use a pen."
-    danteside "Use uma caneta."
-
-# game/script_amos.rpy:1880
-translate languagetwo amos_flowers_2c76a91d:
-
-    # mside "Oh, right."
-    mside "Ah, certo."
-
-# game/script_amos.rpy:1881
-translate languagetwo amos_flowers_023a1005:
-
-    # "You sign for the flowers and take them. They are heavy and smell incredible."
-    "Você assina o recebimento das flores e as pega. Elas são pesadas e cheiram incrivelmente bem."
-
-# game/script_amos.rpy:1883
-translate languagetwo amos_flowers_c7df006d:
-
-    # danteside "There's more in the truck. Be right back."
-    danteside "Tem mais no caminhão. Já volto."
-
-# game/script_amos.rpy:1885
-translate languagetwo amos_flowers_9570901f:
-
-    # mside "Wow. Who's that?"
-    mside "Uau. Quem é aquele?"
-
-# game/script_amos.rpy:1887
-translate languagetwo amos_flowers_3c2999c6:
-
-    # lb "More? Did he say more?"
-    lb "Mais? Ele disse mais?"
-
-# game/script_amos.rpy:1889
-translate languagetwo amos_flowers_9486850d:
-
-    # "Dante returns with another bouquet. And then another."
-    "Dante retorna com outro buquê. E depois outro."
-
-# game/script_amos.rpy:1891
-translate languagetwo amos_flowers_845c4793:
-
-    # "Soon your living room is filled with roses. Dozens and dozens of them."
-    "Logo sua sala de estar está cheia de rosas. Dúzias e dúzias delas."
-
-# game/script_amos.rpy:1893
-translate languagetwo amos_flowers_5c215329:
-
-    # lb "This is insane! There must be a hundred roses here!"
-    lb "Isso é loucura! Deve haver umas cem rosas aqui!"
-
-# game/script_amos.rpy:1895
-translate languagetwo amos_flowers_f3945c75:
-
-    # ian "Dude, somebody really likes you. Or they're stalking you. Or both."
-    ian "Cara, alguém gosta muito de você. Ou está te perseguindo. Ou os dois."
-
-# game/script_amos.rpy:1897
-translate languagetwo amos_flowers_2b35b6fe:
-
-    # mside "Do you think they're from Amos?"
-    mside "Vocês acham que são do Amos?"
-
-# game/script_amos.rpy:1899
-translate languagetwo amos_flowers_7bc74092:
-
-    # lb "Of course they are! Who else would send you this many flowers?"
-    lb "Claro que são! Quem mais te mandaria tantas flores assim?"
-
-# game/script_amos.rpy:1901
-translate languagetwo amos_flowers_12140666:
-
-    # danteside "Hey, buddy. You gonna tip me or what?"
-    danteside "Ei, amigo. Vai me dar uma gorjeta ou não?"
-
-# game/script_amos.rpy:1903
-translate languagetwo amos_flowers_33691ebb:
-
-    # amos "..."
-    amos "..."
-
-# game/script_amos.rpy:1905
-translate languagetwo amos_flowers_46927b2d:
-
-    # mside "Uh, sorry. I'm just a little overwhelmed."
-    mside "Uh, desculpe. Só estou um pouco sobrecarregado."
-
-# game/script_amos.rpy:1907
-translate languagetwo amos_flowers_8a66632d:
-
-    # danteside "Overwhelmed? You try hauling all these plants up three flights of stairs."
-    danteside "Sobrecarregado? Tente carregar todas essas plantas por três lances de escada."
-
-# game/script_amos.rpy:1909
-translate languagetwo amos_flowers_1c2c3664:
-
-    # mside "Right. Sorry."
-    mside "Certo. Desculpe."
-
-# game/script_amos.rpy:1911
-translate languagetwo amos_flowers_2e595954:
-
-    # "You fish a couple of crumpled dollar bills from your pocket and hand them to him."
-    "Você pesca algumas notas de dólar amassadas do bolso e entrega a ele."
-
-# game/script_amos.rpy:1913
-translate languagetwo amos_flowers_642e430c:
-
-    # danteside "Gee, thanks. Try not to spend it all in one place."
-    danteside "Poxa, valeu. Tente não gastar tudo num lugar só."
-
-# game/script_amos.rpy:1915
-translate languagetwo amos_flowers_f2122606:
-
-    # "Dante rolls his eyes and leaves."
-    "Dante revira os olhos e vai embora."
-
-# game/script_amos.rpy:1918
 translate languagetwo amos_flowers_a20cefa7:
 
     # "..."
     "..."
 
-# game/script_amos.rpy:1920
-translate languagetwo amos_flowers_dante_leaves_4a56c429:
+# game/script_amos.rpy:1845
+translate languagetwo amos_flowers_7ef9edc1:
 
-    # lb "What a charmer."
-    lb "Que encanto de pessoa."
+    # mside "Are you checking for the 'Post-Penis Glow' again?"
+    mside "Vocês estão checando o 'Brilho Pós-Pênis' de novo?"
 
-# game/script_amos.rpy:1922
-translate languagetwo amos_flowers_dante_leaves_85150098:
+# game/script_amos.rpy:1847
+translate languagetwo amos_flowers_57278417:
 
-    # ian "Seriously. But look at all these flowers! [m], you've hit the jackpot."
-    ian "Sério. Mas olha só todas essas flores! [m], você ganhou na loteria."
+    # ian "Penny's all about the PPG, dude. I saw Penny creeping on you and I thought I'd join in."
+    ian "A Penny só pensa no BPP, cara. Eu vi a Penny te espiando e pensei em me juntar."
 
-# game/script_amos.rpy:1924
-translate languagetwo amos_flowers_dante_leaves_3d33301a:
+# game/script_amos.rpy:1849
+translate languagetwo amos_flowers_27434703:
 
-    # mside "I guess so. I mean, it's a grand gesture, right?"
-    mside "Acho que sim. Quer dizer, é um grande gesto, né?"
+    # lb "Ian, I was {i}NOT{/i} creeping!"
+    lb "Ian, eu {i}NÃO{/i} estava espiando!"
 
-# game/script_amos.rpy:1926
-translate languagetwo amos_flowers_dante_leaves_20d2c39d:
+# game/script_amos.rpy:1851
+translate languagetwo amos_flowers_51132958:
 
-    # lb "Grand? It's monumental! You have to call him. Right now."
-    lb "Grande? É monumental! Você tem que ligar para ele. Agora mesmo."
+    # lb "{size=-10}But I actually was checking for the PPG...{/size}"
+    lb "{size=-10}Mas eu estava mesmo checando o BPP...{/size}"
 
-# game/script_amos.rpy:1928
-translate languagetwo amos_flowers_dante_leaves_8b105619:
+# game/script_amos.rpy:1853
+translate languagetwo amos_flowers_25fa0ad6:
 
-    # mside "Yeah. Yeah, I should."
-    mside "É. É, eu devo."
+    # mside "PENNY—"
+    mside "PENNY—"
+
+# game/script_amos.rpy:1856
+translate languagetwo amos_flowers_ca342e06:
+
+    # ian "You know, Penny, he does seem like he's got a little glow going. Did something happen you'd like to share, [m]?"
+    ian "Sabe, Penny, ele parece que está com um brilhozinho. Aconteceu algo que você gostaria de compartilhar, [m]?"
+
+# game/script_amos.rpy:1860
+translate languagetwo amos_flowers_b8407ae2:
+
+    # mside "Oh, {i}come{/i} on—"
+    mside "Ah, {i}qual{/i} é—"
+
+# game/script_amos.rpy:1862
+translate languagetwo amos_flowers_0e8ea5c0:
+
+    # lb "Could be post took-a-nice-poo glow. PTANPG."
+    lb "Pode ser o brilho pós-cagada-boa. BPCB."
+
+# game/script_amos.rpy:1864
+translate languagetwo amos_flowers_e28a9c4b:
+
+    # ian "I don't think so, Penny. Look at the way his cheeks are just barely flushed, indicating a recent state of heightened arousal."
+    ian "Acho que não, Penny. Olha como as bochechas dele estão levemente coradas, indicando um estado recente de excitação elevada."
+
+# game/script_amos.rpy:1867
+translate languagetwo amos_flowers_caff9617:
+
+    # lb "You're right. And there's too much tension in his legs."
+    lb "Você tem razão. E tem muita tensão nas pernas dele."
+
+# game/script_amos.rpy:1869
+translate languagetwo amos_flowers_112839ec:
+
+    # mside "This is no longer up for discussion, guys!"
+    mside "Isso não está mais em discussão, gente!"
+
+# game/script_amos.rpy:1871
+translate languagetwo amos_flowers_02fcbb52:
+
+    # ian "Just unburden yourself, dude. There's no shame in engaging your natural human urges."
+    ian "Apenas desabafe, cara. Não há vergonha em satisfazer seus impulsos humanos naturais."
+
+# game/script_amos.rpy:1873
+translate languagetwo amos_flowers_5387e4a9:
+
+    # mside "Alright! Enough! I'm trying to watch a movie here!"
+    mside "Tá bom! Chega! Estou tentando assistir a um filme aqui!"
+
+# game/script_amos.rpy:1876
+translate languagetwo amos_flowers_884202f3:
+
+    # ian "Ok, tell us how your poetry reading went, at least."
+    ian "Ok, conta como foi sua leitura de poesia, pelo menos."
+
+# game/script_amos.rpy:1878
+translate languagetwo amos_flowers_bf314422:
+
+    # lb "Did you wow them with your mad poetry skills? I bet you blew them right off their rockers."
+    lb "Você impressionou eles com suas habilidades poéticas insanas? Aposto que você explodiu a cabeça deles."
+
+# game/script_amos.rpy:1883
+translate languagetwo amos_flowers_2156252f:
+
+    # mside "Yeah, pretty much."
+    mside "Sim, mais ou menos."
+
+# game/script_amos.rpy:1885
+translate languagetwo amos_flowers_eb9b0b73:
+
+    # lb "Sounds like you have a way with words. Maybe you should try writing another one!"
+    lb "Parece que você tem jeito com as palavras. Talvez devesse tentar escrever outro!"
+
+# game/script_amos.rpy:1888
+translate languagetwo amos_flowers_4e60b43f:
+
+    # ian "Not so fast, Penny. [m] needs to coast on the momentum of that success for as long as he can."
+    ian "Não tão rápido, Penny. [m] precisa aproveitar o embalo desse sucesso pelo tempo que puder."
+
+# game/script_amos.rpy:1891
+translate languagetwo amos_flowers_71036027:
+
+    # ian "Dude, there's no reason to risk failure by following up too quickly."
+    ian "Cara, não tem motivo pra arriscar o fracasso tentando repetir o feito muito rápido."
+
+# game/script_amos.rpy:1893
+translate languagetwo amos_flowers_c523ca16:
+
+    # lb "Ian—"
+    lb "Ian—"
+
+# game/script_amos.rpy:1894
+translate languagetwo amos_flowers_aa98a76a:
+
+    # ian "You gotta squeeze every last drop of juice from the lemon before you throw it out."
+    ian "Você tem que espremer até a última gota de suco do limão antes de jogá-lo fora."
+
+# game/script_amos.rpy:1896
+translate languagetwo amos_flowers_ab55c179:
+
+    # mside "That's poetic. Hold on, let me write that down in my poetry notebook."
+    mside "Isso é poético. Espera, deixa eu anotar isso no meu caderno de poesia."
+
+# game/script_amos.rpy:1898
+translate languagetwo amos_flowers_dbe804b7:
+
+    # ian "Wait, dude, are you stealing my material?"
+    ian "Espera, cara, você tá roubando meu material?"
+
+# game/script_amos.rpy:1900
+translate languagetwo amos_flowers_04e32cd8:
+
+    # mside "It's not stealing if you're not going to use it."
+    mside "Não é roubo se você não vai usar."
+
+# game/script_amos.rpy:1901
+translate languagetwo amos_flowers_8d1fd3c6:
+
+    # ian "Well, I'd at least like an attribution."
+    ian "Bem, eu gostaria de pelo menos um crédito."
+
+# game/script_amos.rpy:1903
+translate languagetwo amos_flowers_4d6db245:
+
+    # mside "Uh, sure, yeah, I'll make a note here."
+    mside "Ah, claro, sim, vou anotar aqui."
+
+# game/script_amos.rpy:1908
+translate languagetwo amos_flowers_f87f3cd2:
+
+    # mside "Everyone seemed pretty surprised."
+    mside "Todo mundo pareceu bem surpreso."
+
+# game/script_amos.rpy:1910
+translate languagetwo amos_flowers_2949200c:
+
+    # ian "I bet it was because it was weird right? I knew it'd go over well. Weirdness, man. It's the new coolness."
+    ian "Aposto que foi porque era estranho, né? Sabia que ia pegar bem. Estranheza, cara. É o novo legal."
+
+# game/script_amos.rpy:1912
+translate languagetwo amos_flowers_710c0e7d:
+
+    # mside "I wouldn't say it went over well, Ian. It was more like a train wreck."
+    mside "Eu não diria que pegou bem, Ian. Foi mais como um desastre de trem."
+
+# game/script_amos.rpy:1914
+translate languagetwo amos_flowers_3f482a9b:
+
+    # lb "See what happens [m]? See what happens when you listen to Ian?"
+    lb "Viu o que acontece [m]? Viu o que acontece quando você ouve o Ian?"
+
+# game/script_amos.rpy:1916
+translate languagetwo amos_flowers_adb3574a:
+
+    # ian "[m], I'm sure you'll get 'em next time."
+    ian "[m], tenho certeza que você consegue na próxima."
+
+# game/script_amos.rpy:1918
+translate languagetwo amos_flowers_7b4875db:
+
+    # mside "I don't think there's going to be a next-time. I'm probably banned from poetry for life at this point."
+    mside "Acho que não vai ter próxima vez. Provavelmente estou banido da poesia pra sempre a essa altura."
+
+# game/script_amos.rpy:1923
+translate languagetwo amos_flowers_f0faefe1:
+
+    # mside "It went really well. I mean, most people seemed to enjoy it for what it was."
+    mside "Foi muito bem. Digo, a maioria das pessoas pareceu curtir pelo que era."
+
+# game/script_amos.rpy:1925
+translate languagetwo amos_flowers_26304794:
+
+    # ian "Ah, that's great, dude."
+    ian "Ah, isso é ótimo, cara."
+
+# game/script_amos.rpy:1927
+translate languagetwo amos_flowers_1ec3b667:
+
+    # mside "Except there were a couple of people who were just sitting with their arms crossed, shooting daggers at me the whole time."
+    mside "Exceto que tinha algumas pessoas sentadas de braços cruzados, me fuzilando com o olhar o tempo todo."
 
 # game/script_amos.rpy:1930
-translate languagetwo amos_flowers_dante_leaves_289f0293:
+translate languagetwo amos_flowers_a466fa36:
 
-    # "You pull out your phone, fingers trembling slightly as you dial Amos' number."
-    "Você pega seu telefone, os dedos tremendo levemente enquanto disca o número de Amos."
+    # lb "Ahhh, haters. Shake 'em off and keep rolling. You can't please all the people all the time, [m]."
+    lb "Ahhh, os odiadores. Ignora e segue em frente. Você não pode agradar todo mundo o tempo todo, [m]."
 
 # game/script_amos.rpy:1932
-translate languagetwo amos_flowers_dante_leaves_a20cefa7:
+translate languagetwo amos_flowers_3a104b6b:
 
-    # "..."
-    "..."
+    # mside "It's like they were thinking 'how dare this intruder come here and make a mockery of our precious little thing.'"
+    mside "É como se estivessem pensando 'como esse intruso ousa vir aqui e zombar da nossa coisinha preciosa'."
 
 # game/script_amos.rpy:1934
-translate languagetwo amos_flowers_dante_leaves_8f533556:
+translate languagetwo amos_flowers_c787d2ce:
 
-    # "He doesn't answer. You leave a voicemail."
-    "Ele não atende. Você deixa uma mensagem de voz."
+    # lb "Luckily, most folks understand that fun comes in many different shapes and sizes."
+    lb "Felizmente, a maioria das pessoas entende que a diversão vem em muitas formas e tamanhos diferentes."
 
 # game/script_amos.rpy:1936
-translate languagetwo amos_flowers_dante_leaves_07c03793:
+translate languagetwo amos_flowers_b6ccd452:
 
-    # mside "Hey, Amos. It's [m]. I just got the flowers. They're... amazing. Thank you. Call me back when you get this."
-    mside "Ei, Amos. É o [m]. Acabei de receber as flores. Elas são... incríveis. Obrigado. Me liga de volta quando ouvir isso."
+    # mside "Thanks for that, Penny. That's totally true."
+    mside "Obrigado por isso, Penny. É totalmente verdade."
 
 # game/script_amos.rpy:1938
-translate languagetwo amos_flowers_dante_leaves_71a25754:
+translate languagetwo amos_flowers_bc353ebe:
 
-    # lb "Well?"
-    lb "E aí?"
+    # mside "And there's nothing wrong with that, right? Seems like whenever {i}anybody{/i} steps a little bit outside the line, there's always someone there to complain."
+    mside "E não tem nada de errado com isso, né? Parece que sempre que {i}alguém{/i} pisa um pouquinho fora da linha, tem sempre alguém pra reclamar."
 
 # game/script_amos.rpy:1940
-translate languagetwo amos_flowers_dante_leaves_83738597:
+translate languagetwo amos_flowers_c5902e2f:
 
-    # mside "Voicemail."
-    mside "Caixa postal."
+    # mside "Like they make a life out of criticizing things. Like that's who they're most comfortable being."
+    mside "Como se fizessem da vida criticar coisas. Como se fosse assim que se sentem mais confortáveis."
 
 # game/script_amos.rpy:1942
-translate languagetwo amos_flowers_dante_leaves_2077c44d:
+translate languagetwo amos_flowers_148ef6cd:
 
-    # ian "He's probably busy arranging your next surprise. Maybe he's renting a blimp."
-    ian "Ele deve estar ocupado organizando sua próxima surpresa. Talvez esteja alugando um dirigível."
+    # ian "Truth be told, they're probably having difficulty dealing with a lack of control over their own lives and compensate by tearing down others."
+    ian "Verdade seja dita, eles provavelmente estão tendo dificuldade em lidar com a falta de controle sobre suas próprias vidas e compensam derrubando os outros."
 
 # game/script_amos.rpy:1944
-translate languagetwo amos_flowers_dante_leaves_f1680d28:
+translate languagetwo amos_flowers_4a68faeb:
 
-    # mside "I hope not. Where would we park a blimp?"
-    mside "Espero que não. Onde estacionaríamos um dirigível?"
+    # mside "That's poignant, dude."
+    mside "Isso foi profundo, cara."
 
 # game/script_amos.rpy:1946
-translate languagetwo amos_flowers_dante_leaves_83c70636:
+translate languagetwo amos_flowers_64b5f252:
 
-    # lb "Details, details. Just enjoy the moment, [m]. You're being courted!"
-    lb "Detalhes, detalhes. Apenas aproveite o momento, [m]. Você está sendo cortejado!"
+    # ian "Did you just call me 'dude,' dude?"
+    ian "Você acabou de me chamar de 'cara', cara?"
+
+# game/script_amos.rpy:1948
+translate languagetwo amos_flowers_2270c41b:
+
+    # mside "I did."
+    mside "Chamei."
 
 # game/script_amos.rpy:1950
-translate languagetwo amos_flowers_dante_leaves_9927ad97:
+translate languagetwo amos_flowers_943c2520:
+
+    # ian "[m], I've been waiting for this day for like forever. We're finally dude-bros. I've been thinking I wasn't good enough to be your dude, but dude, this is great."
+    ian "[m], eu estive esperando por esse dia tipo pra sempre. Finalmente somos parceiros. Eu estava achando que não era bom o suficiente para ser seu 'cara', mas cara, isso é ótimo."
+
+# game/script_amos.rpy:1952
+translate languagetwo amos_flowers_712a05b0:
+
+    # mside "Wow, okay, I didn't realize it was such a big thing. But sure, we're now dude-bros."
+    mside "Uau, ok, não sabia que era algo tão grande. Mas claro, somos parceiros agora."
+
+# game/script_amos.rpy:1953
+translate languagetwo amos_flowers_e0f20856:
+
+    # "Ian wipes his eyes and hugs you."
+    "Ian enxuga os olhos e te abraça."
+
+# game/script_amos.rpy:1955
+translate languagetwo amos_flowers_9927ad97:
 
     # mside "..."
     mside "..."
 
-# game/script_amos.rpy:1955
-translate languagetwo amos_flowers_dante_leaves_a20cefa7_1:
+# game/script_amos.rpy:1960
+translate languagetwo amos_flowers_1b4ea84e:
 
-    # "..."
-    "..."
+    # mside "Ah, it didn't go so well."
+    mside "Ah, não foi muito bem."
 
-# game/script_amos.rpy:2016
-translate languagetwo amos_flowers_dante_leaves_menu_1_37d530c3:
+# game/script_amos.rpy:1962
+translate languagetwo amos_flowers_3b2a6b98:
 
-    # "Suddenly, there's a knock at the door. It's Dante again."
-    "De repente, há uma batida na porta. É o Dante de novo."
+    # lb "What was the problem?"
+    lb "Qual foi o problema?"
 
-# game/script_amos.rpy:2018
-translate languagetwo amos_flowers_dante_leaves_menu_1_754407b3:
+# game/script_amos.rpy:1964
+translate languagetwo amos_flowers_3a02a90b:
 
-    # danteside "Forgot my clipboard."
-    danteside "Esqueci minha prancheta."
+    # mside "Amos wasn't impressed. I don't think he or anyone else really got that it was metaphoric satire."
+    mside "Amos não ficou impressionado. Acho que nem ele nem ninguém entendeu que era uma sátira metafórica."
+
+# game/script_amos.rpy:1966
+translate languagetwo amos_flowers_42767003:
+
+    # ian "Satire is a surefire way to alienate people, dude. Especially when it's about something near to people's hearts."
+    ian "Sátira é uma maneira infalível de alienar as pessoas, cara. Especialmente quando é sobre algo próximo aos corações das pessoas."
+
+# game/script_amos.rpy:1968
+translate languagetwo amos_flowers_86587b56:
+
+    # mside "You know, Ian, you could've mentioned that {i}before{/i} I read my poem."
+    mside "Sabe, Ian, você poderia ter mencionado isso {i}antes{/i} de eu ler meu poema."
+
+# game/script_amos.rpy:1970
+translate languagetwo amos_flowers_57e286f3:
+
+    # ian "Well, I just thought of it right now. How could I have mentioned it before?"
+    ian "Bem, eu só pensei nisso agora. Como eu poderia ter mencionado antes?"
+
+# game/script_amos.rpy:1972
+translate languagetwo amos_flowers_32aca258:
+
+    # mside "Ah, whatever. I think I'm done writing poetry, anyways. Hopefully Amos isn't too upset."
+    mside "Ah, tanto faz. Acho que terminei com poesia, de qualquer forma. Espero que Amos não esteja muito chateado."
+
+# game/script_amos.rpy:1975
+translate languagetwo amos_flowers_9331e255:
+
+    # mside "All right, can I watch my movie now?"
+    mside "Tudo bem, posso assistir meu filme agora?"
+
+# game/script_amos.rpy:1981
+translate languagetwo amos_flowers_e52fd1a8:
+
+    # "You resume your movie."
+    "Você retoma seu filme."
+
+# game/script_amos.rpy:1982
+translate languagetwo amos_flowers_2d0e5e84:
+
+    # thought "Now what?"
+    thought "E agora?"
+
+# game/script_amos.rpy:1983
+translate languagetwo amos_flowers_a57405bd:
+
+    # "You open the door and see a huge bouquet of exotic flowers, obscuring the face and body of whoever is delivering them."
+    "Você abre a porta e vê um enorme buquê de flores exóticas, escondendo o rosto e o corpo de quem as está entregando."
+
+# game/script_amos.rpy:1987
+translate languagetwo amos_flowers_b5d9741b:
+
+    # mside "Hello?"
+    mside "Alô?"
+
+# game/script_amos.rpy:1989
+translate languagetwo amos_flowers_11d4e95e:
+
+    # danteside "Flowers for, uh, I can't see the frickin' card."
+    danteside "Flores para, uh, não consigo ver a droga do cartão."
+
+# game/script_amos.rpy:1990
+translate languagetwo amos_flowers_a1871987:
+
+    # danteside "Ah, here it is. [m] [lastname]."
+    danteside "Ah, aqui está. [m] [lastname]."
+
+# game/script_amos.rpy:1992
+translate languagetwo amos_flowers_3efa1e6b:
+
+    # mside "That's me. Thanks, I'll take these now."
+    mside "Sou eu. Obrigado, vou pegar agora."
+
+# game/script_amos.rpy:1994
+translate languagetwo amos_flowers_e6b6d858:
+
+    # "You set the flowers beside you."
+    "Você coloca as flores ao seu lado."
+
+# game/script_amos.rpy:1996
+translate languagetwo amos_flowers_4d04c022:
+
+    # danteside "Okay. Careful. That's quite an arrangement there, buddy. Somebody either {i}really{/i} likes you or did something {i}really{/i} bad."
+    danteside "Ok. Cuidado. Que arranjo e tanto hein, amigão. Alguém {i}realmente{/i} gosta de você ou fez algo {i}realmente{/i} ruim."
+
+# game/script_amos.rpy:1998
+translate languagetwo amos_flowers_36f5842a:
+
+    # mside "Yeah. Okay. Thanks."
+    mside "É. Ok. Obrigado."
+
+# game/script_amos.rpy:2000
+translate languagetwo amos_flowers_d09f10a6:
+
+    # danteside "I mean, seriously. I've never seen anything this big. This is like 'sorry-I-stabbed-you' level stuff."
+    danteside "Digo, sério. Nunca vi nada desse tamanho. Isso é nível 'desculpa-por-te-esfaquear'."
+
+# game/script_amos.rpy:2002
+translate languagetwo amos_flowers_f2cea6af:
+
+    # mside "Thank you for the delivery. I'll just take these in now."
+    mside "Obrigado pela entrega. Vou levar pra dentro agora."
+
+# game/script_amos.rpy:2004
+translate languagetwo amos_flowers_3bc784c3:
+
+    # dante "Well?"
+    dante "E aí?"
+
+# game/script_amos.rpy:2006
+translate languagetwo amos_flowers_14e7b6f2:
+
+    # mside "Oh right, the tip. Hang on."
+    mside "Ah certo, a gorjeta. Espera aí."
+
+# game/script_amos.rpy:2008
+translate languagetwo amos_flowers_435817df:
+
+    # dante "No, man. Did someone stab you or what? What's the story?"
+    dante "Não, cara. Alguém te esfaqueou ou o quê? Qual é a história?"
+
+# game/script_amos.rpy:2010
+translate languagetwo amos_flowers_057cd7c0:
+
+    # mside "Hate to disappoint, but nobody stabbed me. Now if you'll just, well... leave."
+    mside "Odeio desapontar, mas ninguém me esfaqueou. Agora se você puder, bem... ir embora."
+
+# game/script_amos.rpy:2012
+translate languagetwo amos_flowers_726b9efc:
+
+    # dante "I'd really like to know what's going on with these flowers first."
+    dante "Eu realmente gostaria de saber o que tá rolando com essas flores primeiro."
+
+# game/script_amos.rpy:2014
+translate languagetwo amos_flowers_c8800af7:
+
+    # dante "Put yourself in my shoes, pal. I have this meaningless, low-paying job. My only consolation is getting to hear these stories. So forget the tip and dish, bro."
+    dante "Coloque-se no meu lugar, amigo. Tenho esse emprego sem sentido e que paga mal. Minha única consolação é ouvir essas histórias. Então esquece a gorjeta e conta logo, mano."
 
 # game/script_amos.rpy:2020
-translate languagetwo amos_flowers_dante_leaves_menu_1_932207b6:
+translate languagetwo amos_flowers_e95bb087:
 
-    # mside "Oh. Here."
-    mside "Ah. Aqui."
+    # mside "Actually, there isn't much to tell. Just a nice gesture from someone special."
+    mside "Na verdade, não tem muito o que contar. Só um gesto legal de alguém especial."
 
 # game/script_amos.rpy:2022
-translate languagetwo amos_flowers_dante_leaves_menu_1_f06d26d5:
+translate languagetwo amos_flowers_dc67c4b3:
 
-    # danteside "You know, this guy must have it bad for you. I haven't seen an order this big since the mayor's funeral."
-    danteside "Sabe, esse cara deve estar caidinho por você. Não vejo um pedido tão grande desde o funeral do prefeito."
+    # dante "Boring. Sorry I asked. You could've at least had the decency to make up something interesting. Now about that tip."
+    dante "Chato. Desculpe ter perguntado. Você poderia pelo menos ter tido a decência de inventar algo interessante. Agora sobre aquela gorjeta."
 
-# game/script_amos.rpy:2024
-translate languagetwo amos_flowers_dante_leaves_menu_1_menu_2e36b13e:
+# game/script_amos.rpy:2027
+translate languagetwo amos_flowers_ecfc6650:
 
-    # mside "I guess so."
-    mside "Acho que sim."
+    # dante "OH NO. I wouldn't want to get {i}reported.{/i} Guess I better leave before the {i}customer{/i} gets {i}angry.{/i}"
+    dante "OH NÃO. Eu não gostaria de ser {i}denunciado.{/i} Acho melhor eu ir antes que o {i}cliente{/i} fique {i}bravo.{/i}"
 
-# game/script_amos.rpy:2030
-translate languagetwo amos_flowers_dante_leaves_menu_1_menu_801c5306:
+# game/script_amos.rpy:2029
+translate languagetwo amos_flowers_69ba8a7e:
 
-    # danteside "Anyway, see ya."
-    danteside "Enfim, até mais."
+    # mside "Please do."
+    mside "Por favor, vá."
 
-# game/script_amos.rpy:2032
-translate languagetwo amos_flowers_dante_leaves_menu_1_menu_c6300173:
+# game/script_amos.rpy:2031
+translate languagetwo amos_flowers_c9d8b2c2:
 
-    # mside "Bye."
-    mside "Tchau."
+    # dante "Fine. And hey, pal?"
+    dante "Tá bom. E ei, amigo?"
+
+# game/script_amos.rpy:2033
+translate languagetwo amos_flowers_b10d6164:
+
+    # mside "What?"
+    mside "O quê?"
+
+# game/script_amos.rpy:2035
+translate languagetwo amos_flowers_88b55e40:
+
+    # dante "Enjoy that five bucks that you didn't tip me with. I want you to get something nice with it. I'm sure that'll make a big difference in your life."
+    dante "Aproveite esses cinco contos que você não me deu de gorjeta. Quero que compre algo legal com isso. Tenho certeza que vai fazer uma grande diferença na sua vida."
+
+# game/script_amos.rpy:2037
+translate languagetwo amos_flowers_cc902fa9:
+
+    # mside "I'm going to see if I can pay someone five dollars to make you go away."
+    mside "Vou ver se consigo pagar cinco dólares pra alguém fazer você ir embora."
+
+# game/script_amos.rpy:2039
+translate languagetwo amos_flowers_dd307f6e:
+
+    # dante "You're an ass. Have fun with your {i}flowers.{/i}"
+    dante "Você é um babaca. Divirta-se com suas {i}flores.{/i}"
+
+# game/script_amos.rpy:2042
+translate languagetwo amos_flowers_f1a7aa3f:
+
+    # mside "Oh, I will. Trust me. {i}I will{/i}."
+    mside "Ah, eu vou. Confie em mim. {i}Eu vou{/i}."
+
+# game/script_amos.rpy:2044
+translate languagetwo amos_flowers_48d71001:
+
+    # "You hand Dante a dollar tip."
+    "Você dá a Dante um dólar de gorjeta."
+
+# game/script_amos.rpy:2046
+translate languagetwo amos_flowers_91f8dadc:
+
+    # dante "Oh, thank you so much, kind sir."
+    dante "Oh, muito obrigado, bondoso senhor."
+
+# game/script_amos.rpy:2048
+translate languagetwo amos_flowers_b2ab113f:
+
+    # mside "It would have been more if you weren't, you know, such a jerk."
+    mside "Teria sido mais se você não fosse, sabe, um babaca."
+
+# game/script_amos.rpy:2049
+translate languagetwo amos_flowers_e7733635:
+
+    # dante "Gee willikers! I can't wait to deposit this in my 401K!"
+    dante "Puxa vida! Mal posso esperar para depositar isso na minha previdência!"
+
+# game/script_amos.rpy:2052
+translate languagetwo amos_flowers_a604813e:
+
+    # "You place your hand firmly on Dante's back and guide him through the doorway."
+    "Você coloca a mão firmemente nas costas de Dante e o guia pela porta."
+
+# game/script_amos.rpy:2054
+translate languagetwo amos_flowers_7b10bec2:
+
+    # danteside "Oh, so it's gonna be like this, huh?"
+    danteside "Ah, então vai ser assim, é?"
+
+# game/script_amos.rpy:2060
+translate languagetwo amos_flowers_c42d90d5:
+
+    # "You explain with the utmost terseness that your entire family died while riding a ski lift together."
+    "Você explica com a máxima rispidez que toda a sua família morreu enquanto andava junta num teleférico de esqui."
+
+# game/script_amos.rpy:2062
+translate languagetwo amos_flowers_04fc66ea:
+
+    # dante "Your entire family? On a lift?"
+    dante "Sua família inteira? Num teleférico?"
+
+# game/script_amos.rpy:2064
+translate languagetwo amos_flowers_4ca08c4d:
+
+    # mside "Aunts, uncles, cousins, and my grandfather. All deciding to ride the lift during a [lastname] family reunion. All because they decided to sing as per [lastname] holiday tradition. "
+    mside "Tias, tios, primos e meu avô. Todos decidiram pegar o teleférico durante uma reunião da família [lastname]. Tudo porque decidiram cantar conforme a tradição de feriado dos [lastname]. "
+
+# game/script_amos.rpy:2067
+translate languagetwo amos_flowers_20271353:
+
+    # dante "What? I don’t understand. They got killed by a carol?"
+    dante "O quê? Não entendi. Eles foram mortos por uma canção de natal?"
+
+# game/script_amos.rpy:2070
+translate languagetwo amos_flowers_1483686f:
+
+    # mside "It set off an avalanche that proceeded to send 30,000 tons of snow careening down the mountainside, wiping out the lift and all of its riders."
+    mside "Ela desencadeou uma avalanche que enviou 30.000 toneladas de neve montanha abaixo, destruindo o teleférico e todos os seus passageiros."
+
+# game/script_amos.rpy:2071
+translate languagetwo amos_flowers_5f3eef4f:
+
+    # mside "An entire generation wiped out one snowy afternoon in Tahoe."
+    mside "Uma geração inteira dizimada numa tarde de neve em Tahoe."
+
+# game/script_amos.rpy:2073
+translate languagetwo amos_flowers_1beda77f:
+
+    # dante "Oh. Sorry, dude. I didn't mean to pry. "
+    dante "Ah. Desculpa, cara. Não quis me intrometer. "
+
+# game/script_amos.rpy:2075
+translate languagetwo amos_flowers_f623f9d1:
+
+    # mside "Perhaps you should've considered that before asking."
+    mside "Talvez você devesse ter considerado isso antes de perguntar."
+
+# game/script_amos.rpy:2077
+translate languagetwo amos_flowers_20b9adf5:
+
+    # dante "It's just that, man, it doesn't look like a condolences bouquet. I mean, that's not what I'm getting from these."
+    dante "É só que, cara, não parece um buquê de condolências. Digo, não é essa a impressão que tenho disso aqui."
+
+# game/script_amos.rpy:2079
+translate languagetwo amos_flowers_851d251d:
+
+    # mside "{i}There's no better cause for beauty than horror. No greater need for joy than in sorrow.{/i}"
+    mside "{i}Não há melhor causa para a beleza do que o horror. Nenhuma necessidade maior de alegria do que na tristeza.{/i}"
+
+# game/script_amos.rpy:2082
+translate languagetwo amos_flowers_fa0ba460:
+
+    # dante "Okay. Okay. I get it. Sorry, bro. Take it easy."
+    dante "Ok. Ok. Entendi. Desculpa, mano. Relaxa."
+
+# game/script_amos.rpy:2087
+translate languagetwo amos_dante_leaves_5bbadc47:
+
+    # "You shut the door, relieved to be free of the delivery guy."
+    "Você fecha a porta, aliviado por se livrar do entregador."
+
+# game/script_amos.rpy:2088
+translate languagetwo amos_dante_leaves_9c03d2a9:
+
+    # thought "What a weirdo."
+    thought "Que esquisito."
+
+# game/script_amos.rpy:2089
+translate languagetwo amos_dante_leaves_c0b39043:
+
+    # "Your eyes turn to the arrangement."
+    "Seus olhos se voltam para o arranjo."
+
+# game/script_amos.rpy:2090
+translate languagetwo amos_dante_leaves_334b95f7:
+
+    # "Brilliant points of burnt orange smattered with long explosions of deep bright yellow birds of paradise flanking a single pink lotus."
+    "Pontos brilhantes de laranja queimado salpicados com longas explosões de estrelítzias amarelo vivo profundo flanqueando uma única lótus rosa."
+
+# game/script_amos.rpy:2091
+translate languagetwo amos_dante_leaves_77a3b646:
+
+    # "Surrounded by purples, blues, and pinks and grand green leaves supporting the entirety."
+    "Cercado por roxos, azuis e rosas e grandes folhas verdes sustentando o todo."
+
+# game/script_amos.rpy:2092
+translate languagetwo amos_dante_leaves_1a605917:
+
+    # "You read the card: {i}Thinking of you. Only. Always. —A.{/i}"
+    "Você lê o cartão: {i}Pensando em você. Somente. Sempre. —A.{/i}"
+
+# game/script_amos.rpy:2094
+translate languagetwo amos_dante_leaves_67976a7b:
+
+    # "You hear whispers behind you."
+    "Você ouve sussurros atrás de você."
+
+# game/script_amos.rpy:2096
+translate languagetwo amos_dante_leaves_4b0738b5:
+
+    # mside "I know you're there, guys."
+    mside "Eu sei que vocês estão aí, pessoal."
+
+# game/script_amos.rpy:2104
+translate languagetwo amos_dante_leaves_c8861db1:
+
+    # ian "Woah. I gotta say, {i}nice{/i} bouquet, dude."
+    ian "Uau. Tenho que dizer, {i}belo{/i} buquê, cara."
 
 # game/script_amos.rpy:2106
 translate languagetwo amos_dante_leaves_1485914f:
