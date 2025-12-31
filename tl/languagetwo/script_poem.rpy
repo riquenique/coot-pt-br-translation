@@ -130,7 +130,7 @@ translate languagetwo strings:
 
     # script_poem.rpy:3
     old "Choose the title of your poem."
-    new "Choose the title of your poem."
+    new "Escolha o título do seu poema."
 
     # script_poem.rpy:3
     old "[mean_title!t]"
@@ -150,7 +150,7 @@ translate languagetwo strings:
 
     # script_poem.rpy:21
     old "Choose the next line of your poem."
-    new "Choose the next line of your poem."
+    new "Escolha a próxima linha do seu poema."
 
     # script_poem.rpy:21
     old "[romantic_l1!t]"
