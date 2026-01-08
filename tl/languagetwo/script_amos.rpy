@@ -5311,136 +5311,118 @@ translate languagetwo amos_dante_leaves_457491a6:
     ian "Uma mera visita? Isso é {i}tão{/i} previsível. Você precisa fazer algo equivalente."
 
 # game/script_amos.rpy:2123
-translate languagetwo amos_dante_leaves_39c36293:
+translate languagetwo amos_dante_leaves_c2842304:
 
-    # ian "Something to match the scale of what he's done."
-    ian "Algo à altura do que ele fez."
+    # lb "Tantamount? To {i}what?{/i}"
+    lb "Essencial? Para {i}o quê?{/i}"
 
 # game/script_amos.rpy:2125
-translate languagetwo amos_dante_leaves_33be2373:
+translate languagetwo amos_dante_leaves_7b2f2c9f:
 
-    # mside "Like what?"
-    mside "Tipo o quê?"
+    # ian "To the progress of the dance."
+    ian "Para o progresso da dança."
 
 # game/script_amos.rpy:2127
-translate languagetwo amos_dante_leaves_f7173322:
+translate languagetwo amos_dante_leaves_b616d6f8:
 
-    # ian "Like... a shrub."
-    ian "Tipo... um arbusto."
+    # lb "Oh my god. {i}What{/i} dance?"
+    lb "Ai meu Deus. {i}Que{/i} dança?"
 
 # game/script_amos.rpy:2129
-translate languagetwo amos_dante_leaves_0ef43714:
+translate languagetwo amos_dante_leaves_3be221ad:
 
-    # lb "A shrub?"
-    lb "Um arbusto?"
+    # ian "The dance of seduction."
+    ian "A dança da sedução."
 
 # game/script_amos.rpy:2131
-translate languagetwo amos_dante_leaves_8af09c95:
+translate languagetwo amos_dante_leaves_334a1960:
 
-    # ian "Yes. A shrub. Flowers are temporary. Shrubs are forever."
-    ian "Sim. Um arbusto. Flores são temporárias. Arbustos são para sempre."
+    # lb "Ian, you're just making this up as you go."
+    lb "Ian, você está inventando isso na hora."
 
 # game/script_amos.rpy:2133
-translate languagetwo amos_dante_leaves_8622c4b6:
+translate languagetwo amos_dante_leaves_8371854a:
 
-    # mside "That sounds... kind of amazing actually."
-    mside "Isso soa... meio incrível, na verdade."
+    # ian "It's called inspiration, Penny. Duh."
+    ian "Chama-se inspiração, Penny. Dã."
 
 # game/script_amos.rpy:2135
-translate languagetwo amos_dante_leaves_ef334966:
+translate languagetwo amos_dante_leaves_983381ea:
 
-    # lb "It really does."
-    lb "Realmente soa."
+    # ian "Dude, look at the whole picture and adjust your strategy, and outdo him with an even BIGGER flower arrangement."
+    ian "Cara, olhe o quadro geral, ajuste sua estratégia e supere-o com um arranjo de flores ainda MAIOR."
 
-# game/script_amos.rpy:2137
-translate languagetwo amos_dante_leaves_7f7dfa4e:
+# game/script_amos.rpy:2138
+translate languagetwo amos_dante_leaves_bfdf3114:
 
-    # ian "I know where we can get a great one. The landscaping in front of your apartment building."
-    ian "Eu sei onde podemos conseguir um ótimo. O paisagismo na frente do prédio do seu apartamento."
+    # mside "Are you kidding? I don't have that kind of money right now."
+    mside "Tá brincando? Não tenho esse tipo de dinheiro agora."
 
-# game/script_amos.rpy:2139
-translate languagetwo amos_dante_leaves_7f202213:
+# game/script_amos.rpy:2140
+translate languagetwo amos_dante_leaves_ca6af860:
 
-    # mside "You mean steal one?"
-    mside "Você quer dizer roubar um?"
-
-# game/script_amos.rpy:2141
-translate languagetwo amos_dante_leaves_3979841f:
-
-    # ian "Borrow. Repurpose. Liberate."
-    ian "Pegar emprestado. Reutilizar. Libertar."
+    # ian "No worries. I'll help you uproot that flower shrub outside and send it to him."
+    ian "Sem problemas. Eu te ajudo a arrancar aquele arbusto de flores lá fora e mandamos para ele."
 
 # game/script_amos.rpy:2143
-translate languagetwo amos_dante_leaves_c6403939:
+translate languagetwo amos_dante_leaves_63dc9440:
 
-    # mside "I don't know..."
-    mside "Eu não sei..."
+    # lb "Um, I don't think that shrub belongs to us."
+    lb "Hum, acho que aquele arbusto não pertence a nós."
 
 # game/script_amos.rpy:2145
-translate languagetwo amos_dante_leaves_36d6a13d:
+translate languagetwo amos_dante_leaves_2fbe3478:
 
-    # ian "Do you want to win his heart or not?"
-    ian "Você quer ganhar o coração dele ou não?"
+    # lb "Oh my god, [m]. You're seriously not going to take Ian's advice, are you? Just surprise Amos with a visit. He'll be delighted."
+    lb "Ai meu Deus, [m]. Você não vai levar a sério o conselho do Ian, vai? Apenas surpreenda o Amos com uma visita. Ele vai adorar."
 
 # game/script_amos.rpy:2147
-translate languagetwo amos_dante_leaves_f91522f7:
+translate languagetwo amos_dante_leaves_e63a67f6:
 
-    # mside "I do."
-    mside "Eu quero."
+    # ian "Sure my advice may seem unconventional. It may even be highly offensive to insipid, commonplace minds."
+    ian "Claro que meu conselho pode parecer não convencional. Pode até ser altamente ofensivo para mentes insípidas e comuns."
 
 # game/script_amos.rpy:2149
-translate languagetwo amos_dante_leaves_a2098274:
+translate languagetwo amos_dante_leaves_0f8c47c1:
 
-    # ian "Then grab a shovel."
-    ian "Então pegue uma pá."
+    # ian "But honestly, have I ever steered you wrong?"
+    ian "Mas honestamente, eu já te dei algum conselho ruim?"
+
+# game/script_amos.rpy:2151
+translate languagetwo amos_dante_leaves_312a7d34:
+
+    # mside "Since you put it that way..."
+    mside "Já que você colocou dessa forma..."
+
+# game/script_amos.rpy:2156
+translate languagetwo amos_dante_leaves_dfc69e6a:
+
+    # lb "Ooh, you're going to adore my bike."
+    lb "Ooh, você vai adorar minha bicicleta."
 
 # game/script_amos.rpy:2157
-translate languagetwo amos_dante_leaves_443224e7:
+translate languagetwo amos_dante_leaves_c73a72c9:
 
-    # "You and Ian head downstairs."
-    "Você e Ian descem as escadas."
+    # lb "Once you hop on that cruiser, you'll wonder why you bother driving anywhere."
+    lb "Assim que você subir naquela cruiser, vai se perguntar por que se incomoda em dirigir para qualquer lugar."
 
-# game/script_amos.rpy:2158
-translate languagetwo amos_dante_leaves_86e7ec6d:
+# game/script_amos.rpy:2164
+translate languagetwo amos_dante_leaves_802fb755:
 
-    # "Under the cover of broad daylight, you dig up a large azalea bush."
-    "Sob a luz do dia, vocês desenterram um grande arbusto de azaleias."
-
-# game/script_amos.rpy:2159
-translate languagetwo amos_dante_leaves_bd977709:
-
-    # "Passersby look at you strangely, but no one stops you."
-    "Transeuntes olham estranho para vocês, mas ninguém os impede."
-
-# game/script_amos.rpy:2160
-translate languagetwo amos_dante_leaves_28979705:
-
-    # "It's surprisingly heavy."
-    "É surpreendentemente pesado."
-
-# game/script_amos.rpy:2161
-translate languagetwo amos_dante_leaves_813c9772:
-
-    # ian "Put it in the basket."
-    ian "Coloque na cesta."
-
-# game/script_amos.rpy:2163
-translate languagetwo amos_dante_leaves_7f74811b:
-
-    # mside "It won't fit."
-    mside "Não vai caber."
+    # "You and Ian go outside and uproot the flower shrub planted in front of the apartment building."
+    "Você e Ian vão lá fora e arrancam o arbusto de flores plantado em frente ao prédio."
 
 # game/script_amos.rpy:2165
 translate languagetwo amos_dante_leaves_10ecd6c0:
 
     # "Ian reassures you nobody will miss it."
-    "Ian garante a você que ninguém sentirá falta."
+    "Ian garante que ninguém vai sentir falta."
 
 # game/script_amos.rpy:2172
 translate languagetwo amos_shrub_8da6f66c:
 
     # "You borrow Penny's purple beach cruiser and pedal your way towards Amos' domicile."
-    "Você pega emprestada a bicicleta praiana roxa da Penny e pedala em direção à residência de Amos."
+    "Você pega emprestada a bicicleta cruiser roxa da Penny e pedala em direção à residência de Amos."
 
 # game/script_amos.rpy:2173
 translate languagetwo amos_shrub_a25ee77d:
@@ -5452,7 +5434,7 @@ translate languagetwo amos_shrub_a25ee77d:
 translate languagetwo amos_shrub_85aa6202:
 
     # mside "Don't you fuckers believe in romance?!"
-    mside "Vocês idiotas não acreditam no romance?!"
+    mside "Vocês, seus merdas, não acreditam em romance?!"
 
 # game/script_amos.rpy:2179
 translate languagetwo amos_shrub_1b5536e9:
@@ -5488,7 +5470,7 @@ translate languagetwo amos_shrub_67a1d3d9:
 translate languagetwo amos_shrub_f67ad721:
 
     # amos "Oh my goodness! You've brought me an...entire shrub."
-    amos "Oh, meu Deus! Você me trouxe um... arbusto inteiro."
+    amos "Oh meu Deus! Você me trouxe um... arbusto inteiro."
 
 # game/script_amos.rpy:2195
 translate languagetwo amos_shrub_bc2c95c2:
@@ -5500,7 +5482,7 @@ translate languagetwo amos_shrub_bc2c95c2:
 translate languagetwo amos_shrub_c47bb714:
 
     # amos "Oh? So they're not exactly yours?"
-    amos "Oh? Então elas não são exatamente suas?"
+    amos "Ah? Então elas não são exatamente suas?"
 
 # game/script_amos.rpy:2199
 translate languagetwo amos_shrub_60b16b74:
@@ -5530,19 +5512,19 @@ translate languagetwo amos_shrub_b33361c6:
 translate languagetwo amos_shrub_aa27b31f:
 
     # mside "Wait! It'll be fine! Just, uh, stick them in water."
-    mside "Espera! Vai ficar tudo bem! Só, uh, coloque na água."
+    mside "Espere! Vai ficar tudo bem! Só, hum, colocar na água."
 
 # game/script_amos.rpy:2207
 translate languagetwo amos_shrub_315ee4e9:
 
     # amos "No, I don't think I will."
-    amos "Não, acho que não vou."
+    amos "Não, acho que não vou fazer isso."
 
 # game/script_amos.rpy:2209
 translate languagetwo amos_shrub_e57eb750:
 
     # amos "Did it ever occur to you this was a fairly terrible idea?"
-    amos "Já ocorreu a você que essa foi uma ideia bem terrível?"
+    amos "Nunca lhe ocorreu que essa era uma ideia bem terrível?"
 
 # game/script_amos.rpy:2211
 translate languagetwo amos_shrub_948f748b:
@@ -5560,7 +5542,7 @@ translate languagetwo amos_shrub_017fdb92:
 translate languagetwo amos_shrub_69bcfbc6:
 
     # amos "[m], please leave."
-    amos "[m], por favor, vá embora."
+    amos "[m], por favor vá embora."
 
 # game/script_amos.rpy:2217
 translate languagetwo amos_shrub_8610b536:
@@ -5578,7 +5560,7 @@ translate languagetwo amos_shrub_02530b88:
 translate languagetwo amos_bicycle_visit_1_8da6f66c:
 
     # "You borrow Penny's purple beach cruiser and pedal your way towards Amos' domicile."
-    "Você pega emprestada a bicicleta praiana roxa da Penny e pedala em direção à residência de Amos."
+    "Você pega emprestada a bicicleta cruiser roxa da Penny e pedala em direção à residência de Amos."
 
 # game/script_amos.rpy:2231
 translate languagetwo amos_bicycle_visit_1_9f712397:
@@ -5590,13 +5572,13 @@ translate languagetwo amos_bicycle_visit_1_9f712397:
 translate languagetwo amos_bicycle_visit_1_bcf530ce:
 
     # thought "Jackass!"
-    thought "Babaca!"
+    thought "Idiota!"
 
 # game/script_amos.rpy:2237
 translate languagetwo amos_bicycle_visit_1_d45ed0b7:
 
     # "You grip the handlebars and grit your teeth."
-    "Você agarra o guidão e range os dentes."
+    "Você agarra o guidão e cerra os dentes."
 
 # game/script_amos.rpy:2238
 translate languagetwo amos_bicycle_visit_1_6b692ac8:
@@ -5608,7 +5590,7 @@ translate languagetwo amos_bicycle_visit_1_6b692ac8:
 translate languagetwo amos_bicycle_visit_1_cdb2c4b9:
 
     # "You can't help it, but you do feel a sense of superiority over the painfully slow moving pedestrians you pass."
-    "Você não consegue evitar, mas sente uma superioridade em relação aos pedestres dolorosamente lentos pelos quais passa."
+    "Você não consegue evitar, mas sente uma sensação de superioridade em relação aos pedestres dolorosamente lentos pelos quais passa."
 
 # game/script_amos.rpy:2240
 translate languagetwo amos_bicycle_visit_1_215adfc3:
@@ -5620,13 +5602,13 @@ translate languagetwo amos_bicycle_visit_1_215adfc3:
 translate languagetwo amos_bicycle_visit_1_66c69b60:
 
     # thought "You idiots don't need cars. Get some exercise! Help the environment! Make the world a little better, for Christ's sake."
-    thought "Vocês idiotas não precisam de carros. Façam exercício! Ajudem o meio ambiente! Tornem o mundo um pouco melhor, pelo amor de Deus."
+    thought "Seus idiotas não precisam de carros. Façam exercício! Ajudem o meio ambiente! Tornem o mundo um pouco melhor, pelo amor de Deus."
 
 # game/script_amos.rpy:2242
 translate languagetwo amos_bicycle_visit_1_1701092c:
 
     # "You yell at a guy who dares to nearly step in front of you."
-    "Você grita com um cara que ousa quase pisar na sua frente."
+    "Você grita com um cara que ousa quase entrar na sua frente."
 
 # game/script_amos.rpy:2244
 translate languagetwo amos_bicycle_visit_1_0eac7df5:
@@ -5656,37 +5638,37 @@ translate languagetwo amos_bicycle_visit_1_fc72e573:
 translate languagetwo amos_bicycle_visit_1_2d0b7bf8:
 
     # "You pull in as close as you can to the sidewalk."
-    "Você encosta o máximo que pode na calçada."
+    "Você se aproxima o máximo que pode da calçada."
 
 # game/script_amos.rpy:2251
 translate languagetwo amos_bicycle_visit_1_4b2888f4:
 
     # thought "*sigh* Nothing's as relaxing as a bike ride on a beautiful day."
-    thought "*suspiro* Nada é tão relaxante quanto um passeio de bicicleta num dia lindo."
+    thought "*suspiro* Nada é tão relaxante quanto um passeio de bicicleta em um dia lindo."
 
 # game/script_amos.rpy:2253
 translate languagetwo amos_bicycle_visit_1_ff4d466a:
 
     # "Then, out of nowhere, without warning or consideration, another cyclist maneuvers around and begins passing you."
-    "Então, do nada, sem aviso ou consideração, outro ciclista manobra e começa a te ultrapassar."
+    "Então, do nada, sem aviso ou consideração, outro ciclista manobra ao redor e começa a te ultrapassar."
 
 # game/script_amos.rpy:2257
 translate languagetwo amos_bicycle_visit_1_d9269c69:
 
     # mside "{i}'Oh look at me. I'm a fancy pants wannabe pro with expensive shorts and a 10 speed.{/i}'"
-    mside "{i}'Oh olhem para mim. Sou um metido a profissional com shorts caros e uma bicicleta de 10 marchas.{/i}'"
+    mside "{i}'Oh, olhem para mim. Sou um metido a profissional com shorts caros e uma bicicleta de 10 marchas.{/i}'"
 
 # game/script_amos.rpy:2258
 translate languagetwo amos_bicycle_visit_1_6c24c29b:
 
     # "The cyclist looks at you from behind his expensive looking, blade sunglasses."
-    "O ciclista olha para você por trás de seus óculos escuros estilo lâmina que parecem caros."
+    "O ciclista olha para você por trás de seus óculos escuros caros e estilosos."
 
 # game/script_amos.rpy:2259
 translate languagetwo amos_bicycle_visit_1_ac0bc58a:
 
     # cyclist1_off "It's a 24 speed."
-    cyclist1_off "É de 24 marchas."
+    cyclist1_off "São 24 marchas."
 
 # game/script_amos.rpy:2261
 translate languagetwo amos_bicycle_visit_1_eee5d3c3:
@@ -5704,7 +5686,7 @@ translate languagetwo amos_bicycle_visit_1_e1875a5e:
 translate languagetwo amos_bicycle_visit_1_40c59b79:
 
     # "You try to give to give him a left-handed low wave, the kind that motorcyclists give each other with two fingers pointed toward the ground, but for some reason you stick your arm straight out."
-    "Você tenta dar um aceno baixo com a mão esquerda, do tipo que motociclistas dão uns aos outros com dois dedos apontados para o chão, mas por algum motivo você estica o braço reto para fora."
+    "Você tenta dar a ele um aceno baixo com a mão esquerda, do tipo que motociclistas dão uns aos outros com dois dedos apontados para o chão, mas por algum motivo você estica o braço reto."
 
 # game/script_amos.rpy:2266
 translate languagetwo amos_bicycle_visit_1_00049a28:
@@ -5722,13 +5704,13 @@ translate languagetwo amos_bicycle_visit_1_5c85f6df:
 translate languagetwo amos_bicycle_visit_1_778ecaac:
 
     # cyclist1_off "That's just for motorcyclists. Bicyclists are too self-involved with riding to wave to each other."
-    cyclist1_off "Isso é só para motociclistas. Ciclistas são muito ensimesmados com a pedalada para acenar uns para os outros."
+    cyclist1_off "Isso é só para motociclistas. Ciclistas estão muito envolvidos em pedalar para acenar uns para os outros."
 
 # game/script_amos.rpy:2271
 translate languagetwo amos_bicycle_visit_1_fbd15181:
 
     # "Without another glance or word, he rides off as quickly as he appeared."
-    "Sem outro olhar ou palavra, ele vai embora tão rápido quanto apareceu."
+    "Sem outro olhar ou palavra, ele se afasta tão rápido quanto apareceu."
 
 # game/script_amos.rpy:2273
 translate languagetwo amos_bicycle_visit_1_9927ad97:
@@ -5746,7 +5728,7 @@ translate languagetwo amos_bicycle_visit_1_9ff6506c:
 translate languagetwo amos_bicycle_visit_1_e278f4f5:
 
     # "After a couple blocks' ride, you find yourself at a four way stop and unable to remember the direction of his house."
-    "Depois de pedalar alguns quarteirões, você se encontra em um cruzamento de quatro vias e incapaz de lembrar a direção da casa dele."
+    "Depois de pedalar alguns quarteirões, você se encontra em um cruzamento de quatro vias e não consegue lembrar a direção da casa dele."
 
 # game/script_amos.rpy:2279
 translate languagetwo amos_bicycle_visit_1_57f89909:
@@ -5758,19 +5740,19 @@ translate languagetwo amos_bicycle_visit_1_57f89909:
 translate languagetwo amos_directions_3bb8faa3:
 
     # "Not in this game. Pick again."
-    "Não neste jogo. Escolha de novo."
+    "Não neste jogo. Escolha novamente."
 
 # game/script_amos.rpy:2301
 translate languagetwo amos_left_turn_2fefea82:
 
     # "You pedal forward, unsure of where you're going."
-    "Você pedala para frente, incerto de para onde está indo."
+    "Você pedala para frente, sem ter certeza de para onde está indo."
 
 # game/script_amos.rpy:2307
 translate languagetwo amos_left_turn_9292e07e:
 
     # "The neighborhood looks less familiar. You have a feeling you went the wrong way."
-    "A vizinhança parece menos familiar. Você tem a sensação de que foi pelo caminho errado."
+    "O bairro parece menos familiar. Você tem a sensação de que foi pelo caminho errado."
 
 # game/script_amos.rpy:2313
 translate languagetwo amos_left_turn_46dea5af:
@@ -5782,7 +5764,7 @@ translate languagetwo amos_left_turn_46dea5af:
 translate languagetwo amos_left_turn_635992f6:
 
     # "You're nearly certain that you've gone the wrong way."
-    "Você está quase certo de que foi pelo caminho errado."
+    "Você tem quase certeza de que foi pelo caminho errado."
 
 # game/script_amos.rpy:2325
 translate languagetwo amos_left_turn_4de52af0:
@@ -5794,187 +5776,289 @@ translate languagetwo amos_left_turn_4de52af0:
 translate languagetwo amos_left_turn_7cc8fc64:
 
     # "You're sure of one thing—that the further you go, the more lost you're becoming."
-    "Você tem certeza de uma coisa — quanto mais você avança, mais perdido você fica."
+    "Você tem certeza de uma coisa — quanto mais você avança, mais perdido fica."
 
 # game/script_amos.rpy:2337
 translate languagetwo amos_left_turn_35c51fa5:
 
     # "Panic grips you as you realize how much time you've wasted and how far off course you've gotten."
-    "O pânico te agarra ao perceber quanto tempo você desperdiçou e o quão longe do curso você chegou."
+    "O pânico toma conta de você ao perceber quanto tempo desperdiçou e o quanto saiu do curso."
 
 # game/script_amos.rpy:2343
 translate languagetwo amos_left_turn_8a0ae9a9:
 
     # "You start thinking that you're squandering your life, stuck in a game with arbitrary rules that no one can ever actually win."
-    "Você começa a pensar que está desperdiçando sua vida, preso num jogo com regras arbitrárias que ninguém pode realmente vencer."
+    "Você começa a pensar que está desperdiçando sua vida, preso em um jogo com regras arbitrárias que ninguém pode realmente vencer."
 
 # game/script_amos.rpy:2349
 translate languagetwo amos_left_turn_fd5e9ed6:
 
     # "It dawns on you that if you make one more wrong choice, you'll never be able to go back."
-    "Você se dá conta de que se fizer mais uma escolha errada, nunca será capaz de voltar."
+    "Você se dá conta de que se fizer mais uma escolha errada, nunca mais poderá voltar."
 
 # game/script_amos.rpy:2355
-translate languagetwo amos_left_turn_97201317:
+translate languagetwo amos_left_turn_ecabbd41:
 
-    # "You feel yourself losing hope."
-    "Você sente que está perdendo a esperança."
+    # "You pedal forward, head down, focusing on the effort, your legs screaming with each push."
+    "Você pedala para frente, cabeça baixa, focando no esforço, suas pernas gritando a cada empurrão."
+
+# game/script_amos.rpy:2356
+translate languagetwo amos_left_turn_d5e27c06:
+
+    # "When you finally look back up, you're in the middle of nowhere. No people nor cars nor houses around, you start to think you're going mad."
+    "Quando você finalmente olha para cima, está no meio do nada. Sem pessoas, nem carros, nem casas por perto, você começa a pensar que está ficando louco."
 
 # game/script_amos.rpy:2362
-translate languagetwo amos_left_turn_393b7495:
+translate languagetwo amos_left_turn_031d59de:
 
-    # "You don't think you can go on much longer."
-    "Você não acha que consegue continuar por muito mais tempo."
+    # "The cold chill in the air, your rumbling stomach, the obsessive thoughts of only moving ahead grip you."
+    "O frio no ar, seu estômago roncando, os pensamentos obsessivos de apenas seguir em frente tomam conta de você."
+
+# game/script_amos.rpy:2363
+translate languagetwo amos_left_turn_a5cfd447:
+
+    # "You begin to understand the world now. How alone all of us are. How you yourself are the only thing you can rely on."
+    "Você começa a entender o mundo agora. O quão sozinhos todos nós estamos. Como você mesmo é a única coisa em que pode confiar."
 
 # game/script_amos.rpy:2369
-translate languagetwo amos_left_turn_c82c4423:
+translate languagetwo amos_left_turn_0145ca50:
 
-    # "This is it. The end of the line."
-    "É isso. O fim da linha."
+    # "You notice a giant of a man standing in the middle of the road, arms out, signaling you to stop."
+    "Você nota um homem gigante parado no meio da estrada, braços abertos, sinalizando para você parar."
+
+# game/script_amos.rpy:2370
+translate languagetwo amos_left_turn_7e55f15c:
+
+    # "You slow down to see what's wrong. He tells you that you're a fool and to turn back now."
+    "Você diminui a velocidade para ver o que há de errado. Ele diz que você é um tolo e que deve voltar agora."
 
 # game/script_amos.rpy:2376
-translate languagetwo amos_left_turn_6be4d693:
+translate languagetwo amos_left_turn_c276f595:
 
-    # "Maybe if you just stop here, someone will find you."
-    "Talvez se você apenas parar aqui, alguém te encontre."
+    # "He screams at you as you go past. His throat thick with phlegm, you can't make out all of his garbled words."
+    "Ele grita com você enquanto você passa. Com a garganta cheia de catarro, você não consegue entender todas as palavras emboladas dele."
+
+# game/script_amos.rpy:2377
+translate languagetwo amos_left_turn_0406b7ef:
+
+    # "You do understand some of it, though. Something about failure and death."
+    "Mas você entende um pouco. Algo sobre fracasso e morte."
+
+# game/script_amos.rpy:2383
+translate languagetwo amos_left_turn_c3ab8e42:
+
+    # "Ahead lies a mob of people who seem to be waiting for you. You hear their shrill yelling and angry barks as you approach."
+    "À frente há uma multidão de pessoas que parecem estar esperando por você. Você ouve seus gritos estridentes e latidos raivosos enquanto se aproxima."
 
 # game/script_amos.rpy:2384
-translate languagetwo amos_left_turn_4b5247c7:
+translate languagetwo amos_left_turn_8a902d8d:
 
-    # "Or maybe they won't. Maybe you'll just fade away."
-    "Ou talvez não. Talvez você apenas desapareça."
+    # "They call you arrogant, reckless, stupid, ugly, pompous, a loser, worthless."
+    "Eles te chamam de arrogante, imprudente, estúpido, feio, pomposo, perdedor, inútil."
+
+# game/script_amos.rpy:2385
+translate languagetwo amos_left_turn_7876e468:
+
+    # "Some of them threaten you with injury. Others threaten to never speak to you again if you don't stop."
+    "Alguns deles ameaçam te machucar. Outros ameaçam nunca mais falar com você se você não parar."
 
 # game/script_amos.rpy:2391
-translate languagetwo amos_left_turn_a20cefa7:
+translate languagetwo amos_left_turn_4410aa50:
 
-    # "..."
-    "..."
+    # "You keep going, feeling stronger the further you go. You're loving the ride. But you notice something in the distance."
+    "Você continua, sentindo-se mais forte quanto mais avança. Você está adorando o passeio. Mas nota algo à distância."
+
+# game/script_amos.rpy:2392
+translate languagetwo amos_left_turn_b761b233:
+
+    # "It's a woman in a tuxedo and top hat standing in a makeshift stall."
+    "É uma mulher de smoking e cartola em uma barraca improvisada."
+
+# game/script_amos.rpy:2393
+translate languagetwo amos_left_turn_34f1c0b0:
+
+    # "The stall is filled with wonderful things. Beautiful, shining metals and sparkling jewels entrance you. Delicious foods of all kinds and refreshing drinks make you salivate."
+    "A barraca está cheia de coisas maravilhosas. Metais lindos e brilhantes e joias cintilantes te encantam. Comidas deliciosas de todos os tipos e bebidas refrescantes te fazem salivar."
+
+# game/script_amos.rpy:2394
+translate languagetwo amos_left_turn_12f719c5:
+
+    # "You see fine silk pillows of every color imaginable and amazing pictures showing exotic vacation places hanging from the stall's frame."
+    "Você vê almofadas de seda fina de todas as cores imagináveis e fotos incríveis mostrando lugares de férias exóticos penduradas na estrutura da barraca."
+
+# game/script_amos.rpy:2395
+translate languagetwo amos_left_turn_36b5f301:
+
+    # "The woman holds a clipboard with a very official looking contract."
+    "A mulher segura uma prancheta com um contrato de aparência muito oficial."
 
 # game/script_amos.rpy:2396
-translate languagetwo amos_left_turn_9927ad97:
+translate languagetwo amos_left_turn_72f41fc1:
 
-    # mside "..."
-    mside "..."
+    # "At the top of the contract, you see the words 'Terms for Sale of Soul.'"
+    "No topo do contrato, você vê as palavras 'Termos para Venda da Alma'."
 
-# game/script_amos.rpy:2402
-translate languagetwo amos_left_turn_9927ad97_1:
+# game/script_amos.rpy:2397
+translate languagetwo amos_left_turn_b4cc09a6:
 
-    # mside "..."
-    mside "..."
+    # "She smiles wide and warm, extending the clipboard in one hand and a pen in the other."
+    "Ela sorri largo e caloroso, estendendo a prancheta em uma mão e uma caneta na outra."
+
+# game/script_amos.rpy:2403
+translate languagetwo amos_left_turn_074c3e22:
+
+    # "The pain of exertion, the loneliness, and the cold air are your fuel. You understand that you don't know where you're going, only that you must get to wherever it is."
+    "A dor do esforço, a solidão e o ar frio são seu combustível. Você entende que não sabe para onde está indo, apenas que deve chegar onde quer que seja."
 
 # game/script_amos.rpy:2409
-translate languagetwo amos_left_turn_9927ad97_2:
+translate languagetwo amos_left_turn_7cb4c520:
 
-    # mside "..."
-    mside "..."
+    # "Your feet and legs now numb, your mind as quiet as a Sunday morning, you feel an encompassing serenity in your being."
+    "Seus pés e pernas agora dormentes, sua mente tranquila como uma manhã de domingo, você sente uma serenidade abrangente em seu ser."
 
-# game/script_amos.rpy:2415
-translate languagetwo amos_left_turn_a20cefa7_1:
+# game/script_amos.rpy:2410
+translate languagetwo amos_left_turn_36c732d2:
 
-    # "..."
-    "..."
+    # "You feel more animal than human, more natural than you've ever felt."
+    "Você se sente mais animal do que humano, mais natural do que nunca sentiu."
+
+# game/script_amos.rpy:2416
+translate languagetwo amos_left_turn_48a7d687:
+
+    # "You begin to notice the repetition of the ride. No matter how far you go, it seems like you're in the same spot."
+    "Você começa a notar a repetição do passeio. Não importa o quanto você ande, parece que está no mesmo lugar."
 
 # game/script_amos.rpy:2423
-translate languagetwo bike_ride_boring_c4b05937:
+translate languagetwo bike_ride_boring_4c073165:
 
-    # "You continue pedaling through the neighborhood."
-    "Você continua pedalando pela vizinhança."
-
-# game/script_amos.rpy:2424
-translate languagetwo bike_ride_boring_7a8276f7:
-
-    # "The houses all look surprisingly similar."
-    "As casas parecem todas surpreendentemente iguais."
-
-# game/script_amos.rpy:2434
-translate languagetwo bike_ride_boring_877c449c:
-
-    # "You pass a blue house with a white picket fence."
-    "Você passa por uma casa azul com uma cerca branca."
+    # "You've grown too accustomed to the routine. The sameness of each moment starts to wear on you. You long to see something new."
+    "Você se acostumou demais com a rotina. A mesmice de cada momento começa a te desgastar. Você anseia ver algo novo."
 
 # game/script_amos.rpy:2435
-translate languagetwo bike_ride_boring_a0720464:
+translate languagetwo bike_ride_boring_a2264dbc:
 
-    # "Then a white house with a blue picket fence."
-    "Depois uma casa branca com uma cerca azul."
+    # "You persisted! You ride on, gliding along the pavement at a quickened pace, but it doesn't even feel like work anymore. Your body, bicycle, the road and the speed have become a single thing."
+    "Você persistiu! Você continua, deslizando pelo asfalto em um ritmo acelerado, mas nem parece trabalho mais. Seu corpo, a bicicleta, a estrada e a velocidade tornaram-se uma coisa só."
 
 # game/script_amos.rpy:2441
-translate languagetwo bike_ride_boring_524e9333:
+translate languagetwo bike_ride_boring_da1d0f9d:
 
-    # "You begin to wonder if you're riding in circles."
-    "Você começa a se perguntar se está andando em círculos."
+    # "You're cruising along, when all of a sudden you feel a twinge in your hamstring."
+    "Você está pedalando tranquilamente, quando de repente sente uma pontada no tendão."
 
 # game/script_amos.rpy:2442
-translate languagetwo bike_ride_boring_6259c77e:
+translate languagetwo bike_ride_boring_aeba7a08:
 
-    # "But you check your compass and you're heading... well, you don't have a compass."
-    "Mas você checa sua bússola e está indo... bem, você não tem uma bússola."
-
-# game/script_amos.rpy:2447
-translate languagetwo bike_ride_boring_2340ae1e:
-
-    # "Your legs start to burn."
-    "Suas pernas começam a queimar."
+    # "The pain surprises you and you jerk the handlebars, crashing hard into a ditch along the side of the road."
+    "A dor te surpreende e você puxa o guidão, batendo com força em uma vala ao lado da estrada."
 
 # game/script_amos.rpy:2448
-translate languagetwo bike_ride_boring_46dea5af:
+translate languagetwo bike_ride_boring_d7ac55f3:
 
-    # "The wind begins to blow. You feel uncomfortably cold."
-    "O vento começa a soprar. Você sente um frio desconfortável."
-
-# game/script_amos.rpy:2453
-translate languagetwo bike_ride_boring_12fa76f1:
-
-    # "You see a squirrel."
-    "Você vê um esquilo."
+    # "The bicycle's front wheel is mangled, rendering the bike useless. Your thigh screams with pain and you're now walking with a limp. You're also missing a shoe."
+    "A roda dianteira da bicicleta está destruída, tornando-a inútil. Sua coxa grita de dor e você agora está mancando. Você também perdeu um sapato."
 
 # game/script_amos.rpy:2454
-translate languagetwo bike_ride_boring_22557454:
+translate languagetwo bike_ride_boring_5961e3f5:
 
-    # "It judges you."
-    "Ele te julga."
+    # "Your progress is slow, but you're still moving forward. Moving forward seems like the only thing you know how to do anymore."
+    "Seu progresso é lento, mas você ainda está avançando. Seguir em frente parece ser a única coisa que você sabe fazer agora."
+
+# game/script_amos.rpy:2460
+translate languagetwo bike_ride_boring_e4af9f22:
+
+    # "You feel a stinging fire in your foot and jump away. You've stepped on a bee."
+    "Você sente um fogo ardente no pé e pula para longe. Você pisou em uma abelha."
 
 # game/script_amos.rpy:2461
-translate languagetwo bike_ride_boring_05632f0e:
+translate languagetwo bike_ride_boring_b526056b:
 
-    # "You're tired. So very tired."
-    "Você está cansado. Tão cansado."
+    # "You inspect the damage and remove the stinger. You've always been slightly allergic to bee stings and the swelling is already noticeable."
+    "Você inspeciona o dano e remove o ferrão. Você sempre foi levemente alérgico a picadas de abelha e o inchaço já é notável."
 
 # game/script_amos.rpy:2462
-translate languagetwo bike_ride_boring_2183e910:
+translate languagetwo bike_ride_boring_04598220:
 
-    # "Why did you choose to go left? Why?"
-    "Por que você escolheu ir para a esquerda? Por quê?"
+    # "You can no longer walk."
+    "Você não consegue mais andar."
 
 # game/script_amos.rpy:2468
-translate languagetwo bike_ride_boring_74201015:
+translate languagetwo bike_ride_boring_edc7584f:
 
-    # "Is this hell? It feels like a very mundane version of hell."
-    "Isso é o inferno? Parece uma versão muito mundana do inferno."
+    # "Stannis-like, you heedlessly push on, crawling forward. Every inch is a struggle, pain and discomfort your new companions."
+    "Como Stannis, você avança sem pensar, rastejando para frente. Cada centímetro é uma luta, dor e desconforto seus novos companheiros."
 
-# game/script_amos.rpy:2474
-translate languagetwo bike_ride_boring_5a33990d:
+# game/script_amos.rpy:2469
+translate languagetwo bike_ride_boring_6f357dab:
 
-    # "You think about just lying down in the gutter and accepting your fate."
-    "Você pensa em apenas se deitar na sarjeta e aceitar seu destino."
+    # "Looking up at the sky, you begin to wonder why and how this is happening. Why and how anything happens."
+    "Olhando para o céu, você começa a se perguntar por que e como isso está acontecendo. Por que e como qualquer coisa acontece."
 
-# game/script_amos.rpy:2480
-translate languagetwo bike_ride_boring_3ec20076:
+# game/script_amos.rpy:2475
+translate languagetwo bike_ride_boring_bdcb7386:
 
-    # "But something inside you pushes you on."
-    "Mas algo dentro de você te impulsiona."
+    # "You're not sure if time is moving fast or slow, but you know your progress is minimal. The sun creeping down toward the horizon, you begin to doubt yourself again."
+    "Você não tem certeza se o tempo está passando rápido ou devagar, mas sabe que seu progresso é mínimo. Com o sol descendo em direção ao horizonte, você começa a duvidar de si mesmo novamente."
 
 # game/script_amos.rpy:2481
-translate languagetwo bike_ride_boring_c4b9015e:
+translate languagetwo bike_ride_boring_f1a550be:
 
-    # "The indomitable human spirit. Or maybe just the need to pee."
-    "O espírito humano indomável. Ou talvez apenas a vontade de fazer xixi."
+    # "You stop thinking about it and drag yourself forward. Exhaustion eventually overtakes you and you put your head down to rest."
+    "Você para de pensar nisso e se arrasta para frente. A exaustão eventualmente toma conta de você e você abaixa a cabeça para descansar."
+
+# game/script_amos.rpy:2487
+translate languagetwo bike_ride_boring_fcf4d7b1:
+
+    # "You nod off, every inch of your body tired and aching, falling fast asleep."
+    "Você cochila, cada centímetro do seu corpo cansado e dolorido, caindo em sono profundo."
+
+# game/script_amos.rpy:2488
+translate languagetwo bike_ride_boring_3033631f:
+
+    # "When you wake up, it's daytime."
+    "Quando você acorda, é dia."
+
+# game/script_amos.rpy:2489
+translate languagetwo bike_ride_boring_7a0ac3d9:
+
+    # "Looking around, you're shocked to find yourself at the same four-way stop you started at."
+    "Olhando em volta, você fica chocado ao se encontrar no mesmo cruzamento de quatro vias onde começou."
+
+# game/script_amos.rpy:2490
+translate languagetwo bike_ride_boring_778e7fa1:
+
+    # "You notice your leg feels better and the swelling in your foot has subsided."
+    "Você percebe que sua perna está melhor e o inchaço no pé diminuiu."
+
+# game/script_amos.rpy:2491
+translate languagetwo bike_ride_boring_b2481c26:
+
+    # "Penny's bike parked next to you looks as good as new."
+    "A bicicleta da Penny estacionada ao seu lado parece nova em folha."
+
+# game/script_amos.rpy:2492
+translate languagetwo bike_ride_boring_8b909b19:
+
+    # "You recollect the prior events, pondering what it means."
+    "Você relembra os eventos anteriores, ponderando o que isso significa."
+
+# game/script_amos.rpy:2493
+translate languagetwo bike_ride_boring_a33ac70b:
+
+    # "Then, like you're seeing color for the first time in your life, the answer becomes clear to you."
+    "Então, como se estivesse vendo cores pela primeira vez na vida, a resposta fica clara para você."
+
+# game/script_amos.rpy:2494
+translate languagetwo bike_ride_boring_18ae934a:
+
+    # thought "No matter how much you doubt yourself, how much other people don't like it, or how boring or difficult things get, if you persevere, you will get to where you're going."
+    thought "Não importa o quanto você duvide de si mesmo, o quanto outras pessoas não gostem, ou o quão chatas ou difíceis as coisas fiquem, se você perseverar, chegará aonde está indo."
 
 # game/script_amos.rpy:2495
 translate languagetwo bike_ride_boring_ff00c1df:
 
     # "You remember the words of Longfellow. {i}If you only knock long enough and loud enough at the gate, you are sure to wake up somebody.{/i}"
-    "Você se lembra das palavras de Longfellow. {i}Se você bater por tempo suficiente e alto o suficiente no portão, com certeza acordará alguém.{/i}"
+    "Você se lembra das palavras de Longfellow. {i}Se você bater tempo e alto o suficiente no portão, com certeza acordará alguém.{/i}"
 
 # game/script_amos.rpy:2496
 translate languagetwo bike_ride_boring_fd1cd2f7:
@@ -5986,7 +6070,7 @@ translate languagetwo bike_ride_boring_fd1cd2f7:
 translate languagetwo bike_ride_boring_8e0120fb:
 
     # "On the ground in front of you sits a crisp, clean hundred dollar bill."
-    "No chão à sua frente está uma nota de cem dólares novinha em folha."
+    "No chão à sua frente está uma nota de cem dólares novinha e limpa."
 
 # game/script_amos.rpy:2502
 translate languagetwo bike_ride_boring_42bac7ad:
@@ -5998,7 +6082,7 @@ translate languagetwo bike_ride_boring_42bac7ad:
 translate languagetwo bike_ride_boring_1ac9d0e6:
 
     # "(You now have an extra $100 in your account.)"
-    "(Você agora tem $100 extras na sua conta.)"
+    "(Você agora tem $100 extras em sua conta.)"
 
 # game/script_amos.rpy:2504
 translate languagetwo bike_ride_boring_e2e78ccc:
@@ -6028,13 +6112,13 @@ translate languagetwo bike_ride_boring_4502c253:
 translate languagetwo amos_right_turn_375c44e3:
 
     # "This time you take the road going to the right instead."
-    "Desta vez você pega a estrada indo para a direita."
+    "Desta vez você pega a estrada que vai para a direita."
 
 # game/script_amos.rpy:2525
 translate languagetwo amos_right_turn_house_a4648aef:
 
     # "Two blocks up the street, you see it. The quaint yellow house you saw from a distance on your first date."
-    "A dois quarteirões acima na rua, você a vê. A pitoresca casa amarela que você viu à distância no seu primeiro encontro."
+    "Dois quarteirões adiante, você vê. A casa amarela pitoresca que você viu de longe no seu primeiro encontro."
 
 # game/script_amos.rpy:2526
 translate languagetwo amos_right_turn_house_e41c0203:
@@ -6046,13 +6130,13 @@ translate languagetwo amos_right_turn_house_e41c0203:
 translate languagetwo amos_right_turn_house_ece3d10b:
 
     # "Thinking maybe this was a bad idea, you nevertheless proceed."
-    "Pensando que talvez isso tenha sido uma má ideia, você prossegue mesmo assim."
+    "Pensando que talvez isso fosse uma má ideia, você prossegue mesmo assim."
 
 # game/script_amos.rpy:2528
 translate languagetwo amos_right_turn_house_2e043b5e:
 
     # "Just a few houses to go when you see them. Two men, bearded and burly, getting off their motorcycles and waltzing up Amos' driveway. You halt your progress and observe."
-    "Faltando apenas algumas casas, você os vê. Dois homens, barbudos e corpulentos, descendo de suas motocicletas e entrando tranquilamente na garagem de Amos. Você interrompe seu progresso e observa."
+    "Faltam apenas algumas casas quando você os vê. Dois homens, barbudos e robustos, descendo de suas motocicletas e entrando na garagem de Amos. Você para seu progresso e observa."
 
 # game/script_amos.rpy:2529
 translate languagetwo amos_right_turn_house_248a942c:
@@ -6082,7 +6166,7 @@ translate languagetwo amos_right_turn_house_92873cec:
 translate languagetwo amos_right_turn_house_e20513f5:
 
     # "From inside the dwelling you hear laughter."
-    "De dentro da residência, você ouve risadas."
+    "De dentro da residência você ouve risadas."
 
 # game/script_amos.rpy:2537
 translate languagetwo amos_right_turn_house_3d771f1d:
@@ -6124,7 +6208,7 @@ translate languagetwo amos_right_turn_house_9a1fd54f:
 translate languagetwo amos_right_turn_house_f17fc934:
 
     # thought "What the hell? Do I even want to know?"
-    thought "Que diabos? Será que eu quero saber?"
+    thought "Que diabos? Eu quero mesmo saber?"
 
 # game/script_amos.rpy:2545
 translate languagetwo amos_right_turn_house_01217aeb:
@@ -6136,13 +6220,13 @@ translate languagetwo amos_right_turn_house_01217aeb:
 translate languagetwo amos_right_turn_house_0d4634c5:
 
     # "Your hapless, stupid foot knocks over a small potted flower, which thuds against the concrete and makes an unpleasant grinding sound as it rolls."
-    "Seu pé infeliz e estúpido derruba um pequeno vaso de flores, que bate no concreto e faz um som desagradável de trituração enquanto rola."
+    "Seu pé desajeitado e estúpido derruba um pequeno vaso de flores, que bate contra o concreto e faz um som desagradável de trituração enquanto rola."
 
 # game/script_amos.rpy:2552
 translate languagetwo amos_right_turn_house_74397789:
 
     # "From inside, rising above the raucous noises of whatever the hell's going on, you hear Dulcie's bark. Loud, shrill, alarmed. She's onto you."
-    "De dentro, erguendo-se acima dos ruídos estridentes do que quer que esteja acontecendo, você ouve o latido de Dulcie. Alto, agudo, alarmado. Ela te descobriu."
+    "De dentro, subindo acima dos ruídos estridentes de seja lá o que diabos esteja acontecendo, você ouve o latido de Dulcie. Alto, agudo, alarmado. Ela descobriu você."
 
 # game/script_amos.rpy:2554
 translate languagetwo amos_right_turn_house_9378b17a:
@@ -6154,7 +6238,7 @@ translate languagetwo amos_right_turn_house_9378b17a:
 translate languagetwo amos_right_turn_house_0e5206e0:
 
     # "Dulcie’s bark sets off the neighborhood’s dogs."
-    "O latido de Dulcie dispara os cachorros da vizinhança."
+    "O latido de Dulcie aciona os cachorros da vizinhança."
 
 # game/script_amos.rpy:2558
 translate languagetwo amos_right_turn_house_df8af934:
@@ -6172,7 +6256,7 @@ translate languagetwo amos_right_turn_house_3f4be9c0:
 translate languagetwo amos_right_turn_house_14780ae8:
 
     # thought "Oh crap!"
-    thought "Ah, droga!"
+    thought "Ah droga!"
 
 # game/script_amos.rpy:2563
 translate languagetwo amos_right_turn_house_9b7f4510:
@@ -6190,19 +6274,19 @@ translate languagetwo amos_right_turn_house_de7ccf43:
 translate languagetwo amos_right_turn_house_3352989f:
 
     # amos_off "I don’t know. There’s been someone in the neighborhood who’s been stealing dogs, though. Took this kid’s English bulldog puppies last week."
-    amos_off "Eu não sei. Mas tem alguém no bairro roubando cachorros. Levou os filhotes de bulldog inglês de um garoto na semana passada."
+    amos_off "Não sei. Mas tem alguém no bairro que anda roubando cachorros. Levou os filhotes de buldogue inglês de um garoto semana passada."
 
 # game/script_amos.rpy:2566
 translate languagetwo amos_right_turn_house_3b9d3fd4:
 
     # amos_off "I’m worried they’re either using them as bait for dog fighting, or reselling them. Either way, it’s about as low as you can go."
-    amos_off "Estou preocupado que estejam usando-os como isca para rinha de cães ou revendendo-os. De qualquer forma, é o mais baixo que se pode chegar."
+    amos_off "Estou preocupado que estejam usando-os como isca para briga de cães, ou revendendo. De qualquer forma, é o mais baixo que se pode chegar."
 
 # game/script_amos.rpy:2567
 translate languagetwo amos_right_turn_house_2de1811c:
 
     # biker2_off "Awww, poor little pups! Good thing I brought Little Sally today. That thief won’t be stealin’ nuthin’ when I put a bullet in each of his kneecaps."
-    biker2_off "Awww, pobrezinhos! Ainda bem que trouxe a Pequena Sally hoje. Aquele ladrão não vai roubar nada quando eu colocar uma bala em cada um dos joelhos dele."
+    biker2_off "Own, pobrezinhos! Ainda bem que trouxe a Pequena Sally hoje. Aquele ladrão não vai roubar nada quando eu meter uma bala em cada um dos joelhos dele."
 
 # game/script_amos.rpy:2568
 translate languagetwo amos_right_turn_house_11f71ea0:
@@ -6226,13 +6310,211 @@ translate languagetwo amos_right_turn_house_3f935b50:
 translate languagetwo amos_right_turn_house_958a9631:
 
     # "Shaking in terror, you haul ass to the cruiser and pedal away as fast as your legs can move you."
-    "Tremendo de terror, você corre para a bicicleta e pedala o mais rápido que suas pernas conseguem mover."
+    "Tremendo de terror, você corre para a bicicleta e pedala o mais rápido que suas pernas conseguem te mover."
+
+# game/script_amos.rpy:2577
+translate languagetwo amos_right_turn_house_50f992e3:
+
+    # "You feel relieved once you’re away from Amos' house, but also thoroughly embarrassed."
+    "Você se sente aliviado quando está longe da casa de Amos, mas também completamente envergonhado."
+
+# game/script_amos.rpy:2578
+translate languagetwo amos_right_turn_house_82782211:
+
+    # "How are you going to tell him you saw those men enter his house, and heard all the commotion inside, without seeming like some crazy stalker?"
+    "Como você vai dizer a ele que viu aqueles homens entrarem na casa dele, e ouviu toda a comoção lá dentro, sem parecer um perseguidor maluco?"
+
+# game/script_amos.rpy:2579
+translate languagetwo amos_right_turn_house_126c5291:
+
+    # thought "By the way… I was in your neighborhood the other day and listening on your doorstep…"
+    thought "A propósito... eu estava no seu bairro outro dia e ouvindo na sua porta..."
+
+# game/script_amos.rpy:2580
+translate languagetwo amos_right_turn_house_3615985c:
+
+    # "Maybe you should just pretend you were never there."
+    "Talvez você deva apenas fingir que nunca esteve lá."
+
+# game/script_amos.rpy:2588
+translate languagetwo amos_flowers_2_b2e532c3:
+
+    # timestamp "TUESDAY"
+    timestamp "TERÇA-FEIRA"
+
+# game/script_amos.rpy:2590
+translate languagetwo amos_flowers_2_9d31d444:
+
+    # "You're still thinking about what you saw and heard at Amos' house when the doorbell rings."
+    "Você ainda está pensando no que viu e ouviu na casa de Amos quando a campainha toca."
+
+# game/script_amos.rpy:2591
+translate languagetwo amos_flowers_2_416907f2:
+
+    # "You go to answer."
+    "Você vai atender."
+
+# game/script_amos.rpy:2592
+translate languagetwo amos_flowers_2_134e0d4d:
+
+    # "It's the delivery guy holding a single, red rose."
+    "É o entregador segurando uma única rosa vermelha."
+
+# game/script_amos.rpy:2599
+translate languagetwo amos_flowers_2_0a81e962:
+
+    # danteside "Never thought you'd see ME again, huh?"
+    danteside "Nunca pensou que me veria de novo, né?"
+
+# game/script_amos.rpy:2600
+translate languagetwo amos_flowers_2_75352b87:
+
+    # danteside "Hope you enjoyed the bouquet for your family that was {i}killed on a ski lift by an avalanche{/i}."
+    danteside "Espero que tenha gostado do buquê para sua família que foi {i}morta em um teleférico por uma avalanche{/i}."
+
+# game/script_amos.rpy:2602
+translate languagetwo amos_flowers_2_061fabe9:
+
+    # mside "Oh. Uh. I sure did."
+    mside "Ah. Hã. Com certeza."
+
+# game/script_amos.rpy:2604
+translate languagetwo amos_flowers_2_c5145a1c:
+
+    # danteside "That was a good one. That was a very funny joke."
+    danteside "Essa foi boa. Essa foi uma piada muito engraçada."
+
+# game/script_amos.rpy:2606
+translate languagetwo amos_flowers_2_9c6aa823:
+
+    # mside "You know, I've always thought about becoming a comedian."
+    mside "Sabe, sempre pensei em virar comediante."
+
+# game/script_amos.rpy:2608
+translate languagetwo amos_flowers_2_e0e59771:
+
+    # danteside "Don't. Anyway, here you go."
+    danteside "Não vire. Enfim, aqui está."
+
+# game/script_amos.rpy:2609
+translate languagetwo amos_flowers_2_670c726b:
+
+    # "He thrusts the rose in your face."
+    "Ele enfia a rosa na sua cara."
+
+# game/script_amos.rpy:2612
+translate languagetwo amos_flowers_2_a7f049df:
+
+    # mside "That's sweet."
+    mside "Que doce."
+
+# game/script_amos.rpy:2614
+translate languagetwo amos_flowers_2_f8e57bdd:
+
+    # danteside "I imagine this is for somebody else that died? A single, red, condolences rose?"
+    danteside "Imagino que isso seja para outra pessoa que morreu? Uma única rosa vermelha de condolências?"
+
+# game/script_amos.rpy:2616
+translate languagetwo amos_flowers_2_f0be4324:
+
+    # mside "Heh, yeah. But only one flower this time? Unexpected, but inspired."
+    mside "Heh, é. Mas só uma flor dessa vez? Inesperado, mas inspirado."
+
+# game/script_amos.rpy:2619
+translate languagetwo amos_flowers_2_4185d596:
+
+    # danteside "Never thought you'd run into me again, huh? Or expected to deal with that {i}delivery guy{/i} again, did you?"
+    danteside "Nunca pensou que toparia comigo de novo, né? Ou esperava lidar com aquele {i}entregador{/i} de novo, esperava?"
+
+# game/script_amos.rpy:2621
+translate languagetwo amos_flowers_2_49f164f9:
+
+    # mside "Urh, not really."
+    mside "Hã, na verdade não."
+
+# game/script_amos.rpy:2622
+translate languagetwo amos_flowers_2_a9a74fcf:
+
+    # danteside "Of course you wouldn't. Self-obsessed jerk."
+    danteside "Claro que não. Idiota egocêntrico."
+
+# game/script_amos.rpy:2623
+translate languagetwo amos_flowers_2_ac94f075:
+
+    # danteside "It didn't go so well, did it? Do you remember any of that or were you too busy thinking of how great you are?"
+    danteside "Não foi muito bem, foi? Você se lembra de alguma coisa daquilo ou estava muito ocupado pensando em como você é incrível?"
+
+# game/script_amos.rpy:2625
+translate languagetwo amos_flowers_2_4b625469:
+
+    # mside "Oh yeah. Sorry about all that."
+    mside "Ah sim. Desculpe por tudo aquilo."
+
+# game/script_amos.rpy:2626
+translate languagetwo amos_flowers_2_34b37cfd:
+
+    # danteside "It's a little late for apologies, {i}friend.{/i}"
+    danteside "É um pouco tarde para desculpas, {i}amigo.{/i}"
+
+# game/script_amos.rpy:2628
+translate languagetwo amos_flowers_2_9b6080ad:
+
+    # "Ignoring his glare, you take the rose from him."
+    "Ignorando o olhar dele, você pega a rosa."
+
+# game/script_amos.rpy:2629
+translate languagetwo amos_flowers_2_4c6f9d5b:
+
+    # mside "Wow. One beautiful red rose."
+    mside "Uau. Uma linda rosa vermelha."
+
+# game/script_amos.rpy:2632
+translate languagetwo amos_flowers_2_7c7f68d0:
+
+    # danteside "Not exactly. I've got thirty-five more of these and I'm supposed to deliver one every five minutes for the next three hours."
+    danteside "Não exatamente. Tenho mais trinta e cinco dessas e devo entregar uma a cada cinco minutos pelas próximas três horas."
+
+# game/script_amos.rpy:2634
+translate languagetwo amos_flowers_2_d06a21f7:
+
+    # mside "Seriously?"
+    mside "Sério?"
+
+# game/script_amos.rpy:2636
+translate languagetwo amos_flowers_2_4afd4eff:
+
+    # danteside "There's no way I'm doing that. So take your pick. I'll bring them all in right now or they're going in the trash."
+    danteside "De jeito nenhum que eu vou fazer isso. Então escolha. Eu trago todas agora mesmo ou elas vão para o lixo."
+
+# game/script_amos.rpy:2638
+translate languagetwo amos_flowers_2_eee9c5d4:
+
+    # mside "Fine. Bring them in."
+    mside "Tudo bem. Traga elas."
+
+# game/script_amos.rpy:2640
+translate languagetwo amos_flowers_2_c4697a67:
+
+    # danteside "I'm going to need the tip first, pal. There's no way I'm trusting your ass."
+    danteside "Vou precisar da gorjeta primeiro, amigo. De jeito nenhum vou confiar em você."
+
+# game/script_amos.rpy:2644
+translate languagetwo amos_flowers_2_34d4df75:
+
+    # "You give him a five dollar tip."
+    "Você dá a ele uma gorjeta de cinco dólares."
+
+# game/script_amos.rpy:2646
+translate languagetwo amos_flowers_2_5e112557:
+
+    # danteside "The miser unclenches his fist for the first time in his life. For truth and beauty and love and all that stuff, right? {i}How romantic{/i}."
+    danteside "O avarento abre a mão pela primeira vez na vida. Pela verdade e beleza e amor e tudo isso, certo? {i}Que romântico{/i}."
 
 # game/script_amos.rpy:2648
 translate languagetwo amos_flowers_2_434bdf62:
 
     # mside "Just get my roses."
-    mside "Apenas pegue minhas rosas."
+    mside "Só pegue minhas rosas."
 
 # game/script_amos.rpy:2650
 translate languagetwo amos_flowers_2_fa623bc5:
@@ -6244,7 +6526,7 @@ translate languagetwo amos_flowers_2_fa623bc5:
 translate languagetwo amos_flowers_2_e58a75fc:
 
     # danteside "Fine. I'm going to remember this. {i}Friend.{/i}"
-    danteside "Tá bom. Eu vou me lembrar disso. {i}Amigo.{/i}"
+    danteside "Tá bom. Vou me lembrar disso. {i}Amigo.{/i}"
 
 # game/script_amos.rpy:2657
 translate languagetwo amos_flowers_2_ced61063:
@@ -6268,25 +6550,25 @@ translate languagetwo amos_flowers_2_9d6eb49d:
 translate languagetwo amos_flowers_2_da28d038:
 
     # mside "Well. Uh..."
-    mside "Bem. Uh..."
+    mside "Bem. Hã..."
 
 # game/script_amos.rpy:2665
 translate languagetwo amos_flowers_2_33e4718a:
 
     # mside "Uh..."
-    mside "Uh..."
+    mside "Hã..."
 
 # game/script_amos.rpy:2667
 translate languagetwo amos_flowers_2_6b850e3a:
 
     # danteside "That's right. You got nothin.'"
-    danteside "Isso mesmo. Você não tem nada."
+    danteside "É isso aí. Você não tem nada."
 
 # game/script_amos.rpy:2669
 translate languagetwo amos_flowers_2_e1a51a9d:
 
     # mside "Well, you know what? I'm in college! I'll graduate and get a {i}real{/i} job while you slowly wither away working meaningless hours to build someone else's fortune."
-    mside "Bem, sabe de uma coisa? Eu estou na faculdade! Vou me formar e arranjar um emprego {i}de verdade{/i} enquanto você murcha lentamente trabalhando horas sem sentido para construir a fortuna de outra pessoa."
+    mside "Bem, quer saber? Estou na faculdade! Vou me formar e conseguir um emprego {i}de verdade{/i} enquanto você definha lentamente trabalhando horas sem sentido para construir a fortuna de outra pessoa."
 
 # game/script_amos.rpy:2671
 translate languagetwo amos_flowers_2_6c794cf8:
@@ -6304,7 +6586,7 @@ translate languagetwo amos_flowers_2_7d17819c:
 translate languagetwo amos_flowers_2_6bb23c2a:
 
     # danteside "Yeah. I'll go get your flowers, sir."
-    danteside "Sim. Vou buscar suas flores, senhor."
+    danteside "Sim. Vou pegar suas flores, senhor."
 
 # game/script_amos.rpy:2677
 translate languagetwo amos_flowers_2_7257a6b3:
@@ -6316,13 +6598,13 @@ translate languagetwo amos_flowers_2_7257a6b3:
 translate languagetwo amos_flowers_2_3adab9db:
 
     # mside "Take this tip, please. I'm sorry."
-    mside "Pegue esta gorjeta, por favor. Desculpe."
+    mside "Aceite essa gorjeta, por favor. Me desculpe."
 
 # game/script_amos.rpy:2680
 translate languagetwo amos_flowers_2_366f36fb:
 
     # "He eagerly takes a five from you."
-    "Ele pega avidamente uma nota de cinco de você."
+    "Ele pega ansiosamente cinco pratas de você."
 
 # game/script_amos.rpy:2682
 translate languagetwo amos_flowers_2_44d69322:
@@ -6334,19 +6616,19 @@ translate languagetwo amos_flowers_2_44d69322:
 translate languagetwo amos_flowers_2_482a91e0:
 
     # "The delivery guy brings the rest of the roses and flings them at you when you open the door."
-    "O entregador traz o resto das rosas e as atira em você quando você abre a porta."
+    "O entregador traz o resto das rosas e as joga em você quando você abre a porta."
 
 # game/script_amos.rpy:2686
 translate languagetwo amos_flowers_2_4d83c12b:
 
     # "The cards attached to each rose are labeled with numbers and each have written on them a single word."
-    "Os cartões presos a cada rosa são etiquetados com números e cada um tem escrito neles uma única palavra."
+    "Os cartões presos a cada rosa são numerados e cada um tem escrito uma única palavra."
 
 # game/script_amos.rpy:2688
 translate languagetwo amos_flowers_2_05e3d253:
 
     # mside "Wait, these are all out of order now! Which one goes first?"
-    mside "Espere, elas estão todas fora de ordem agora! Qual vai primeiro?"
+    mside "Espere, agora elas estão todas fora de ordem! Qual vai primeiro?"
 
 # game/script_amos.rpy:2690
 translate languagetwo amos_flowers_2_fe0c25ef:
@@ -6376,7 +6658,7 @@ translate languagetwo amos_roses_code_17882303:
 translate languagetwo amos_roses_code_e9ebb911:
 
     # "You're still rearranging the numbered cards when Ian walks into the room."
-    "Você ainda está reorganizando os cartões numerados quando Ian entra na sala."
+    "Você ainda está reorganizando os cartões numerados quando Ian entra no quarto."
 
 # game/script_amos.rpy:2702
 translate languagetwo amos_roses_code_39ed3fea:
@@ -6388,13 +6670,13 @@ translate languagetwo amos_roses_code_39ed3fea:
 translate languagetwo amos_roses_code_2da60fe4:
 
     # mside "Wait... if I arrange these by evens and odds... maybe. Hmmm. Let's see. Yes. No. Wait. Maybe if I take the first letter of each prime numbered word..."
-    mside "Espere... se eu organizar isso por pares e ímpares... talvez. Hmmm. Vamos ver. Sim. Não. Espere. Talvez se eu pegar a primeira letra de cada palavra com número primo..."
+    mside "Espera... se eu arranjar isso por pares e ímpares... talvez. Hmmm. Vejamos. Sim. Não. Espera. Talvez se eu pegar a primeira letra de cada palavra com número primo..."
 
 # game/script_amos.rpy:2705
 translate languagetwo amos_roses_code_3797641e:
 
     # iside "Dude. Why don't you just put them in order?"
-    iside "Cara. Por que você não coloca eles na ordem?"
+    iside "Cara. Por que você simplesmente não coloca na ordem?"
 
 # game/script_amos.rpy:2707
 translate languagetwo amos_roses_code_18973f42:
@@ -6424,7 +6706,7 @@ translate languagetwo amos_roses_code_f15b2841:
 translate languagetwo amos_roses_code_f83119d6:
 
     # "Ian orders them in a line."
-    "Ian os ordena em uma linha."
+    "Ian os organiza em linha."
 
 # game/script_amos.rpy:2714
 translate languagetwo amos_roses_code_f754899c:
@@ -6436,37 +6718,235 @@ translate languagetwo amos_roses_code_f754899c:
 translate languagetwo amos_roses_code_6a532d4f:
 
     # thought "The heart beats, quickening, every thought swirling around you, and I am helpless."
-    thought "O coração bate, acelerando, cada pensamento girando ao seu redor, e eu estou indefeso."
+    thought "O coração bate, acelerando, cada pensamento girando em torno de você, e eu estou indefeso."
 
 # game/script_amos.rpy:2717
 translate languagetwo amos_roses_code_29f2916a:
 
     # thought "Not to relent, but to admit the sweetness into mouth, to taste, understand, every and all of all that's you, I simply must."
-    thought "Não ceder, mas admitir a doçura na boca, provar, entender, todo e tudo o que é você, eu simplesmente devo."
+    thought "Não para ceder, mas para admitir a doçura na boca, para provar, entender, todo e tudo o que é você, eu simplesmente devo."
 
 # game/script_amos.rpy:2719
 translate languagetwo amos_roses_code_9b56ff7a:
 
     # mside "Well, fuck me. You did it. It {i}was{/i} that simple."
-    mside "Bem, me ferrei. Você conseguiu. {i}Era{/i} simples assim."
+    mside "Bom, puta merda. Você conseguiu. {i}Era{/i} tão simples assim."
 
 # game/script_amos.rpy:2721
 translate languagetwo amos_roses_code_eb715f36:
 
     # iside "Holy shit! I'm a genius! I KNEW IT!"
-    iside "Caramba! Eu sou um gênio! EU SABIA!"
+    iside "Puta merda! Sou um gênio! EU SABIA!"
+
+# game/script_amos.rpy:2723
+translate languagetwo amos_roses_code_0564c37f:
+
+    # mside "Okay, let's not get ahead of ourselves—"
+    mside "Ok, não vamos nos precipitar—"
+
+# game/script_amos.rpy:2725
+translate languagetwo amos_roses_code_f173ab3d:
+
+    # iside "It's okay, dude. We can't all be geniuses."
+    iside "Tudo bem, cara. Nem todos nós podemos ser gênios."
+
+# game/script_amos.rpy:2727
+translate languagetwo amos_roses_code_33c0e8b1:
+
+    # iside "I need to get some glasses. Imagine how smart I'll be once I get those."
+    iside "Preciso arranjar uns óculos. Imagina o quão inteligente eu serei quando tiver uns."
+
+# game/script_amos.rpy:2728
+translate languagetwo amos_roses_code_981731f7:
+
+    # "Ian walks out of the room with a jaunty step."
+    "Ian sai do quarto com um passo alegre."
+
+# game/script_amos.rpy:2729
+translate languagetwo amos_roses_code_c1413312:
+
+    # i_off "I'm a genius! I'm a goddamn {i}genius{/i}!"
+    i_off "Eu sou um gênio! Sou um maldito {i}gênio{/i}!"
+
+# game/script_amos.rpy:2731
+translate languagetwo amos_roses_code_c2d2e5d2:
+
+    # "You sigh. As you collect the cards off the floor, you see a question written on the back of the final card."
+    "Você suspira. Ao recolher os cartões do chão, vê uma pergunta escrita no verso do último cartão."
+
+# game/script_amos.rpy:2732
+translate languagetwo amos_roses_code_f4e451c9:
+
+    # "{i}Might I take you away this weekend?{/i}"
+    "{i}Posso te levar para sair neste fim de semana?{/i}"
+
+# game/script_amos.rpy:2736
+translate languagetwo amos_roses_code_2e81fa5b:
+
+    # "'Absolutely,' you text him."
+    "'Com certeza', você manda por mensagem."
+
+# game/script_amos.rpy:2738
+translate languagetwo amos_roses_code_61971803:
+
+    # "You text him a message thanking him for the good times, but you don’t see this going any further."
+    "Você manda uma mensagem agradecendo pelos bons momentos, mas diz que não vê isso indo mais longe."
+
+# game/script_amos.rpy:2739
+translate languagetwo amos_roses_code_c2dd2d5a:
+
+    # "It seems cruel to string him along, especially when he seems to be putting in such an effort."
+    "Parece cruel iludi-lo, especialmente quando ele parece estar se esforçando tanto."
+
+# game/script_amos.rpy:2741
+translate languagetwo amos_roses_code_02530b88:
+
+    # "You are no longer seeing Amos."
+    "Você não está mais saindo com Amos."
+
+# game/script_amos.rpy:2752
+translate languagetwo amos_dinner_cruise_e0359eb8:
+
+    # "It feels like it takes forever for Saturday to roll around."
+    "Parece que leva uma eternidade para o sábado chegar."
+
+# game/script_amos.rpy:2753
+translate languagetwo amos_dinner_cruise_40dfd4b1:
+
+    # "Once it does, you're all butterflies. Where could Amos possibly be taking you?"
+    "Quando chega, você está todo nervoso. Para onde Amos poderia estar te levando?"
+
+# game/script_amos.rpy:2757
+translate languagetwo amos_dinner_cruise_2a3259da:
+
+    # timestamp "SATURDAY"
+    timestamp "SÁBADO"
+
+# game/script_amos.rpy:2758
+translate languagetwo amos_dinner_cruise_b2bb0cac:
+
+    # "You hear Amos' motorbike roar down the street outside. You hurry down to meet him."
+    "Você ouve a moto de Amos rugir na rua lá fora. Você desce correndo para encontrá-lo."
+
+# game/script_amos.rpy:2762
+translate languagetwo amos_dinner_cruise_d00c1860:
+
+    # mside "Hey, muse."
+    mside "Oi, musa."
+
+# game/script_amos.rpy:2765
+translate languagetwo amos_dinner_cruise_1af1d8e0:
+
+    # amside "Your chariot awaits."
+    amside "Sua carruagem aguarda."
+
+# game/script_amos.rpy:2767
+translate languagetwo amos_dinner_cruise_cb8b95a0:
+
+    # mside "Where we going tonight?"
+    mside "Para onde vamos hoje à noite?"
+
+# game/script_amos.rpy:2769
+translate languagetwo amos_dinner_cruise_d2e4c0cc:
+
+    # amside "That, my friend, is a mystery not yet to be revealed."
+    amside "Isso, meu amigo, é um mistério que ainda não será revelado."
+
+# game/script_amos.rpy:2771
+translate languagetwo amos_dinner_cruise_d4b0e925:
+
+    # mside "Is it poetry related?"
+    mside "Tem a ver com poesia?"
+
+# game/script_amos.rpy:2773
+translate languagetwo amos_dinner_cruise_23aa997f:
+
+    # amside "Perhaps. Perhaps not. You'll see soon enough."
+    amside "Talvez. Talvez não. Você verá em breve."
+
+# game/script_amos.rpy:2775
+translate languagetwo amos_dinner_cruise_e5fdac4a:
+
+    # amside "I want you to wear this blindfold."
+    amside "Quero que você use essa venda."
+
+# game/script_amos.rpy:2776
+translate languagetwo amos_dinner_cruise_83f04718:
+
+    # "He holds out a strap of thick, black cloth."
+    "Ele estende uma tira de pano preto e grosso."
+
+# game/script_amos.rpy:2778
+translate languagetwo amos_dinner_cruise_9927ad97:
+
+    # mside "..."
+    mside "..."
+
+# game/script_amos.rpy:2780
+translate languagetwo amos_dinner_cruise_30f63ec3:
+
+    # amside "We're going to a secret place. The blindfold is mandatory. If you're up for it, that is."
+    amside "Vamos para um lugar secreto. A venda é obrigatória. Se você topar, claro."
+
+# game/script_amos.rpy:2781
+translate languagetwo amos_dinner_cruise_3fa29b97:
+
+    # "You briefly recall the grunts and thumps you heard in Amos' garage."
+    "Você se lembra brevemente dos grunhidos e baques que ouviu na garagem de Amos."
+
+# game/script_amos.rpy:2786
+translate languagetwo amos_dinner_cruise_9a25466d:
+
+    # amside "I wish it could be otherwise, but you'll just have to trust me on this."
+    amside "Gostaria que fosse diferente, mas você terá que confiar em mim nessa."
+
+# game/script_amos.rpy:2788
+translate languagetwo amos_dinner_cruise_678492a0:
+
+    # mside "This sounds like the setup for something terrible."
+    mside "Isso soa como o início de algo terrível."
+
+# game/script_amos.rpy:2789
+translate languagetwo amos_dinner_cruise_cedf483c:
+
+    # amside "I understand your apprehension, but I assure you, nothing bad will come of this."
+    amside "Entendo sua apreensão, mas garanto, nada de ruim acontecerá."
+
+# game/script_amos.rpy:2790
+translate languagetwo amos_dinner_cruise_df4f1801:
+
+    # "He looks at you with his deep, sincere eyes and you feel a little better, but—"
+    "Ele olha para você com seus olhos profundos e sinceros e você se sente um pouco melhor, mas—"
+
+# game/script_amos.rpy:2794
+translate languagetwo amos_dinner_cruise_eb6b9e09:
+
+    # amside "That's a silly thing to say. But suit yourself."
+    amside "Que bobagem de se dizer. Mas faça como quiser."
+
+# game/script_amos.rpy:2795
+translate languagetwo amos_dinner_cruise_62b02418:
+
+    # "Amos looks away from you, fires his hog up, and speeds off with reckless abandon."
+    "Amos desvia o olhar, liga a moto e sai em disparada de forma imprudente."
+
+# game/script_amos.rpy:2796
+translate languagetwo amos_dinner_cruise_02530b88:
+
+    # "You are no longer seeing Amos."
+    "Você não está mais saindo com Amos."
 
 # game/script_amos.rpy:2807
 translate languagetwo amos_dinner_cruise_95f66287:
 
     # "You take the blindfold and tie it around your eyes. Amos lifts you onto the bike and the two of you motor away."
-    "Você pega a venda e a amarra sobre os olhos. Amos te levanta para a moto e vocês dois partem."
+    "Você pega a venda e a amarra nos olhos. Amos te coloca na moto e vocês dois partem."
 
 # game/script_amos.rpy:2808
 translate languagetwo amos_dinner_cruise_b5e2acb4:
 
     # "The smell of Amos' leather jacket and the sounds of the motorcycle engine and the bustle of the city consume your senses."
-    "O cheiro da jaqueta de couro de Amos e os sons do motor da moto e a agitação da cidade consomem seus sentidos."
+    "O cheiro da jaqueta de couro de Amos, o som do motor da moto e a agitação da cidade consomem seus sentidos."
 
 # game/script_amos.rpy:2809
 translate languagetwo amos_dinner_cruise_28b5e1d7:
@@ -6478,31 +6958,31 @@ translate languagetwo amos_dinner_cruise_28b5e1d7:
 translate languagetwo amos_dinner_cruise_e365a7f7:
 
     # "It's silly but you start to fantasize that he's a superhero, and he's recruiting you to be his sidekick."
-    "É bobo, mas você começa a fantasiar que ele é um super-herói, e que ele está te recrutando para ser seu ajudante."
+    "É bobo, mas você começa a fantasiar que ele é um super-herói e está te recrutando para ser seu parceiro."
 
 # game/script_amos.rpy:2811
 translate languagetwo amos_dinner_cruise_06c1dfc1:
 
     # thought "Wait, no. We'd need cool aliases. Or maybe we {i}could{/i} be 'Amosman and [m].' Criminals across the city will know and fear {i}Amosman and [m]{/i}."
-    thought "Espere, não. Precisaríamos de codinomes legais. Ou talvez {i}pudéssemos{/i} ser 'Amosman e [m]'. Criminosos por toda a cidade conhecerão e temerão {i}Amosman e [m]{/i}."
+    thought "Espera, não. Precisaríamos de codinomes legais. Ou talvez nós {i}pudéssemos{/i} ser 'Amosman e [m]'. Criminosos por toda a cidade conhecerão e temerão {i}Amosman e [m]{/i}."
 
 # game/script_amos.rpy:2812
 translate languagetwo amos_dinner_cruise_15156cee:
 
     # thought "Hmmm. Or maybe this is a setup for the cruelest break-up of all time. Pretend like it's this crazy, mysterious date and then be like—"
-    thought "Hmmm. Ou talvez isso seja uma armadilha para o rompimento mais cruel de todos os tempos. Finja que é um encontro louco e misterioso e depois faça assim—"
+    thought "Hmmm. Ou talvez isso seja uma armação para o término mais cruel de todos os tempos. Fingir que é um encontro louco e misterioso e depois mandar um—"
 
 # game/script_amos.rpy:2813
 translate languagetwo amos_dinner_cruise_97edf0df:
 
     # thought "'You know what? This isn't working. I think we should see other people.' Only to leave me abandoned in some remote place, crying my eyes out."
-    thought "'Sabe de uma coisa? Isso não está funcionando. Acho que devemos ver outras pessoas.' Apenas para me deixar abandonado em algum lugar remoto, chorando até não poder mais."
+    thought "'Sabe de uma coisa? Isso não está dando certo. Acho que devíamos ver outras pessoas.' Só para me deixar abandonado em algum lugar remoto, chorando litros."
 
 # game/script_amos.rpy:2815
 translate languagetwo amos_dinner_cruise_ba43e83a:
 
     # "The ride seems to take forever but you love every second of it. Eventually you feel the bike come to a stop, the engine cut off, and the motorcycle lift as Amos gets off."
-    "O passeio parece durar uma eternidade, mas você ama cada segundo. Eventualmente, você sente a moto parar, o motor desligar e a motocicleta levantar quando Amos desce."
+    "O passeio parece durar uma eternidade, mas você adora cada segundo. Eventualmente você sente a moto parar, o motor desligar, e a moto se erguer quando Amos desce."
 
 # game/script_amos.rpy:2818
 translate languagetwo amos_dinner_cruise_8bfb7775:
@@ -6520,13 +7000,13 @@ translate languagetwo amos_dinner_cruise_d4459b44:
 translate languagetwo amos_dinner_cruise_ef268236:
 
     # amside "You can take that off now."
-    amside "Você pode tirar isso agora."
+    amside "Pode tirar agora."
 
 # game/script_amos.rpy:2823
 translate languagetwo amos_dinner_cruise_fed65f2c:
 
     # "You remove the blindfold and see a magnificent old show-boat. On the side you see the name 'The Shrieking Halibut.'"
-    "Você remove a venda e vê um magnífico e antigo barco de show. Na lateral, você vê o nome 'The Shrieking Halibut' (O Linguado Gritante)."
+    "Você tira a venda e vê um magnífico barco-show antigo. Na lateral, você vê o nome 'O Alabote Gritante'."
 
 # game/script_amos.rpy:2825
 translate languagetwo amos_dinner_cruise_89479b9a:
@@ -6544,7 +7024,7 @@ translate languagetwo amos_dinner_cruise_6e4316bf:
 translate languagetwo amos_dinner_cruise_8b15a297:
 
     # mside "We going on it?"
-    mside "Nós vamos nele?"
+    mside "Vamos entrar nele?"
 
 # game/script_amos.rpy:2830
 translate languagetwo amos_dinner_cruise_d59108f1:
@@ -6580,19 +7060,19 @@ translate languagetwo amos_dinner_cruise_d63b78bc:
 translate languagetwo amos_dinner_cruise_3f5fd194:
 
     # amside "Anyway, let's go. The cruise starts with a 7 course meal and a showing of the classic {i}'Breakfast at Tiffany's'{/i} staring George Peppard and Audrey Hepburn as Holly Golightly."
-    amside "Enfim, vamos lá. O cruzeiro começa com uma refeição de 7 pratos e a exibição do clássico {i}'Bonequinha de Luxo'{/i} estrelando George Peppard e Audrey Hepburn como Holly Golightly."
+    amside "Enfim, vamos. O cruzeiro começa com um jantar de 7 pratos e a exibição do clássico {i}'Bonequinha de Luxo'{/i} estrelado por George Peppard e Audrey Hepburn como Holly Golightly."
 
 # game/script_amos.rpy:2854
 translate languagetwo amos_dinner_cruise_8aefb72f:
 
     # amside "Please forgive the tasteless scenes with Mickey Rooney. You’ll otherwise find it’s a remarkable film."
-    amside "Por favor, perdoe as cenas de mau gosto com Mickey Rooney. Fora isso, você achará um filme notável."
+    amside "Por favor, perdoe as cenas de mau gosto com Mickey Rooney. Fora isso, você verá que é um filme notável."
 
 # game/script_amos.rpy:2856
 translate languagetwo amos_dinner_cruise_471623e6:
 
     # amside "After dinner we'll be treated to a hot stone massage."
-    amside "Depois do jantar, seremos presenteados com uma massagem com pedras quentes."
+    amside "Depois do jantar, teremos uma massagem com pedras quentes."
 
 # game/script_amos.rpy:2858
 translate languagetwo amos_dinner_cruise_36a54720:
@@ -6610,13 +7090,13 @@ translate languagetwo amos_dinner_cruise_28409d6d:
 translate languagetwo amos_dinner_cruise_dc21645c:
 
     # "The two of you climb the gangplank onto the boat and make your way to the dining room. Waiting on each table is a bottle of chilled Champagne."
-    "Vocês dois sobem a prancha de embarque para o barco e seguem para a sala de jantar. Esperando em cada mesa está uma garrafa de champanhe gelado."
+    "Vocês dois sobem a prancha para entrar no barco e vão para a sala de jantar. Esperando em cada mesa está uma garrafa de champanhe gelada."
 
 # game/script_amos.rpy:2870
 translate languagetwo amos_dinner_cruise_c5ccef9d:
 
     # "Amos pops the bottle and fills both glasses."
-    "Amos abre a garrafa e enche ambas as taças."
+    "Amos abre a garrafa e enche as duas taças."
 
 # game/script_amos.rpy:2872
 translate languagetwo amos_dinner_cruise_5855cc13:
@@ -6634,7 +7114,7 @@ translate languagetwo amos_dinner_cruise_0114d6c6:
 translate languagetwo amos_dinner_cruise_5d03bf74:
 
     # mside "And to you, too. And to, uh, everything. All this—stuff."
-    mside "E a você também. E a, uh, tudo. Toda essa—coisa."
+    mside "E a você também. E a, hum, tudo. Todas essas—coisas."
 
 # game/script_amos.rpy:2877
 translate languagetwo amos_dinner_cruise_2e10fbe2:
@@ -6652,13 +7132,13 @@ translate languagetwo amos_dinner_cruise_5c0b47a8:
 translate languagetwo amos_dinner_cruise_27438b9e:
 
     # amside "Pearl tapioca. How perfect. Although I doubt Miss Golightly would be as interested in these pearls as the ones at Tiffany's."
-    amside "Sagu de pérolas. Quão perfeito. Embora eu duvide que a Srta. Golightly estaria tão interessada nessas pérolas quanto nas da Tiffany's."
+    amside "Tapioca de pérola. Que perfeito. Embora eu duvide que a Srta. Golightly estivesse tão interessada nessas pérolas quanto nas da Tiffany."
 
 # game/script_amos.rpy:2889
 translate languagetwo amos_dinner_cruise_80ff0099:
 
     # mside "Honestly, I wouldn't know where to start with someone like that."
-    mside "Honestamente, eu não saberia por onde começar com alguém assim."
+    mside "Sinceramente, eu não saberia por onde começar com alguém assim."
 
 # game/script_amos.rpy:2891
 translate languagetwo amos_dinner_cruise_9f3e4147:
@@ -6676,7 +7156,7 @@ translate languagetwo amos_dinner_cruise_3ad180ff:
 translate languagetwo amos_dinner_cruise_936d0d12:
 
     # amside "Well, you {i}do{/i} know he's gay? At least the character is."
-    amside "Bem, você {i}sabe{/i} que ele é gay, né? Pelo menos o personagem é."
+    amside "Bem, você {i}sabe{/i} que ele é gay? Pelo menos o personagem é."
 
 # game/script_amos.rpy:2896
 translate languagetwo amos_dinner_cruise_09e49e72:
@@ -6688,7 +7168,7 @@ translate languagetwo amos_dinner_cruise_09e49e72:
 translate languagetwo amos_dinner_cruise_2004fb27:
 
     # "Just then you hear a mean sounding 'Shhhhh' directed at you. You shut your damn mouth."
-    "Nesse momento você ouve um 'Shhhhh' maldoso dirigido a você. Você cala a maldita boca."
+    "Nesse momento você ouve um 'Shhhhh' malvado dirigido a você. Você cala a maldita boca."
 
 # game/script_amos.rpy:2905
 translate languagetwo amos_dinner_cruise_d92efa13:
@@ -6718,7 +7198,7 @@ translate languagetwo amos_dinner_cruise_329612fc:
 translate languagetwo amos_dinner_cruise_910cbba3:
 
     # mside "Don't make me show you my chestnuts."
-    mside "Não me faça te mostrar minhas castanhas."
+    mside "Não me faça mostrar minhas castanhas."
 
 # game/script_amos.rpy:2917
 translate languagetwo amos_dinner_cruise_45e542cf:
@@ -6730,19 +7210,19 @@ translate languagetwo amos_dinner_cruise_45e542cf:
 translate languagetwo amos_dinner_cruise_a4e266dd:
 
     # "Turning back to the movie, you watch Audrey Hepburn climbing into bed with shirtless George Peppard as the two of them snuggle and smoke cigarettes."
-    "Voltando ao filme, você vê Audrey Hepburn subindo na cama com George Peppard sem camisa enquanto os dois se aconchegam e fumam cigarros."
+    "Voltando ao filme, você assiste Audrey Hepburn subindo na cama com George Peppard sem camisa enquanto os dois se aconchegam e fumam cigarros."
 
 # game/script_amos.rpy:2926
 translate languagetwo amos_dinner_cruise_a50137b1:
 
     # "You think about how nice it would be to snuggle with Amos."
-    "Você pensa em como seria bom se aconchegar com o Amos."
+    "Você pensa em como seria bom se aconchegar com Amos."
 
 # game/script_amos.rpy:2927
 translate languagetwo amos_dinner_cruise_57884fd3:
 
     # "Amos catches you eyeing him."
-    "Amos pega você o observando."
+    "Amos te pega olhando para ele."
 
 # game/script_amos.rpy:2930
 translate languagetwo amos_dinner_cruise_5cf3d31e:
@@ -6754,7 +7234,7 @@ translate languagetwo amos_dinner_cruise_5cf3d31e:
 translate languagetwo amos_dinner_cruise_b26c7e17:
 
     # mside "We should, you know, do that later."
-    mside "Deveríamos, sabe, fazer isso mais tarde."
+    mside "Devíamos, sabe, fazer isso mais tarde."
 
 # game/script_amos.rpy:2936
 translate languagetwo amos_dinner_cruise_ee99e4d0:
@@ -6778,19 +7258,19 @@ translate languagetwo amos_dinner_cruise_f9b2ea14:
 translate languagetwo amos_dinner_cruise_41d92372:
 
     # "Next up you're served sauteed fillet of Pacific Yellowtail, Maine sea scallops, white quail, and Elysian Fields lamb."
-    "Em seguida, é servido filé salteado de olho-de-boi do Pacífico, vieiras do mar do Maine, codorna branca e cordeiro Elysian Fields."
+    "Em seguida, servem filé salteado de Olho-de-boi do Pacífico, vieiras do mar do Maine, codorna branca e cordeiro dos Campos Elísios."
 
 # game/script_amos.rpy:2948
 translate languagetwo amos_dinner_cruise_76751c36:
 
     # "The second to last course is an andante dairy acapella consisting of orange muscat gelee, roasted ruby beets, California red walnuts and brown butter toasted brioche."
-    "O penúltimo prato é um andante dairy acapella consistindo de geleia de moscatel laranja, beterrabas rubi assadas, nozes vermelhas da Califórnia e brioche torrado na manteiga marrom."
+    "O penúltimo prato é uma acapella de laticínios andante consistindo em geleia de moscatel laranja, beterrabas rubi assadas, nozes vermelhas da Califórnia e brioche tostado na manteiga marrom."
 
 # game/script_amos.rpy:2949
 translate languagetwo amos_dinner_cruise_be6a939c:
 
     # "You're not sure exactly what all that means, but it's delicious. You begin to feel a kinship with Holly Golightly's taste for the finer things in life."
-    "Você não tem certeza exatamente do que tudo isso significa, mas é delicioso. Você começa a sentir uma afinidade com o gosto de Holly Golightly pelas coisas mais finas da vida."
+    "Você não tem certeza do que tudo isso significa, mas é delicioso. Você começa a sentir uma afinidade com o gosto de Holly Golightly pelas coisas boas da vida."
 
 # game/script_amos.rpy:2956
 translate languagetwo amos_dinner_cruise_7f9f0eda:
@@ -6808,25 +7288,25 @@ translate languagetwo amos_dinner_cruise_a242e891:
 translate languagetwo amos_dinner_cruise_1b774f3e:
 
     # amside "A fine choice."
-    amside "Uma ótima escolha."
+    amside "Uma bela escolha."
 
 # game/script_amos.rpy:2970
 translate languagetwo amos_dinner_cruise_a5b0704c:
 
     # amside "Actually I'll have the cake. My {i}friend{/i} here will have the bowl of shut-the-hell-up."
-    amside "Na verdade, eu vou querer o bolo. Meu {i}amigo{/i} aqui vai querer uma tigela de cala-a-boca."
+    amside "Na verdade, vou querer o bolo. Meu {i}amigo{/i} aqui vai querer uma tigela de cala-a-maldita-boca."
 
 # game/script_amos.rpy:2974
 translate languagetwo amos_dinner_cruise_37a9f767:
 
     # amside "Maybe? I think definitely."
-    amside "Talvez? Acho que com certeza."
+    amside "Talvez? Acho que definitivamente."
 
 # game/script_amos.rpy:2982
 translate languagetwo amos_dinner_cruise_3bc8d10f:
 
     # "The movie ends with the male lead searching for Holly Golightly's cat during a downpour."
-    "O filme termina com o protagonista masculino procurando o gato de Holly Golightly durante um aguaceiro."
+    "O filme termina com o protagonista masculino procurando o gato de Holly Golightly durante uma tempestade."
 
 # game/script_amos.rpy:2984
 translate languagetwo amos_dinner_cruise_4ba96858:
@@ -6850,7 +7330,7 @@ translate languagetwo amos_dinner_cruise_0d1f1435:
 translate languagetwo amos_dinner_cruise_04176a6a:
 
     # amside "The fact that he's gay and she's messed up serve as counterpoints to make their relationship more improbable and thus more profound."
-    amside "O fato de ele ser gay e ela ser problemática servem como contrapontos para tornar o relacionamento deles mais improvável e, portanto, mais profundo."
+    amside "O fato de ele ser gay e ela ser problemática serve como contraponto para tornar o relacionamento deles mais improvável e, portanto, mais profundo."
 
 # game/script_amos.rpy:3002
 translate languagetwo amos_dinner_cruise_7a46b50c:
@@ -6862,7 +7342,7 @@ translate languagetwo amos_dinner_cruise_7a46b50c:
 translate languagetwo amos_dinner_cruise_e2928d96:
 
     # mside "I think it's pretty obvious. I mean, why else have it be a cat? In the rain? It's saying that gay men are attracted to feminine women. Which, I mean, whatever."
-    mside "Eu acho que é bem óbvio. Quero dizer, por que mais seria um gato? Na chuva? Está dizendo que homens gays são atraídos por mulheres femininas. O que, tipo, tanto faz."
+    mside "Acho bem óbvio. Quer dizer, por que mais seria um gato? Na chuva? Está dizendo que homens gays são atraídos por mulheres femininas. O que, tipo, tanto faz."
 
 # game/script_amos.rpy:3005
 translate languagetwo amos_dinner_cruise_09ce0c84:
@@ -6874,13 +7354,13 @@ translate languagetwo amos_dinner_cruise_09ce0c84:
 translate languagetwo amos_dinner_cruise_73f44672:
 
     # mside "Hmm. I don't know. But you do seem like you've thought about this."
-    mside "Hmm. Não sei não. Mas você parece ter pensado sobre isso."
+    mside "Hmm. Não sei. Mas parece que você pensou sobre isso."
 
 # game/script_amos.rpy:3009
 translate languagetwo amos_dinner_cruise_96420d1c:
 
     # amside "I think it's actually fairly obvious."
-    amside "Eu acho que na verdade é bem óbvio."
+    amside "Acho que na verdade é bem óbvio."
 
 # game/script_amos.rpy:3012
 translate languagetwo amos_dinner_cruise_a5a350f5:
@@ -6904,7 +7384,7 @@ translate languagetwo amos_dinner_cruise_548e55a8:
 translate languagetwo amos_dinner_cruise_5e7c346e:
 
     # mside "Think about it."
-    mside "Pense nisso."
+    mside "Pensa nisso."
 
 # game/script_amos.rpy:3019
 translate languagetwo amos_dinner_cruise_71e0faa5:
@@ -6922,7 +7402,7 @@ translate languagetwo amos_dinner_cruise_dfc71512:
 translate languagetwo amos_dinner_cruise_cc098a10:
 
     # amside "It is indeed."
-    amside "É de fato."
+    amside "É sim."
 
 # game/script_amos.rpy:3030
 translate languagetwo amos_dinner_cruise_005f13ea:
@@ -6934,7 +7414,7 @@ translate languagetwo amos_dinner_cruise_005f13ea:
 translate languagetwo amos_dinner_cruise_28b18d26:
 
     # amside "Well, I'm glad you've at least seen it now and can form your own opinion."
-    amside "Bem, fico feliz que você tenha pelo menos visto agora e possa formar sua própria opinião."
+    amside "Bem, estou feliz que você tenha pelo menos visto agora e possa formar sua própria opinião."
 
 # game/script_amos.rpy:3036
 translate languagetwo amos_dinner_cruise_69962eae:
@@ -6946,7 +7426,7 @@ translate languagetwo amos_dinner_cruise_69962eae:
 translate languagetwo amos_massage_530ac832:
 
     # "After the movie and meal, you want very much to lie down, relax, and digest. Lucky then that's what you're doing next, as you and Amos meander to the massage area."
-    "Depois do filme e da refeição, você quer muito se deitar, relaxar e digerir. Sorte sua que é isso que você vai fazer a seguir, enquanto você e Amos perambulam até a área de massagem."
+    "Depois do filme e da refeição, você quer muito se deitar, relaxar e fazer a digestão. Sorte então que é isso que farão a seguir, enquanto você e Amos caminham sem pressa para a área de massagem."
 
 # game/script_amos.rpy:3048
 translate languagetwo amos_massage_9483a89a:
@@ -6958,13 +7438,13 @@ translate languagetwo amos_massage_9483a89a:
 translate languagetwo amos_massage_7b56682c:
 
     # "You feel rather {size=-10}puny{/size} in comparison."
-    "Você se sente bastante {size=-10}fraco{/size} em comparação."
+    "Você se sente um tanto {size=-10}franzino{/size} em comparação."
 
 # game/script_amos.rpy:3052
 translate languagetwo amos_massage_97fc11ab:
 
     # "You imagine him hauling you over his shoulder like a bushel of bananas."
-    "Você imagina ele te jogando sobre o ombro como um cacho de bananas."
+    "Você o imagina te jogando sobre o ombro como um cacho de bananas."
 
 # game/script_amos.rpy:3053
 translate languagetwo amos_massage_cf33cd5a:
@@ -6976,7 +7456,7 @@ translate languagetwo amos_massage_cf33cd5a:
 translate languagetwo amos_massage_1bd997fd:
 
     # "He just looks so god damn impressive."
-    "Ele simplesmente parece impressionante para caramba."
+    "Ele simplesmente parece tão impressionante."
 
 # game/script_amos.rpy:3055
 translate languagetwo amos_massage_b6e3b809:
@@ -6988,13 +7468,13 @@ translate languagetwo amos_massage_b6e3b809:
 translate languagetwo amos_massage_fe001c41:
 
     # "Remy makes a bee-line for you, a hint of mischief in his eye. You think, for just an instant, that maybe he wants to hurt you."
-    "Remy vai direto para você, com um toque de travessura no olhar. Você pensa, por apenas um instante, que talvez ele queira te machucar."
+    "Remy vem direto na sua direção, com um toque de malícia no olhar. Você pensa, por apenas um instante, que talvez ele queira te machucar."
 
 # game/script_amos.rpy:3057
 translate languagetwo amos_massage_98f63f92:
 
     # "Jacyln cracks her knuckles and proclaims her ability to loosen up even the toughest flesh."
-    "Jacyln estala os dedos e proclama sua habilidade de soltar até a carne mais dura."
+    "Jaclyn estala os dedos e proclama sua habilidade de soltar até a carne mais dura."
 
 # game/script_amos.rpy:3058
 translate languagetwo amos_massage_8af1cb1c:
@@ -7006,13 +7486,13 @@ translate languagetwo amos_massage_8af1cb1c:
 translate languagetwo amos_massage_7591da8e:
 
     # "Amos gives you a {i}look.{/i} Like he's concerned. Like 'tell-my-Mom-I-love-her-if-this-doesn't-go-well.'"
-    "Amos te dá um {i}olhar.{/i} Como se estivesse preocupado. Tipo 'diga-a-minha-mãe-que-a-amo-se-isso-não-der-certo'."
+    "Amos te lança um {i}olhar.{/i} Como se estivesse preocupado. Tipo 'diga-à-minha-mãe-que-a-amo-se-isso-der-errado'."
 
 # game/script_amos.rpy:3061
 translate languagetwo amos_massage_0825b451:
 
     # amside "Go easy on me. I'm not necessarily looking to have my flesh loosened."
-    amside "Pega leve comigo. Não estou necessariamente querendo ter minha carne solta."
+    amside "Pega leve comigo. Não estou necessariamente procurando ter minha carne solta."
 
 # game/script_amos.rpy:3062
 translate languagetwo amos_massage_9889fbed:
@@ -7024,19 +7504,19 @@ translate languagetwo amos_massage_9889fbed:
 translate languagetwo amos_massage_cc2e8b11:
 
     # "And with a warm stone in each hand, Remy begins working your back—up, down and around, the warmth penetrating, the hard slab of smooth rock unraveling the knots in your muscles."
-    "E com uma pedra morna em cada mão, Remy começa a trabalhar suas costas—para cima, para baixo e ao redor, o calor penetrando, a placa dura de pedra lisa desfazendo os nós em seus músculos."
+    "E com uma pedra morna em cada mão, Remy começa a trabalhar suas costas—para cima, para baixo e ao redor, o calor penetrando, a placa dura de rocha lisa desfazendo os nós em seus músculos."
 
 # game/script_amos.rpy:3064
 translate languagetwo amos_massage_cc9cc8e6:
 
     # "Lost in the sensations of the expert kneading of your flesh, you forget where you are."
-    "Perdido nas sensações do amassamento especialista da sua carne, você esquece onde está."
+    "Perdido nas sensações do amassar experiente da sua carne, você esquece onde está."
 
 # game/script_amos.rpy:3065
 translate languagetwo amos_massage_0117ba03:
 
     # "The only sounds there are the river against the boat and occasional exhale of uninhibited pleasure."
-    "Os únicos sons são o rio contra o barco e o ocasional suspiro de prazer desinibido."
+    "Os únicos sons lá são o rio contra o barco e o ocasional suspiro de prazer desinibido."
 
 # game/script_amos.rpy:3066
 translate languagetwo amos_massage_dbfd73ca:
@@ -7048,7 +7528,7 @@ translate languagetwo amos_massage_dbfd73ca:
 translate languagetwo amos_massage_292b0a63:
 
     # "And just then, it does. It seemed too perfect and over far too quickly."
-    "E logo em seguida, acaba. Pareceu perfeito demais e acabou rápido demais."
+    "E bem nesse momento, acaba. Parecia perfeito demais e terminou rápido demais."
 
 # game/script_amos.rpy:3068
 translate languagetwo amos_massage_1a642681:
@@ -7060,7 +7540,7 @@ translate languagetwo amos_massage_1a642681:
 translate languagetwo amos_massage_3f2eb33d:
 
     # amside "I feel unburdened! Like some weight's been pulled off me I didn't know I was carrying. Sublime."
-    amside "Me sinto descarregado! Como se algum peso tivesse sido tirado de mim que eu não sabia que estava carregando. Sublime."
+    amside "Sinto-me descarregado! Como se algum peso tivesse sido tirado de mim que eu nem sabia que estava carregando. Sublime."
 
 # game/script_amos.rpy:3072
 translate languagetwo amos_massage_4cec0fa8:
@@ -7072,31 +7552,31 @@ translate languagetwo amos_massage_4cec0fa8:
 translate languagetwo amos_massage_7ec19585:
 
     # amside "You two are absolute masters of your craft. Thank you so much."
-    amside "Vocês dois são mestres absolutos da sua arte. Muito obrigado."
+    amside "Vocês dois são mestres absolutos do ofício. Muito obrigado."
 
 # game/script_amos.rpy:3075
 translate languagetwo amos_massage_8ed1bfb9:
 
     # "You try to think of eloquent words that could somehow convey the deep gratitude you feel."
-    "Você tenta pensar em palavras eloquentes que poderiam de alguma forma transmitir a profunda gratidão que você sente."
+    "Você tenta pensar em palavras eloquentes que poderiam de alguma forma transmitir a profunda gratidão que sente."
 
 # game/script_amos.rpy:3077
 translate languagetwo amos_massage_927db8a6:
 
     # mside "Yeah, thanks bunches."
-    mside "É, valeu muito."
+    mside "É, brigadão de montão."
 
 # game/script_amos.rpy:3078
 translate languagetwo amos_massage_42a4ae74:
 
     # "You immediately begin wondering why you just said 'thanks bunches' when you've never uttered the phrase before in your life."
-    "Você imediatamente começa a se perguntar por que acabou de dizer 'valeu muito' quando nunca proferiu a frase antes na sua vida."
+    "Você imediatamente começa a se perguntar por que acabou de dizer 'brigadão de montão' quando nunca proferiu essa frase antes na sua vida."
 
 # game/script_amos.rpy:3079
 translate languagetwo amos_massage_7fec8ad9:
 
     # "Like your brain was waiting for the most embarrassing possible moment before unleashing it."
-    "Como se seu cérebro estivesse esperando pelo momento mais constrangedor possível antes de soltá-la."
+    "Como se seu cérebro estivesse esperando o momento mais constrangedor possível antes de soltá-la."
 
 # game/script_amos.rpy:3080
 translate languagetwo amos_massage_ca009ccf:
@@ -7108,7 +7588,7 @@ translate languagetwo amos_massage_ca009ccf:
 translate languagetwo amos_massage_c8709411:
 
     # amside "Hmmm, well, [m], what would you like to do? Should we walk around a bit, or head back to the cabin?"
-    amside "Hmmm, bem, [m], o que você gostaria de fazer? Devemos caminhar um pouco, ou voltar para a cabine?"
+    amside "Hmmm, bem, [m], o que você gostaria de fazer? Devemos caminhar um pouco ou voltar para a cabine?"
 
 # game/script_amos.rpy:3084
 translate languagetwo amos_massage_f3b4445d:
@@ -7120,13 +7600,13 @@ translate languagetwo amos_massage_f3b4445d:
 translate languagetwo amos_massage_5f6a0610:
 
     # amside "Then let's head back and lie down."
-    amside "Então vamos voltar e deitar."
+    amside "Então vamos voltar e nos deitar."
 
 # game/script_amos.rpy:3090
 translate languagetwo amos_night_on_ship_47df5bc1:
 
     # "Back at the cabin you're struck by the smallness of your quarters."
-    "De volta à cabine, você é surpreendido pela pequenez dos seus aposentos."
+    "De volta à cabine, você fica impressionado com o tamanho reduzido dos aposentos."
 
 # game/script_amos.rpy:3092
 translate languagetwo amos_night_on_ship_0540ca06:
@@ -7138,43 +7618,43 @@ translate languagetwo amos_night_on_ship_0540ca06:
 translate languagetwo amos_night_on_ship_adba03e2:
 
     # amside "I might even call it snuggly."
-    amside "Eu poderia até chamar de apertadinho."
+    amside "Eu poderia até chamar de aninhado."
 
 # game/script_amos.rpy:3095
 translate languagetwo amos_night_on_ship_20b03441:
 
     # mside "I'll go a step further and call it cuddly."
-    mside "Vou dar um passo além e chamar de fofinho."
+    mside "Vou um passo além e chamar de abraçável."
 
 # game/script_amos.rpy:3097
 translate languagetwo amos_night_on_ship_e810836a:
 
     # amside "I'm not sure I'd say that cuddly is a step further than snuggly."
-    amside "Não tenho certeza se diria que fofinho é um passo além de apertadinho."
+    amside "Não tenho certeza se diria que abraçável é um passo além de aninhado."
 
 # game/script_amos.rpy:3099
 translate languagetwo amos_night_on_ship_06ef6498:
 
     # mside "How about 'snugglicious,' then?"
-    mside "Que tal 'apertadiliçoso', então?"
+    mside "Que tal 'chamegolicioso', então?"
 
 # game/script_amos.rpy:3101
 translate languagetwo amos_night_on_ship_759f0030:
 
     # amside "That is definitely better than snuggly."
-    amside "Isso é definitivamente melhor que apertadinho."
+    amside "Isso é definitivamente melhor do que aninhado."
 
 # game/script_amos.rpy:3103
 translate languagetwo amos_night_on_ship_999ea8dd:
 
     # amside "Let's settle into our snugglicious room."
-    amside "Vamos nos acomodar no nosso quarto apertadiliçoso."
+    amside "Vamos nos acomodar no nosso quarto chamegolicioso."
 
 # game/script_amos.rpy:3105
 translate languagetwo amos_night_on_ship_cd2f4b8c:
 
     # "The both of you sneak into bed, lie down and look at each other."
-    "Vocês dois se enfiam na cama, se deitam e olham um para o outro."
+    "Vocês dois entram na cama, deitam e olham um para o outro."
 
 # game/script_amos.rpy:3106
 translate languagetwo amos_night_on_ship_44923661:
@@ -7186,13 +7666,13 @@ translate languagetwo amos_night_on_ship_44923661:
 translate languagetwo amos_night_on_ship_17e8df94:
 
     # mside "Well that was easy."
-    mside "Bem, isso foi fácil."
+    mside "Bom, isso foi fácil."
 
 # game/script_amos.rpy:3110
 translate languagetwo amos_night_on_ship_4c785714:
 
     # amside "That's what I was thinking."
-    amside "Era o que eu estava pensando."
+    amside "Foi o que eu pensei."
 
 # game/script_amos.rpy:3111
 translate languagetwo amos_night_on_ship_3f93ce67:
@@ -7210,43 +7690,43 @@ translate languagetwo amos_night_on_ship_91d71b2b:
 translate languagetwo amos_night_on_ship_0cae4df5:
 
     # amside "Your dreams. Not in the literal sense. But the big picture, kind-of what do you want most for your life. Or out of life, as it may be."
-    amside "Seus sonhos. Não no sentido literal. Mas o quadro geral, meio que o que você mais quer para sua vida. Ou da vida, conforme o caso."
+    amside "Seus sonhos. Não no sentido literal. Mas o quadro geral, tipo o que você mais quer para sua vida. Ou da vida, conforme for."
 
 # game/script_amos.rpy:3120
 translate languagetwo amos_night_on_ship_a8a77e1e:
 
     # amside "That's impressive you know what you want so early."
-    amside "É impressionante que você saiba o que quer tão cedo."
+    amside "É impressionante você saber o que quer tão cedo."
 
 # game/script_amos.rpy:3122
 translate languagetwo amos_night_on_ship_4f1f5beb:
 
     # amside "Remember to keep an eye out though. I find most of life's loveliest moments weren't part of any schedule."
-    amside "Lembre-se de ficar atento, no entanto. Acho que a maioria dos momentos mais adoráveis da vida não faziam parte de nenhum cronograma."
+    amside "Lembre-se de ficar atento, no entanto. Acho que a maioria dos momentos mais adoráveis da vida não fazia parte de nenhuma agenda."
 
 # game/script_amos.rpy:3124
 translate languagetwo amos_night_on_ship_b36c9a53:
 
     # mside "Well, what happens next?"
-    mside "Bem, o que acontece depois?"
+    mside "Bem, o que acontece a seguir?"
 
 # game/script_amos.rpy:3127
 translate languagetwo amos_night_on_ship_a6db1441:
 
     # amside "Good. You've got time to consider things. These are decisions that should not be made in haste."
-    amside "Ótimo. Você tem tempo para considerar as coisas. Essas são decisões que não devem ser tomadas com pressa."
+    amside "Bom. Você tem tempo para considerar as coisas. Essas são decisões que não devem ser tomadas com pressa."
 
 # game/script_amos.rpy:3128
 translate languagetwo amos_night_on_ship_579df673:
 
     # mside "I guess it's weird. Before I came out, I worried about that stuff a lot more."
-    mside "Acho que é estranho. Antes de eu me assumir, eu me preocupava muito mais com essas coisas."
+    mside "Acho que é estranho. Antes de eu me assumir, me preocupava muito mais com essas coisas."
 
 # game/script_amos.rpy:3130
 translate languagetwo amos_night_on_ship_75250936:
 
     # mside "I mean, I’m still worried, but it’s like, I feel a bit more confident that I can handle whatever comes my way?"
-    mside "Digo, ainda estou preocupado, mas é como se eu me sentisse um pouco mais confiante de que posso lidar com o que vier pela frente?"
+    mside "Digo, ainda me preocupo, mas é como se eu me sentisse um pouco mais confiante de que posso lidar com o que vier?"
 
 # game/script_amos.rpy:3131
 translate languagetwo amos_night_on_ship_241f71a9:
@@ -7258,7 +7738,7 @@ translate languagetwo amos_night_on_ship_241f71a9:
 translate languagetwo amos_night_on_ship_b36c9a53_1:
 
     # mside "Well, what happens next?"
-    mside "Bem, o que acontece depois?"
+    mside "Bem, o que acontece a seguir?"
 
 # game/script_amos.rpy:3137
 translate languagetwo amos_night_on_ship_f8ef97c8:
@@ -7270,19 +7750,19 @@ translate languagetwo amos_night_on_ship_f8ef97c8:
 translate languagetwo amos_night_on_ship_9ebd2e23:
 
     # amside "As for myself, I'm not a big believer in dreams. There's so much in the waking moment I want to embrace, without the burden of added mental distractions."
-    amside "Quanto a mim, não sou um grande crente em sonhos. Há tanto no momento desperto que quero abraçar, sem o fardo de distrações mentais adicionais."
+    amside "Quanto a mim, não acredito muito em sonhos. Há tanto no momento desperto que quero abraçar, sem o fardo de distrações mentais adicionais."
 
 # game/script_amos.rpy:3139
 translate languagetwo amos_night_on_ship_76777af0:
 
     # mside "So you don't dream? You don't think about the future?"
-    mside "Então você não sonha? Você não pensa no futuro?"
+    mside "Então você não sonha? Não pensa no futuro?"
 
 # game/script_amos.rpy:3141
 translate languagetwo amos_night_on_ship_cf8623a0:
 
     # amside "Sure, I still do. I can't help myself. I want to know, want to see the future. I completely understand the futility of that, and that it may be misguided."
-    amside "Claro, ainda penso. Não consigo evitar. Quero saber, quero ver o futuro. Entendo completamente a futilidade disso, e que pode ser equivocado."
+    amside "Claro, ainda faço isso. Não consigo evitar. Quero saber, quero ver o futuro. Entendo completamente a futilidade disso, e que pode ser equivocado."
 
 # game/script_amos.rpy:3142
 translate languagetwo amos_night_on_ship_8db95aea:
@@ -7300,31 +7780,31 @@ translate languagetwo amos_night_on_ship_90ce73ba:
 translate languagetwo amos_night_on_ship_f6a715a2:
 
     # amside "And from there we can discover what's important, who we most are, and maybe, only maybe, where we should wander."
-    amside "E a partir daí podemos descobrir o que é importante, quem mais somos, e talvez, apenas talvez, para onde devemos vagar."
+    amside "E a partir daí podemos descobrir o que é importante, quem somos de verdade, e talvez, apenas talvez, para onde devemos vagar."
 
 # game/script_amos.rpy:3146
 translate languagetwo amos_night_on_ship_b36c9a53_2:
 
     # mside "Well, what happens next?"
-    mside "Bem, o que acontece depois?"
+    mside "Bem, o que acontece a seguir?"
 
 # game/script_amos.rpy:3149
 translate languagetwo amos_night_on_ship_5c05115c:
 
     # amside "It's okay not to know."
-    amside "Está tudo bem não saber."
+    amside "Tudo bem não saber."
 
 # game/script_amos.rpy:3151
 translate languagetwo amos_night_on_ship_5628d067:
 
     # mside "I'm a senior, though. I {i}should{/i} have it together!"
-    mside "Sou veterano, no entanto. Eu {i}deveria{/i} ter tudo sob controle!"
+    mside "Mas eu sou um veterano. Eu {i}deveria{/i} ter tudo resolvido!"
 
 # game/script_amos.rpy:3152
 translate languagetwo amos_night_on_ship_6b5505b1:
 
     # amside "Well [m], I’ve always felt like the word ‘should’ was a mistake."
-    amside "Bem [m], sempre senti que a palavra ‘deveria’ fosse um erro."
+    amside "Bem [m], eu sempre senti que a palavra 'deveria' era um erro."
 
 # game/script_amos.rpy:3153
 translate languagetwo amos_night_on_ship_03508c82:
@@ -7336,19 +7816,19 @@ translate languagetwo amos_night_on_ship_03508c82:
 translate languagetwo amos_night_on_ship_4c3d8d5f:
 
     # amside "Anytime I hear someone saying 'should,' I feel like as if whoever's saying it has unplugged from reality and put their own ideas in front of what's true."
-    amside "Sempre que ouço alguém dizendo 'deveria', sinto como se quem estivesse dizendo tivesse se desconectado da realidade e colocado suas próprias ideias na frente do que é verdade."
+    amside "Sempre que ouço alguém dizendo 'deveria', sinto como se quem estivesse dizendo tivesse se desconectado da realidade e colocado suas próprias ideias à frente do que é verdadeiro."
 
 # game/script_amos.rpy:3156
 translate languagetwo amos_night_on_ship_0e1eb6c8:
 
     # mside "Huh. Is that a hard and fast rule?"
-    mside "Hã. Isso é uma regra rígida?"
+    mside "Hã. Essa é uma regra rígida?"
 
 # game/script_amos.rpy:3157
 translate languagetwo amos_night_on_ship_c072fc0d:
 
     # amside "Well, no, I suppose not. Truth be told, it’s the gooey part of romanticism that demands that 'should.'"
-    amside "Bem, não, suponho que não. Verdade seja dita, é a parte pegajosa do romantismo que exige esse 'deveria'."
+    amside "Bem, não, suponho que não. Verdade seja dita, é a parte melosa do romantismo que exige esse 'deveria'."
 
 # game/script_amos.rpy:3158
 translate languagetwo amos_night_on_ship_6e3b00e5:
@@ -7372,7 +7852,7 @@ translate languagetwo amos_night_on_ship_9927ad97:
 translate languagetwo amos_night_on_ship_fc1e4687:
 
     # amside "And I thought 'Yes, this {i}should{/i} be.' Because it was so beautiful and perfect. It {i}should{/i} be. It's too awful to think that it shouldn't."
-    amside "E eu pensei 'Sim, isso {i}deveria{/i} ser.' Porque era tão lindo e perfeito. {i}Deveria{/i} ser. É terrível demais pensar que não deveria."
+    amside "E eu pensei 'Sim, isso {i}deveria{/i} ser'. Porque era tão bonito e perfeito. Isso {i}deveria{/i} ser. É terrível demais pensar que não deveria."
 
 # game/script_amos.rpy:3162
 translate languagetwo amos_night_on_ship_a6501328:
@@ -7408,13 +7888,13 @@ translate languagetwo amos_night_on_ship_efbf664a:
 translate languagetwo amos_night_on_ship_78860df0:
 
     # mside "I'm sure getting 'shhhhhed' a lot tonight."
-    mside "Estou recebendo muitos 'shhhhh' esta noite."
+    mside "Estão me mandando fazer 'shhhh' muitas vezes esta noite."
 
 # game/script_amos.rpy:3178
 translate languagetwo amos_night_on_ship_8417c64e:
 
     # amside "[m], shut up and kiss me."
-    amside "[m], cale a boca e me beije."
+    amside "[m], cala a boca e me beija."
 
 # game/script_amos.rpy:3182
 translate languagetwo amos_night_on_ship_42a0ff25:
@@ -7444,37 +7924,37 @@ translate languagetwo amos_night_on_ship_e3e5e18e:
 translate languagetwo amos_night_on_ship_b4f29149:
 
     # mside "That wasn't so hard, was it?"
-    mside "Não foi tão difícil, foi?"
+    mside "Isso não foi tão difícil, foi?"
 
 # game/script_amos.rpy:3198
 translate languagetwo amos_kiss_2d813d3f:
 
     # "Amos leans toward you and you toward him. Your eyes meet his for a second as you feel his warm breath on your lips and inhale his scent."
-    "Amos se inclina em sua direção e você na dele. Seus olhos encontram os dele por um segundo enquanto você sente sua respiração quente em seus lábios e inala seu perfume."
+    "Amos se inclina em sua direção e você na dele. Seus olhos encontram os dele por um segundo enquanto você sente a respiração quente dele em seus lábios e inala o cheiro dele."
 
 # game/script_amos.rpy:3212
 translate languagetwo amos_kiss_6735e510:
 
     # "You closing your eyes and he his, your lips wander slowly towards each others' and slowly, wonderfully, meet."
-    "Você fechando seus olhos e ele os dele, seus lábios vagam lentamente um em direção ao outro e lentamente, maravilhosamente, se encontram."
+    "Você fechando os olhos e ele os dele, seus lábios vagam lentamente em direção aos do outro e lentamente, maravilhosamente, se encontram."
 
 # game/script_amos.rpy:3213
 translate languagetwo amos_kiss_23aad4f9:
 
     # "The smooth, supple touch of lip on lip, the relinquishing of fears, the expectations of two joined in single first kiss, head racing, head swimming, impossibly perfect, but real."
-    "O toque suave e flexível de lábio no lábio, o abandono dos medos, as expectativas de dois unidos num único primeiro beijo, a cabeça disparada, a mente flutuando, impossivelmente perfeito, mas real."
+    "O toque suave e flexível de lábio com lábio, o abandono dos medos, as expectativas de dois unidos em um único primeiro beijo, cabeça a mil, cabeça girando, impossivelmente perfeito, mas real."
 
 # game/script_amos.rpy:3215
 translate languagetwo amos_kiss_42bafcd4:
 
     # "You cannot stop, cannot want to stop, cannot do but to kiss and kiss more. If only this could be forever."
-    "Você não pode parar, não pode querer parar, não pode fazer nada além de beijar e beijar mais. Se ao menos isso pudesse ser para sempre."
+    "Você não consegue parar, não consegue querer parar, não consegue fazer nada além de beijar e beijar mais. Se ao menos isso pudesse ser para sempre."
 
 # game/script_amos.rpy:3216
 translate languagetwo amos_kiss_44378174:
 
     # "The hardness of pushing in, trying to taste everything in him, feel everything in him, wanting giving way to greater wanting."
-    "A firmeza de empurrar para dentro, tentando provar tudo nele, sentir tudo nele, o querer dando lugar a um querer maior."
+    "A dureza de empurrar, tentando provar tudo nele, sentir tudo nele, o querer dando lugar a um querer maior."
 
 # game/script_amos.rpy:3217
 translate languagetwo amos_kiss_d476e627:
@@ -7498,7 +7978,7 @@ translate languagetwo amos_kiss_1f8015d7:
 translate languagetwo amos_kiss_570f41ea:
 
     # "Diving back into each other, you meet again, reveling in each other, the flavor of lip and tongue."
-    "Mergulhando de volta um no outro, vocês se encontram novamente, deleitando-se um no outro, o sabor de lábio e língua."
+    "Mergulhando de volta um no outro, vocês se encontram novamente, deleitando-se um no outro, no sabor de lábio e língua."
 
 # game/script_amos.rpy:3221
 translate languagetwo amos_kiss_4e84b129:
@@ -7510,7 +7990,7 @@ translate languagetwo amos_kiss_4e84b129:
 translate languagetwo amos_kiss_bc6304a2:
 
     # "Past the sun setting, wildly through the night, over and over in search of relief to desperate need, until finally, the sun is seen again, rising."
-    "Passado o pôr do sol, selvagemente pela noite, repetidamente em busca de alívio para a necessidade desesperada, até que finalmente, o sol é visto novamente, nascendo."
+    "Passando o pôr do sol, selvagemente pela noite, repetidamente em busca de alívio para a necessidade desesperada, até que finalmente, o sol é visto novamente, nascendo."
 
 # game/script_amos.rpy:3228
 translate languagetwo amos_kiss_a6daedb7:
@@ -7522,13 +8002,13 @@ translate languagetwo amos_kiss_a6daedb7:
 translate languagetwo amos_kiss_5c2b7e51:
 
     # "After a wonderful night, Amos drops you off in the morning."
-    "Depois de uma noite maravilhosa, Amos te deixa em casa pela manhã."
+    "Depois de uma noite maravilhosa, Amos te deixa em casa de manhã."
 
 # game/script_amos.rpy:3231
 translate languagetwo amos_kiss_939deaf6:
 
     # "You return home, realizing you've completely forgotten to ask Amos about the men visiting his home."
-    "Você volta para casa, percebendo que esqueceu completamente de perguntar a Amos sobre os homens visitando sua casa."
+    "Você volta para casa, percebendo que esqueceu completamente de perguntar a Amos sobre os homens que visitaram sua casa."
 
 # game/script_amos.rpy:3232
 translate languagetwo amos_kiss_a626312f:
@@ -7546,7 +8026,7 @@ translate languagetwo amos_mystery_discussion_1690f6f4:
 translate languagetwo amos_mystery_discussion_a984b289:
 
     # "You munch on a jelly donut left on the counter. Despite the amazing weekend, that thing with Amos is still bugging you."
-    "Você mastiga um donut de geleia deixado no balcão. Apesar do fim de semana incrível, aquela coisa com Amos ainda está te incomodando."
+    "Você mastiga um donut com geleia deixado no balcão. Apesar do fim de semana incrível, aquela coisa com o Amos ainda está te incomodando."
 
 # game/script_amos.rpy:3246
 translate languagetwo amos_mystery_discussion_10752104:
@@ -7564,13 +8044,13 @@ translate languagetwo amos_mystery_discussion_b10d6164:
 translate languagetwo amos_mystery_discussion_d06467e7:
 
     # "Ian brushes past you into the kitchen."
-    "Ian passa por você em direção à cozinha."
+    "Ian passa por você e entra na cozinha."
 
 # game/script_amos.rpy:3251
 translate languagetwo amos_mystery_discussion_9ae4dfd2:
 
     # ian "The jelly donut was invented in 15th century Germany and called 'Gefullte Krapfen.' The creator of said ingenuity, however, is unknown."
-    ian "O donut de geleia foi inventado na Alemanha do século XV e chamado de 'Gefullte Krapfen'. O criador de tal engenhosidade, no entanto, é desconhecido."
+    ian "O donut com geleia foi inventado na Alemanha do século XV e chamado de 'Gefullte Krapfen'. O criador de tal engenhosidade, no entanto, é desconhecido."
 
 # game/script_amos.rpy:3253
 translate languagetwo amos_mystery_discussion_15020d6f:
@@ -7582,7 +8062,7 @@ translate languagetwo amos_mystery_discussion_15020d6f:
 translate languagetwo amos_mystery_discussion_20a5f515:
 
     # ian "You'd only look foolish trying to use the original term these days."
-    ian "Você só pareceria tolo tentando usar o termo original hoje em dia."
+    ian "Você só pareceria bobo tentando usar o termo original hoje em dia."
 
 # game/script_amos.rpy:3257
 translate languagetwo amos_mystery_discussion_b4b090dd:
@@ -7594,7 +8074,7 @@ translate languagetwo amos_mystery_discussion_b4b090dd:
 translate languagetwo amos_mystery_discussion_df699199:
 
     # mside "Yeah, do those things even have lenses?"
-    mside "Sim, essas coisas têm lentes mesmo?"
+    mside "Sim, essas coisas têm lentes?"
 
 # game/script_amos.rpy:3261
 translate languagetwo amos_mystery_discussion_1c421fec:
@@ -7624,7 +8104,7 @@ translate languagetwo amos_mystery_discussion_a3d766ac:
 translate languagetwo amos_mystery_discussion_3dec2a8f:
 
     # ian "Kinda hard to see through, though."
-    ian "Meio difícil de ver através delas, no entanto."
+    ian "Meio difícil de enxergar através delas, no entanto."
 
 # game/script_amos.rpy:3270
 translate languagetwo amos_mystery_discussion_e15ebac0:
@@ -7636,7 +8116,7 @@ translate languagetwo amos_mystery_discussion_e15ebac0:
 translate languagetwo amos_mystery_discussion_41a4adad:
 
     # lb "Oh boy, Ian. Do those things even have lenses?"
-    lb "Nossa, Ian. Essas coisas têm lentes mesmo?"
+    lb "Nossa, Ian. Essas coisas têm lentes?"
 
 # game/script_amos.rpy:3279
 translate languagetwo amos_mystery_discussion_21f18997:
@@ -7678,7 +8158,7 @@ translate languagetwo amos_mystery_discussion_8799500a:
 translate languagetwo amos_mystery_discussion_ae638885:
 
     # mside "You know how I biked over there…"
-    mside "Você sabe que eu fui de bicicleta até lá..."
+    mside "Sabe como eu fui de bicicleta até lá..."
 
 # game/script_amos.rpy:3293
 translate languagetwo amos_mystery_discussion_37b76fa9:
@@ -7696,7 +8176,7 @@ translate languagetwo amos_mystery_discussion_7005e4ad:
 translate languagetwo amos_mystery_discussion_f9aed12f:
 
     # lb "Ok, as much as I want to rip those glasses off his face, he's right."
-    lb "Ok, por mais que eu queira arrancar esses óculos da cara dele, ele está certo."
+    lb "Ok, por mais que eu queira arrancar esses óculos da cara dele, ele tem razão."
 
 # game/script_amos.rpy:3299
 translate languagetwo amos_mystery_discussion_697c1585:
@@ -7708,25 +8188,25 @@ translate languagetwo amos_mystery_discussion_697c1585:
 translate languagetwo amos_mystery_discussion_6e75345a:
 
     # ian "Yeah, like that time you found me covered in maple syrup in the bathtub. I'm sure that {i}looked{/i} weird, right?"
-    ian "Sim, como daquela vez que você me encontrou coberto de xarope de bordo na banheira. Tenho certeza que {i}pareceu{/i} estranho, certo?"
+    ian "É, como daquela vez que você me encontrou coberto de xarope de bordo na banheira. Tenho certeza que {i}pareceu{/i} estranho, né?"
 
 # game/script_amos.rpy:3303
 translate languagetwo amos_mystery_discussion_90bb94a3:
 
     # lb "What do you mean {i}looked{/i}?! That {i}was{/i} really weird, Ian."
-    lb "O que você quer dizer com {i}pareceu{/i}?! Aquilo {i}foi{/i} muito estranho, Ian."
+    lb "Como assim {i}pareceu{/i}?! Aquilo {i}foi{/i} muito estranho, Ian."
 
 # game/script_amos.rpy:3305
 translate languagetwo amos_mystery_discussion_b9c65449:
 
     # ian "How else was I supposed to find out what a waffle feels like before it gets eaten?"
-    ian "De que outra forma eu ia descobrir como um waffle se sente antes de ser comido?"
+    ian "De que outro jeito eu ia descobrir como um waffle se sente antes de ser comido?"
 
 # game/script_amos.rpy:3307
 translate languagetwo amos_mystery_discussion_7c710cf7:
 
     # mside "Can we get back to the Amos thing?"
-    mside "Podemos voltar ao assunto do Amos?"
+    mside "Podemos voltar para o assunto do Amos?"
 
 # game/script_amos.rpy:3310
 translate languagetwo amos_mystery_discussion_68deca84:
@@ -7738,13 +8218,13 @@ translate languagetwo amos_mystery_discussion_68deca84:
 translate languagetwo amos_mystery_discussion_8724730c:
 
     # "Ian stands there, eyes closed."
-    "Ian fica lá, de olhos fechados."
+    "Ian fica parado ali, de olhos fechados."
 
 # game/script_amos.rpy:3313
 translate languagetwo amos_mystery_discussion_d0c6459c:
 
     # ian "Two men. Bikers. Grunting. Moaning."
-    ian "Dois homens. Motociclistas. Grunhindo. Gemendo."
+    ian "Dois homens. Motociclistas. Grunhidos. Gemidos."
 
 # game/script_amos.rpy:3315
 translate languagetwo amos_mystery_discussion_1778852f:
@@ -7756,13 +8236,13 @@ translate languagetwo amos_mystery_discussion_1778852f:
 translate languagetwo amos_mystery_discussion_cdd08fd5:
 
     # ian "SILENTO!"
-    ian "SILENTO!"
+    ian "SILÊNCIO!"
 
 # game/script_amos.rpy:3319
 translate languagetwo amos_mystery_discussion_57b06ce0:
 
     # "You stare at Ian as his eyes suddenly flutter open."
-    "Você encara Ian enquanto seus olhos se abrem de repente."
+    "Você encara Ian quando os olhos dele se abrem de repente."
 
 # game/script_amos.rpy:3322
 translate languagetwo amos_mystery_discussion_1ba95be9:
@@ -7786,13 +8266,13 @@ translate languagetwo amos_mystery_discussion_75b823f3:
 translate languagetwo amos_mystery_discussion_5da54a30:
 
     # lb "[m], you should really just drive over there and ask Amos in person."
-    lb "[m], você deveria ir lá de carro e perguntar ao Amos pessoalmente."
+    lb "[m], você devia mesmo ir até lá e perguntar ao Amos pessoalmente."
 
 # game/script_amos.rpy:3330
 translate languagetwo amos_mystery_discussion_b75609ba:
 
     # mside "Yeah, I'm going to ask him about it. It’s definitely bothering me. If it's nothing, I'm sure it won't be an issue. If there's something weird to it, then I want to know."
-    mside "Sim, eu vou perguntar a ele sobre isso. Definitivamente está me incomodando. Se não for nada, tenho certeza de que não será um problema. Se houver algo estranho, então eu quero saber."
+    mside "É, vou perguntar a ele sobre isso. Está definitivamente me incomodando. Se não for nada, tenho certeza que não será um problema. Se tiver algo estranho, então eu quero saber."
 
 # game/script_amos.rpy:3332
 translate languagetwo amos_mystery_discussion_a531ca13:
@@ -7816,13 +8296,13 @@ translate languagetwo amos_mystery_discussion_b6a2dc7f:
 translate languagetwo amos_mystery_discussion_9f19fd39:
 
     # lb "Wow, is this further evidence of your extraordinary powers of perception?"
-    lb "Uau, isso é mais uma prova dos seus extraordinários poderes de percepção?"
+    lb "Uau, isso é mais uma evidência dos seus extraordinários poderes de percepção?"
 
 # game/script_amos.rpy:3340
 translate languagetwo amos_mystery_discussion_c1213405:
 
     # ian "Well, that and I borrowed [m]'s car this morning, and drove backwards over the parking spikes at a garage."
-    ian "Bem, isso e eu peguei o carro do [m] emprestado esta manhã e passei de ré sobre os espinhos de estacionamento em uma garagem."
+    ian "Bem, isso e o fato de eu ter pegado o carro do [m] emprestado hoje de manhã, e ter dado ré sobre os espinhos de estacionamento em uma garagem."
 
 # game/script_amos.rpy:3342
 translate languagetwo amos_mystery_discussion_945c2aa6:
@@ -7840,19 +8320,19 @@ translate languagetwo amos_mystery_discussion_52c36b1c:
 translate languagetwo amos_mystery_discussion_4cb212be:
 
     # ian "Anyhow, I’m sorry! I'm getting them fixed, okay? {size=-10}Along with the speakers I blew out...{/size}"
-    ian "De qualquer forma, me desculpe! Estou mandando consertar, ok? {size=-10}Junto com os alto-falantes que eu estourei...{/size}"
+    ian "De qualquer forma, desculpa! Vou consertar, tá bom? {size=-10}Junto com os alto-falantes que estourei...{/size}"
 
 # game/script_amos.rpy:3348
 translate languagetwo amos_mystery_discussion_13f69a58:
 
     # lb "Just take my cruiser, [m]."
-    lb "Só pega minha bicicleta, [m]."
+    lb "Apenas pegue minha bicicleta, [m]."
 
 # game/script_amos.rpy:3357
 translate languagetwo amos_cycling_2_3855115e:
 
     # "You cycle your way over to Amos,’ lost in thought."
-    "Você pedala em direção à casa do Amos, perdido em pensamentos."
+    "Você pedala até a casa do Amos, perdido em pensamentos."
 
 # game/script_amos.rpy:3358
 translate languagetwo amos_cycling_2_3a55ea00:
@@ -7870,13 +8350,13 @@ translate languagetwo amos_cycling_2_309757af:
 translate languagetwo amos_cycling_2_08d12042:
 
     # thought "Oh my god, am I being clingy?"
-    thought "Ai meu deus, estou sendo grudento?"
+    thought "Ai meu Deus, estou sendo grudento?"
 
 # game/script_amos.rpy:3361
 translate languagetwo amos_cycling_2_e224af0f:
 
     # thought "Why am I so knotted up about this? It’s just an honest-to-goodness question."
-    thought "Por que estou tão tenso com isso? É só uma pergunta honesta e genuína."
+    thought "Por que estou tão encucado com isso? É só uma pergunta honesta."
 
 # game/script_amos.rpy:3362
 translate languagetwo amos_cycling_2_32694e81:
@@ -7888,13 +8368,13 @@ translate languagetwo amos_cycling_2_32694e81:
 translate languagetwo amos_cycling_2_122dabea:
 
     # thought "Maybe I should just pretend I’m stopping by."
-    thought "Talvez eu devesse apenas fingir que estou dando uma passada."
+    thought "Talvez eu deva apenas fingir que estou dando uma passada."
 
 # game/script_amos.rpy:3364
 translate languagetwo amos_cycling_2_6e93d9c3:
 
     # thought "No pressure. No major interruption. Just a 'hello.' What's more pleasant than 'hello?'"
-    thought "Sem pressão. Sem grande interrupção. Apenas um 'oi'. O que é mais agradável do que 'oi'?"
+    thought "Sem pressão. Sem interrupção grande. Apenas um 'oi'. O que é mais agradável do que um 'oi'?"
 
 # game/script_amos.rpy:3365
 translate languagetwo amos_cycling_2_d5e362ad:
@@ -7906,13 +8386,13 @@ translate languagetwo amos_cycling_2_d5e362ad:
 translate languagetwo amos_cycling_2_f9f7bca8:
 
     # "You turn your head at the intersection to see a forty-something woman with streaks of grey in her hair staring at you, riding a bicycle."
-    "Você vira a cabeça no cruzamento e vê uma mulher de quarenta e poucos anos com mechas grisalhas no cabelo olhando para você, andando de bicicleta."
+    "Você vira a cabeça no cruzamento e vê uma mulher de quarenta e poucos anos com mechas grisalhas no cabelo te encarando, andando de bicicleta."
 
 # game/script_amos.rpy:3367
 translate languagetwo amos_cycling_2_4fe32c1b:
 
     # cyclist2_off "You don't look like a typical lunatic, so I'm going to assume that you aren't."
-    cyclist2_off "Você não parece um lunático típico, então vou assumir que você não é."
+    cyclist2_off "Você não parece um maluco típico, então vou assumir que não é."
 
 # game/script_amos.rpy:3368
 translate languagetwo amos_cycling_2_bb065309:
@@ -7924,7 +8404,7 @@ translate languagetwo amos_cycling_2_bb065309:
 translate languagetwo amos_cycling_2_50460492:
 
     # "When she talks, you notice she has a way of saying certain words that make them sound like they've been capitalized."
-    "Quando ela fala, você percebe que ela tem um jeito de dizer certas palavras que as fazem soar como se estivessem em maiúsculas."
+    "Quando ela fala, você percebe que ela tem um jeito de dizer certas palavras que as faz soar como se estivessem em maiúsculas."
 
 # game/script_amos.rpy:3372
 translate languagetwo amos_cycling_2_b10d6164:
@@ -7936,7 +8416,7 @@ translate languagetwo amos_cycling_2_b10d6164:
 translate languagetwo amos_cycling_2_3531df4b:
 
     # cyclist2_off "Sounds like you're nervous about meeting someone. Let me give you a word of ADVICE."
-    cyclist2_off "Parece que você está nervoso por encontrar alguém. Deixe-me te dar um CONSELHO."
+    cyclist2_off "Parece que você está nervoso em encontrar alguém. Deixe-me te dar um CONSELHO."
 
 # game/script_amos.rpy:3375
 translate languagetwo amos_cycling_2_4f01c97d:
@@ -7972,7 +8452,7 @@ translate languagetwo amos_cycling_2_7b2a08b9:
 translate languagetwo amos_cycling_2_a055235a:
 
     # cyclist2_off "Yes, alcohol. You can have a hit of this if you'd like."
-    cyclist2_off "Sim, álcool. Você pode tomar um gole disso se quiser."
+    cyclist2_off "Sim, álcool. Você pode dar um gole nisso se quiser."
 
 # game/script_amos.rpy:3383
 translate languagetwo amos_cycling_2_8dbbad29:
@@ -7990,7 +8470,7 @@ translate languagetwo amos_cycling_2_5c6cead0:
 translate languagetwo amos_cycling_2_faaf328b:
 
     # "You consider the ramifications of 1) drinking from a stranger's flask, 2) drinking while cycling, and 3) showing up buzzed at Amos' house."
-    "Você considera as ramificações de 1) beber do cantil de um estranho, 2) beber enquanto anda de bicicleta e 3) aparecer meio bêbado na casa do Amos."
+    "Você considera as ramificações de 1) beber do cantil de um estranho, 2) beber enquanto anda de bicicleta e 3) aparecer meio alto na casa de Amos."
 
 # game/script_amos.rpy:3387
 translate languagetwo amos_cycling_2_dac9d67e:
@@ -8002,19 +8482,19 @@ translate languagetwo amos_cycling_2_dac9d67e:
 translate languagetwo amos_cycling_2_8e211768:
 
     # cyclist2_off "Honey, we are {i}ALL{/i} flask people. Every one of us on this god-forsaken planet. Now if you want to suffer under the delusion that you're somehow different, go ahead."
-    cyclist2_off "Querido, nós {i}TODOS{/i} somos pessoas de cantil. Cada um de nós neste planeta esquecido por Deus. Agora, se você quiser sofrer sob a ilusão de que de alguma forma é diferente, vá em frente."
+    cyclist2_off "Querido, nós somos {i}TODOS{/i} pessoas de cantil. Cada um de nós neste planeta esquecido por Deus. Agora, se você quer sofrer sob a ilusão de que é de alguma forma diferente, vá em frente."
 
 # game/script_amos.rpy:3389
 translate languagetwo amos_cycling_2_bc8394ab:
 
     # cyclist2_off "But the sooner you're honest with yourself, the sooner you can drink. The sooner you drink, the sooner you can go get that man you've been muttering about."
-    cyclist2_off "Mas quanto mais cedo você for honesto consigo mesmo, mais cedo poderá beber. Quanto mais cedo você beber, mais cedo poderá ir pegar aquele homem sobre o qual você tem resmungado."
+    cyclist2_off "Mas quanto mais cedo você for honesto consigo mesmo, mais cedo poderá beber. Quanto mais cedo você beber, mais cedo poderá ir buscar aquele homem sobre o qual você tem resmungado."
 
 # game/script_amos.rpy:3390
 translate languagetwo amos_cycling_2_6d7da364:
 
     # "She offers you the flask."
-    "Ela lhe oferece o cantil."
+    "Ela te oferece o cantil."
 
 # game/script_amos.rpy:3395
 translate languagetwo amos_cycling_2_8109237b:
@@ -8062,7 +8542,7 @@ translate languagetwo amos_cycling_2_0f0ca3c7:
 translate languagetwo amos_cycling_2_42d21108:
 
     # cyclist2_off "If you'd ever like a blow-by-blow, or rather the ins-and-outs, of how to expertly satisfy a man, I'd be willing to give you some pointers."
-    cyclist2_off "Se você quiser um passo a passo, ou melhor, os detalhes de como satisfazer um homem com maestria, eu estaria disposta a lhe dar algumas dicas."
+    cyclist2_off "Se você quiser um passo a passo, ou melhor, os detalhes, de como satisfazer um homem com maestria, estaria disposta a te dar algumas dicas."
 
 # game/script_amos.rpy:3406
 translate languagetwo amos_cycling_2_acb386cf:
@@ -8074,13 +8554,13 @@ translate languagetwo amos_cycling_2_acb386cf:
 translate languagetwo amos_cycling_2_1b93b2a6:
 
     # mside "What the—"
-    mside "Que diabo—"
+    mside "Mas que—"
 
 # game/script_amos.rpy:3409
 translate languagetwo amos_cycling_2_22ad9723:
 
     # cyclist2_off "Oh, JESUS CHRIST. Don't be so offended. You are very young, though."
-    cyclist2_off "Oh, JESUS CRISTO. Não fique tão ofendido. Você é muito jovem, no entanto."
+    cyclist2_off "Ah, JESUS CRISTO. Não fique tão ofendido. Você é muito jovem, no entanto."
 
 # game/script_amos.rpy:3413
 translate languagetwo amos_cycling_2_cfc2cb1a:
@@ -8098,7 +8578,7 @@ translate languagetwo amos_cycling_2_1fbaadd0:
 translate languagetwo amos_confront_49c3b06a:
 
     # "You reach Amos' house and approach the door. You begin to wonder if you've made a mistake."
-    "Você chega à casa de Amos e se aproxima da porta. Você começa a se perguntar se cometeu um erro."
+    "Você chega à casa de Amos e se aproxima da porta. Começa a se perguntar se cometeu um erro."
 
 # game/script_amos.rpy:3427
 translate languagetwo amos_confront_3036279a:
@@ -8110,7 +8590,7 @@ translate languagetwo amos_confront_3036279a:
 translate languagetwo amos_confront_0d5a6297:
 
     # amos "Well, what a nice surprise!"
-    amos "Ora, que bela surpresa!"
+    amos "Ora, que surpresa boa!"
 
 # game/script_amos.rpy:3431
 translate languagetwo amos_confront_571b0f85:
@@ -8128,19 +8608,19 @@ translate languagetwo amos_confront_c8ac702a:
 translate languagetwo amos_confront_1ec807d5:
 
     # amos "So, a drink perhaps? I've got some pink lemonade."
-    amos "Então, uma bebida talvez? Tenho limonada rosa."
+    amos "Então, talvez uma bebida? Tenho limonada rosa."
 
 # game/script_amos.rpy:3445
 translate languagetwo amos_confront_383a47bb:
 
     # mside "No thanks, I just drank."
-    mside "Não obrigado, acabei de beber."
+    mside "Não, obrigado, acabei de beber."
 
 # game/script_amos.rpy:3447
 translate languagetwo amos_confront_0664fe77:
 
     # "Amos sniffs the air in front of you."
-    "Amos fareja o ar na sua frente."
+    "Amos cheira o ar na sua frente."
 
 # game/script_amos.rpy:3448
 translate languagetwo amos_confront_725cde86:
@@ -8176,7 +8656,7 @@ translate languagetwo amos_confront_171bea36:
 translate languagetwo amos_confront_e84b7443:
 
     # mside "Don't act so high and mighty with me! I know your secret!"
-    mside "Não aja com tanta superioridade comigo! Eu sei o seu segredo!"
+    mside "Não aja como se fosse superior comigo! Eu sei o seu segredo!"
 
 # game/script_amos.rpy:3458
 translate languagetwo amos_confront_d84e3e30:
@@ -8230,7 +8710,7 @@ translate languagetwo amos_confront_307659a4:
 translate languagetwo amos_confront_b0e3caac:
 
     # mside "I mean, how COULD you?!"
-    mside "Quer dizer, como você PÔDE?!"
+    mside "Digo, como você PÔDE?!"
 
 # game/script_amos.rpy:3477
 translate languagetwo amos_confront_5141bb8b:
@@ -8242,7 +8722,7 @@ translate languagetwo amos_confront_5141bb8b:
 translate languagetwo amos_confront_9d58eca8:
 
     # "Amos steers you out of his house."
-    "Amos te guia para fora da casa dele."
+    "Amos te conduz para fora da casa dele."
 
 # game/script_amos.rpy:3482
 translate languagetwo amos_confront_596b2e16:
@@ -8266,13 +8746,13 @@ translate languagetwo amos_confront_aa0db56b:
 translate languagetwo amos_confront_65fd4ea3:
 
     # amos "Be right back."
-    amos "Já volto."
+    amos "Volto já."
 
 # game/script_amos.rpy:3496
 translate languagetwo amos_confront_1048d3e1:
 
     # thought "What the hell am I doing? How do I talk to him about this? Alright. Deep breaths. Deep breaths."
-    thought "Que diabos eu estou fazendo? Como eu falo com ele sobre isso? Certo. Respira fundo. Respira fundo."
+    thought "Que diabos estou fazendo? Como falo com ele sobre isso? Certo. Respira fundo. Respira fundo."
 
 # game/script_amos.rpy:3500
 translate languagetwo amos_confront_05c891f5:
@@ -8290,25 +8770,25 @@ translate languagetwo amos_confront_24a4b7b5:
 translate languagetwo amos_confess_7865bbb8:
 
     # "You wait anxiously for a minute until Amos returns and hands you a glass of water."
-    "Você espera ansiosamente por um minuto até Amos voltar e te entregar um copo d'água."
+    "Você espera ansiosamente por um minuto até que Amos retorna e lhe entrega um copo d'água."
 
 # game/script_amos.rpy:3514
 translate languagetwo amos_confess_38b0dc8b:
 
     # amos "Listen, [m], there's something I need to talk to you about."
-    amos "Escuta, [m], tem uma coisa que preciso falar com você."
+    amos "Ouça, [m], tem uma coisa que preciso te falar."
 
 # game/script_amos.rpy:3515
 translate languagetwo amos_confess_33b408fb:
 
     # thought "Ah ha. He's finally going to come clean."
-    thought "Ah ha. Ele finalmente vai abrir o jogo."
+    thought "Ah ha. Ele finalmente vai confessar."
 
 # game/script_amos.rpy:3516
 translate languagetwo amos_confess_674f48fb:
 
     # thought "There's probably a logical explanation for those men. And the moaning. And uh, grunting."
-    thought "Provavelmente há uma explicação lógica para aqueles homens. E os gemidos. E uh, grunhidos."
+    thought "Provavelmente há uma explicação lógica para aqueles homens. E os gemidos. E, hã, os grunhidos."
 
 # game/script_amos.rpy:3517
 translate languagetwo amos_confess_b10d6164:
@@ -8320,7 +8800,7 @@ translate languagetwo amos_confess_b10d6164:
 translate languagetwo amos_confess_6322d652:
 
     # amos "I have a certain pastime that is a rather significant part of my life."
-    amos "Eu tenho um certo passatempo que é uma parte bastante significativa da minha vida."
+    amos "Tenho um certo passatempo que é uma parte bastante significativa da minha vida."
 
 # game/script_amos.rpy:3521
 translate languagetwo amos_confess_e12319cb:
@@ -8332,7 +8812,7 @@ translate languagetwo amos_confess_e12319cb:
 translate languagetwo amos_confess_9fe5598c:
 
     # amos "I'm part of a wrestling club, of sorts."
-    amos "Eu faço parte de um clube de luta livre, de certa forma."
+    amos "Faço parte de um clube de luta livre, por assim dizer."
 
 # game/script_amos.rpy:3524
 translate languagetwo amos_confess_fe1d97fd:
@@ -8344,7 +8824,7 @@ translate languagetwo amos_confess_fe1d97fd:
 translate languagetwo amos_confess_04e2861d:
 
     # amos "Me and a few other guys like to put on our wrestling gear and have at it on weekends."
-    amos "Eu e alguns outros caras gostamos de colocar nosso equipamento de luta livre e cair na briga nos finais de semana."
+    amos "Eu e mais alguns caras gostamos de colocar nosso equipamento de luta e praticar nos fins de semana."
 
 # game/script_amos.rpy:3527
 translate languagetwo amos_confess_9eab9b23:
@@ -8368,13 +8848,13 @@ translate languagetwo amos_confess_9927ad97:
 translate languagetwo amos_confess_4fec34f8:
 
     # amos "It's just that, I don't know. It's a very strange thing. I realize this, but I've been doing it for so long it seems normal to me."
-    amos "É que, eu não sei. É uma coisa muito estranha. Eu percebo isso, mas tenho feito isso há tanto tempo que parece normal para mim."
+    amos "É só que, não sei. É uma coisa muito estranha. Eu percebo isso, mas faço há tanto tempo que parece normal para mim."
 
 # game/script_amos.rpy:3535
 translate languagetwo amos_confess_d652b6f9:
 
     # amos "I'm sorry if this is a shock."
-    amos "Desculpe se isso for um choque."
+    amos "Desculpe se isso é um choque."
 
 # game/script_amos.rpy:3537
 translate languagetwo amos_confess_19ad2aca:
@@ -8392,13 +8872,13 @@ translate languagetwo amos_confess_33691ebb:
 translate languagetwo amos_confess_440a6f58:
 
     # amos "Basically yes. Although it's not about the sex so much as the competition and camaraderie."
-    amos "Basicamente sim. Embora não seja tanto sobre o sexo quanto é sobre a competição e camaradagem."
+    amos "Basicamente sim. Embora não seja tanto sobre o sexo quanto é sobre a competição e a camaradagem."
 
 # game/script_amos.rpy:3543
 translate languagetwo amos_confess_2c403345:
 
     # amos "I understand that this may be difficult to process for some people. If you're not okay with it, say so. I won't think less of you for it."
-    amos "Eu entendo que isso pode ser difícil de processar para algumas pessoas. Se você não estiver bem com isso, diga. Eu não vou pensar menos de você por isso."
+    amos "Entendo que isso pode ser difícil de processar para algumas pessoas. Se você não estiver bem com isso, diga. Não vou pensar menos de você por isso."
 
 # game/script_amos.rpy:3548
 translate languagetwo amos_look_chest_6ae758da:
@@ -8410,7 +8890,7 @@ translate languagetwo amos_look_chest_6ae758da:
 translate languagetwo amos_look_chest_823266f0:
 
     # "Looking through the photos, they're all of men either wearing singlets, half-torn off singlets, or nothing at all. Every picture features the men either wrestling or having sex."
-    "Olhando as fotos, são todas de homens usando singletes, singletes meio rasgados ou nada. Cada foto mostra os homens lutando ou fazendo sexo."
+    "Olhando as fotos, são todas de homens usando collants de luta, collants meio rasgados ou nada. Cada foto mostra os homens lutando ou fazendo sexo."
 
 # game/script_amos.rpy:3550
 translate languagetwo amos_look_chest_10cc975c:
@@ -8422,31 +8902,31 @@ translate languagetwo amos_look_chest_10cc975c:
 translate languagetwo amos_look_chest_d4fdbd23:
 
     # thought "Wrestling? Porn? Wrestling-porn? Many of these are of Amos."
-    thought "Luta livre? Pornografia? Pornografia de luta livre? Muitas dessas são do Amos."
+    thought "Luta livre? Pornô? Luta pornô? Muitas dessas são do Amos."
 
 # game/script_amos.rpy:3554
 translate languagetwo amos_look_chest_3c116389:
 
     # "Realizing the gross invasion of privacy you've committed, you quickly put the pictures back and close the chest lid."
-    "Percebendo a grande invasão de privacidade que você cometeu, você rapidamente coloca as fotos de volta e fecha a tampa do baú."
+    "Percebendo a enorme invasão de privacidade que você cometeu, você rapidamente coloca as fotos de volta e fecha a tampa do baú."
 
 # game/script_amos.rpy:3555
 translate languagetwo amos_look_chest_8560e9f5:
 
     # "But it's too late. Amos is standing in the hallway, staring at you, looking furious."
-    "Mas é tarde demais. Amos está parado no corredor, olhando para você, parecendo furioso."
+    "Mas é tarde demais. Amos está parado no corredor, te encarando, furioso."
 
 # game/script_amos.rpy:3563
 translate languagetwo amos_look_chest_9ab4fb00:
 
     # amos "What the hell are you doing, [m]?"
-    amos "O que diabos você está fazendo, [m]?"
+    amos "Que diabos você está fazendo, [m]?"
 
 # game/script_amos.rpy:3565
 translate languagetwo amos_look_chest_bad5ac8f:
 
     # mside "Uhhh..."
-    mside "Uhhh..."
+    mside "Hããã..."
 
 # game/script_amos.rpy:3567
 translate languagetwo amos_look_chest_1bcfd5de:
@@ -8458,13 +8938,13 @@ translate languagetwo amos_look_chest_1bcfd5de:
 translate languagetwo amos_look_chest_a3fdbfd0:
 
     # mside "I don't know. I just, I guess curiosity got the better of me."
-    mside "Eu não sei. Eu só, acho que a curiosidade falou mais alto."
+    mside "Não sei. Eu só, acho que a curiosidade falou mais alto."
 
 # game/script_amos.rpy:3571
 translate languagetwo amos_look_chest_e598665a:
 
     # amos "You have no right to go through my personal effects. I don't know what the hell you were thinking!"
-    amos "Você não tem o direito de vasculhar meus pertences pessoais. Eu não sei o que diabos você estava pensando!"
+    amos "Você não tem o direito de mexer nas minhas coisas pessoais. Não sei o que diabos você estava pensando!"
 
 # game/script_amos.rpy:3573
 translate languagetwo amos_look_chest_9927ad97:
@@ -8482,7 +8962,7 @@ translate languagetwo amos_look_chest_93bb115d:
 translate languagetwo amos_look_chest_fb011425:
 
     # "You leave, miffed."
-    "Você sai, irritado."
+    "Você vai embora, ofendido."
 
 # game/script_amos.rpy:3587
 translate languagetwo amos_look_chest_02530b88:
@@ -8500,7 +8980,7 @@ translate languagetwo amos_apology_f1e82aaf:
 translate languagetwo amos_apology_c8492a30:
 
     # mside "...I stopped by the other day to say hi and saw these two guys walk into the house and there was all this grunting and moaning and then Dulcie started barking—"
-    mside "...Eu passei aqui outro dia para dar um oi e vi esses dois caras entrarem na casa e havia todo esse grunhido e gemido e então Dulcie começou a latir—"
+    mside "...eu dei uma passada outro dia para dizer oi e vi dois caras entrando na casa e tinha todo aquele grunhido e gemido e então a Dulcie começou a latir—"
 
 # game/script_amos.rpy:3596
 translate languagetwo amos_apology_be31ab38:
@@ -8512,13 +8992,13 @@ translate languagetwo amos_apology_be31ab38:
 translate languagetwo amos_apology_bd578617:
 
     # mside "Yeah, it sounded like I was gonna get my kneecaps blown off if I showed my face."
-    mside "Sim, parecia que eu ia ter meus joelhos estourados se eu mostrasse meu rosto."
+    mside "Sim, parecia que eu ia ter meus joelhos estourados se mostrasse a cara."
 
 # game/script_amos.rpy:3600
 translate languagetwo amos_apology_dfc9a37e:
 
     # amos "Well, maybe. My buddies can be a bit trigger happy."
-    amos "Bem, talvez. Meus amigos podem ter o gatilho um pouco fácil."
+    amos "Bem, talvez. Meus amigos podem ter o gatilho meio fácil."
 
 # game/script_amos.rpy:3601
 translate languagetwo amos_apology_2f54cb87:
@@ -8530,13 +9010,13 @@ translate languagetwo amos_apology_2f54cb87:
 translate languagetwo amos_apology_47c6d008:
 
     # mside "So, uh, what is all this stuff?"
-    mside "Então, uh, o que é tudo isso?"
+    mside "Então, hã, o que é tudo isso?"
 
 # game/script_amos.rpy:3605
 translate languagetwo amos_apology_2cf6ac58:
 
     # amos "It's, well, I don't know how to explain. All people have a variety of interests, right? And they don't always line-up nicely with each other."
-    amos "É, bem, eu não sei como explicar. Todas as pessoas têm uma variedade de interesses, certo? E eles nem sempre se alinham perfeitamente uns com os outros."
+    amos "É, bem, não sei como explicar. Todas as pessoas têm uma variedade de interesses, certo? E eles nem sempre se alinham perfeitamente uns com os outros."
 
 # game/script_amos.rpy:3611
 translate languagetwo amos_apology_708fa1b3:
@@ -8560,7 +9040,7 @@ translate languagetwo amos_apology_7f7b5055:
 translate languagetwo amos_apology_79b94629:
 
     # amos "And I realize I've been a little evasive at moments, but honestly, how do you explain something right off the bat like this without coming across like an oddball?"
-    amos "E eu percebo que fui um pouco evasivo às vezes, mas, honestamente, como você explica algo assim logo de cara sem parecer um esquisitão?"
+    amos "E percebo que tenho sido um pouco evasivo às vezes, mas honestamente, como você explica algo assim logo de cara sem parecer um excêntrico?"
 
 # game/script_amos.rpy:3625
 translate languagetwo amos_apology_17871f59:
@@ -8572,13 +9052,13 @@ translate languagetwo amos_apology_17871f59:
 translate languagetwo amos_apology_12ce29fa:
 
     # amos "So you know my secret. If you're not okay with it, I understand. But let me assure you there is nothing phony about me."
-    amos "Então você sabe o meu segredo. Se você não estiver bem com isso, eu entendo. Mas deixe-me garantir que não há nada falso em mim."
+    amos "Então você sabe meu segredo. Se você não estiver bem com isso, eu entendo. Mas deixe-me assegurar que não há nada de falso em mim."
 
 # game/script_amos.rpy:3629
 translate languagetwo amos_apology_96d34a6e:
 
     # mside "I feel like such a jerk. I shouldn't have jumped to conclusions. Or snooped. Or generally been such an idiot."
-    mside "Eu me sinto um idiota. Eu não deveria ter tirado conclusões precipitadas. Ou bisbilhotado. Ou geralmente sido tão idiota."
+    mside "Me sinto um idiota. Não deveria ter tirado conclusões precipitadas. Ou bisbilhotado. Ou ter sido um idiota em geral."
 
 # game/script_amos.rpy:3631
 translate languagetwo amos_apology_ead93631:
@@ -8596,7 +9076,7 @@ translate languagetwo amos_apology_b17bb242:
 translate languagetwo amos_apology_4a65de2c:
 
     # amos "That's easy to say after you've been caught. Nevertheless, I've been caught too, in a sense. Perhaps I should've been more upfront."
-    amos "É fácil dizer isso depois de ter sido pego. No entanto, eu também fui pego, em certo sentido. Talvez eu devesse ter sido mais direto."
+    amos "É fácil dizer isso depois de ter sido pego. No entanto, eu fui pego também, de certo modo. Talvez eu devesse ter sido mais direto."
 
 # game/script_amos.rpy:3636
 translate languagetwo amos_apology_7dd5a830:
@@ -8620,7 +9100,7 @@ translate languagetwo amos_after_confess_82df69c6:
 translate languagetwo amos_after_confess_f7e4db99:
 
     # mside "Seriously, who doesn't like wrestling or sex? Like two of the greatest things in the world, right?"
-    mside "Sério, quem não gosta de luta livre ou sexo? Tipo duas das melhores coisas do mundo, certo?"
+    mside "Sério, quem não gosta de luta livre ou sexo? Tipo duas das melhores coisas do mundo, né?"
 
 # game/script_amos.rpy:3652
 translate languagetwo amos_after_confess_ef549b5b:
@@ -8632,7 +9112,7 @@ translate languagetwo amos_after_confess_ef549b5b:
 translate languagetwo amos_after_confess_b3bed792:
 
     # mside "Or burgers and fries."
-    mside "Ou hambúrgueres e batatas fritas."
+    mside "Ou hambúrguer e batata frita."
 
 # game/script_amos.rpy:3656
 translate languagetwo amos_after_confess_89dff58d:
@@ -8656,25 +9136,25 @@ translate languagetwo amos_after_confess_f2e81feb:
 translate languagetwo amos_after_confess_07d345ec:
 
     # amos "That's quite a relief to hear, [m]. I was so worried that I'd scare you off when the truth is I'm growing incredibly fond of you."
-    amos "É um alívio ouvir isso, [m]. Eu estava tão preocupado em te assustar quando a verdade é que estou gostando incrivelmente de você."
+    amos "É um grande alívio ouvir isso, [m]. Eu estava tão preocupado em te assustar quando a verdade é que estou gostando incrivelmente de você."
 
 # game/script_amos.rpy:3668
 translate languagetwo amos_after_confess_be99dc46:
 
     # mside "It's ok. The 'unusual' stuff about people is what actually makes us interesting."
-    mside "Tudo bem. As coisas 'incomuns' sobre as pessoas são o que realmente nos tornam interessantes."
+    mside "Tudo bem. As coisas 'incomuns' sobre as pessoas é o que realmente nos torna interessantes."
 
 # game/script_amos.rpy:3670
 translate languagetwo amos_after_confess_bce308c5:
 
     # amos "Very well put. Even though I'd call this escapade misguided, I'm glad things happened as they have. I feel like a monkey's climbed off my back."
-    amos "Muito bem colocado. Embora eu chamasse essa escapada de equivocada, estou feliz que as coisas tenham acontecido como aconteceram. Sinto como se tivesse tirado um peso das costas."
+    amos "Muito bem colocado. Mesmo que eu chamasse essa aventura de equivocada, estou feliz que as coisas tenham acontecido como aconteceram. Sinto como se tivesse tirado um peso das costas."
 
 # game/script_amos.rpy:3672
 translate languagetwo amos_after_confess_83046328:
 
     # mside "Hey, what's wrong with having a monkey on your back? That sounds kind of fun."
-    mside "Ei, o que há de errado em ter um macaco nas costas? Isso parece meio divertido."
+    mside "Ei, o que há de errado em ter um macaco nas costas? Isso soa meio divertido."
 
 # game/script_amos.rpy:3674
 translate languagetwo amos_after_confess_fae1041f:
@@ -8686,19 +9166,19 @@ translate languagetwo amos_after_confess_fae1041f:
 translate languagetwo amos_after_confess_b571a6e7:
 
     # mside "I suppose there's the whole poo-flinging thing for starters."
-    mside "Suponho que haja toda a coisa de jogar cocô para começar."
+    mside "Suponho que tenha a coisa de arremessar cocô para começar."
 
 # game/script_amos.rpy:3678
 translate languagetwo amos_after_confess_68556556:
 
     # amos "You know what they say—\"{i}Be patient to the last, for a flung turd cannot be unthrown.{/i}\""
-    amos "Você sabe o que dizem—\"{i}Seja paciente até o fim, pois um tolete arremessado não pode ser 'desarremessado'.{/i}\""
+    amos "Você sabe o que dizem—\"{i}Seja paciente até o fim, pois um tolete arremessado não pode ser desarremessado.{/i}\""
 
 # game/script_amos.rpy:3680
 translate languagetwo amos_after_confess_abcdda8e:
 
     # mside "Is that a real saying?"
-    mside "Isso é um ditado real?"
+    mside "Isso é um ditado de verdade?"
 
 # game/script_amos.rpy:3682
 translate languagetwo amos_after_confess_33691ebb:
@@ -8722,7 +9202,7 @@ translate languagetwo amos_after_confess_88ccb77c:
 translate languagetwo amos_after_confess_cd80bf7a:
 
     # amos "That's unforgivable. Get the hell out of my house."
-    amos "Isso é imperdoável. Dê o fora da minha casa."
+    amos "Isso é imperdoável. Saia da minha casa."
 
 # game/script_amos.rpy:3696
 translate languagetwo amos_after_confess_addacf53:
@@ -8740,7 +9220,7 @@ translate languagetwo amos_after_confess_c77efe1f:
 translate languagetwo amos_after_confess_11b779d3:
 
     # amos "Seriously, though, I cannot approve of canned meat consumption. It causes dementia among a great many other maladies."
-    amos "Sério, no entanto, não posso aprovar o consumo de carne enlatada. Causa demência entre muitas outras doenças."
+    amos "Sério, porém, não posso aprovar o consumo de carne enlatada. Causa demência entre muitas outras doenças."
 
 # game/script_amos.rpy:3703
 translate languagetwo amos_after_confess_5a315e31:
@@ -8752,7 +9232,7 @@ translate languagetwo amos_after_confess_5a315e31:
 translate languagetwo amos_after_confess_9d29bbc8:
 
     # amos "[m], this has been quite a day. Now that we've got things cleared up, I believe I have something else I need to take care of."
-    amos "[m], este foi um dia e tanto. Agora que esclarecemos as coisas, acredito que tenho outra coisa para cuidar."
+    amos "[m], o dia foi cheio. Agora que esclarecemos as coisas, acredito que tenho outra coisa que preciso resolver."
 
 # game/script_amos.rpy:3709
 translate languagetwo amos_after_confess_4d170c1f:
@@ -8794,7 +9274,7 @@ translate languagetwo amos_after_confess_d862c0d2:
 translate languagetwo amos_after_confess_051176c5:
 
     # amos "Yes, he's part of our wrestling league. We do spar every so often."
-    amos "Sim, ele faz parte da nossa liga de luta livre. Nós treinamos de vez em quando."
+    amos "Sim, ele faz parte da nossa liga de luta livre. Nós lutamos de vez em quando."
 
 # game/script_amos.rpy:3723
 translate languagetwo amos_after_confess_f132e88f_1:
@@ -8806,13 +9286,13 @@ translate languagetwo amos_after_confess_f132e88f_1:
 translate languagetwo amos_after_confess_b0f6b309:
 
     # amos "I assure you I have no feelings for him, aside from occasional pangs of disapproval and disgust."
-    amos "Garanto a você que não tenho sentimentos por ele, além de pontadas ocasionais de desaprovação e nojo."
+    amos "Garanto a você que não tenho sentimentos por ele, além de ocasionais pontadas de desaprovação e nojo."
 
 # game/script_amos.rpy:3737
 translate languagetwo amos_after_confess_8d9caf59:
 
     # amos "I'm sorry to hear that."
-    amos "Sinto muito em ouvir isso."
+    amos "Sinto muito ouvir isso."
 
 # game/script_amos.rpy:3741
 translate languagetwo amos_after_confess_3423dacb:
@@ -8824,25 +9304,25 @@ translate languagetwo amos_after_confess_3423dacb:
 translate languagetwo amos_after_confess_1d357b7c:
 
     # amos "If you'll excuse me, I've got to prepare and make some arrangements."
-    amos "Se você me der licença, tenho que me preparar e fazer alguns arranjos."
+    amos "Se me der licença, tenho que me preparar e fazer alguns arranjos."
 
 # game/script_amos.rpy:3751
 translate languagetwo amos_breakup_268f8b86:
 
     # "The two of you stare at each other for a moment."
-    "Vocês dois olham um para o outro por um momento."
+    "Vocês dois se encaram por um momento."
 
 # game/script_amos.rpy:3755
 translate languagetwo amos_breakup_63b5e364:
 
     # amos "I'm sorry it didn't work out. Take care."
-    amos "Sinto muito que não tenha dado certo. Se cuida."
+    amos "Sinto muito que não tenha funcionado. Se cuida."
 
 # game/script_amos.rpy:3756
 translate languagetwo amos_breakup_c674a2cc:
 
     # "You gather yourself and leave."
-    "Você se recompõe e vai embora."
+    "Você se recompõe e sai."
 
 # game/script_amos.rpy:3760
 translate languagetwo amos_breakup_33691ebb:
@@ -8877,9 +9357,9 @@ translate languagetwo amos_loses_5136dd7f:
 # game/script_amos.rpy:3781
 translate languagetwo amos_loses_4eb4a64b:
 
-    # nvl clear     
+    # nvl clear    
     # amos_m "I need to see you."
-    nvl clear     
+    nvl clear    
     amos_m "Eu preciso te ver."
 
 # game/script_amos.rpy:3783
@@ -8892,7 +9372,7 @@ translate languagetwo amos_loses_e846dbf7:
 translate languagetwo amos_loses_4b8e7d34:
 
     # amos_m "Rough day. Come over?"
-    amos_m "Dia difícil. Quer vir aqui?"
+    amos_m "Dia difícil. Vem aqui?"
 
 # game/script_amos.rpy:3785
 translate languagetwo amos_loses_b70c1907:
@@ -8916,37 +9396,37 @@ translate languagetwo amos_loses_e1bd1ec6:
 translate languagetwo amos_loses_dce872c4:
 
     # "Everything's going fine until you reach St. Magnus Ave."
-    "Tudo vai bem até você chegar na Av. St. Magnus."
+    "Tudo está indo bem até você chegar na Avenida St. Magnus."
 
 # game/script_amos.rpy:3791
 translate languagetwo amos_loses_137d0a26:
 
     # "There, you're stopped by an unending group of riders engaging in a Critical Mass event. Bicycles as far as you can see in either direction."
-    "Lá, você é parado por um grupo interminável de ciclistas participando de um evento de Massa Crítica. Bicicletas até onde a vista alcança em ambas as direções."
+    "Lá, você é parado por um grupo interminável de ciclistas participando de um evento da Massa Crítica. Bicicletas até onde a vista alcança em qualquer direção."
 
 # game/script_amos.rpy:3792
 translate languagetwo amos_loses_fb499799:
 
     # "You won't be crossing this sea of humanity any time soon."
-    "Você não vai atravessar esse mar de gente tão cedo."
+    "Você não vai cruzar esse mar de gente tão cedo."
 
 # game/script_amos.rpy:3793
 translate languagetwo amos_loses_fcbea698:
 
     # "You look at them, so happy, the ride practically a gala."
-    "Você olha para eles, tão felizes, o passeio é praticamente uma festa de gala."
+    "Você olha para eles, tão felizes, o passeio praticamente uma festa de gala."
 
 # game/script_amos.rpy:3794
 translate languagetwo amos_loses_b467dd60:
 
     # thought "Jesus! Hurry the eff up!"
-    thought "Jesus! Anda logo com essa porra!"
+    thought "Jesus! Se mexam logo, caramba!"
 
 # game/script_amos.rpy:3795
 translate languagetwo amos_loses_b205185e:
 
     # "A young woman with dreads sees you waiting and gives you an inviting look."
-    "Uma jovem com dreads vê você esperando e te lança um olhar convidativo."
+    "Uma jovem com dreads te vê esperando e te lança um olhar convidativo."
 
 # game/script_amos.rpy:3796
 translate languagetwo amos_loses_51231f7d:
@@ -8958,31 +9438,31 @@ translate languagetwo amos_loses_51231f7d:
 translate languagetwo amos_loses_80647cae:
 
     # "You stare at the cyclists. You figure you might be able to join the group then escape using a side street."
-    "Você encara os ciclistas. Você imagina que talvez consiga se juntar ao grupo e depois escapar por uma rua lateral."
+    "Você encara os ciclistas. Imagina que pode se juntar ao grupo e depois escapar por uma rua lateral."
 
 # game/script_amos.rpy:3801
 translate languagetwo amos_loses_715c7c10:
 
     # "You get back on your pedals and join the ride. Like a swarm of insects sharing a single mind and purpose, you're swept up by the energy and mood."
-    "Você volta a pedalar e se junta ao passeio. Como um enxame de insetos compartilhando uma única mente e propósito, você é varrido pela energia e clima."
+    "Você volta a pedalar e se junta ao passeio. Como um enxame de insetos compartilhando uma única mente e propósito, você é arrebatado pela energia e pelo clima."
 
 # game/script_amos.rpy:3802
 translate languagetwo amos_loses_8740c2d4:
 
     # "Everyone just cruising, chatting, enjoying the freedom of the entire street. You try to steer the bike out of the crowd, but you find yourself blocked in by wall-to-wall cyclists."
-    "Todo mundo apenas passeando, conversando, aproveitando a liberdade da rua inteira. Você tenta desviar a bicicleta para fora da multidão, mas se vê bloqueado por um paredão de ciclistas."
+    "Todo mundo apenas passeando, conversando, curtindo a liberdade da rua inteira. Você tenta desviar a bicicleta da multidão, mas se vê bloqueado por um paredão de ciclistas."
 
 # game/script_amos.rpy:3803
 translate languagetwo amos_loses_e7983b40:
 
     # "A moderately askew, bummish looking gentleman pulls alongside you."
-    "Um cavalheiro moderadamente torto, com aparência de vagabundo, encosta ao seu lado."
+    "Um senhor moderadamente desalinhado, com aparência de vagabundo, emparelha com você."
 
 # game/script_amos.rpy:3804
 translate languagetwo amos_loses_77cb5989:
 
     # cyclist3_off "WheRE wE goIN' mAN?!"
-    cyclist3_off "OnDE a geNTE tÁ inDO caRA?!"
+    cyclist3_off "OnDE nÓs tAmO iNDo cARa?!"
 
 # game/script_amos.rpy:3806
 translate languagetwo amos_loses_dcf30213:
@@ -8994,19 +9474,19 @@ translate languagetwo amos_loses_dcf30213:
 translate languagetwo amos_loses_2543ef50:
 
     # cyclist3_off "WeLL wHY wE goIN' thERE thEN?!"
-    cyclist3_off "BeM enTÃO poR qUE estaMOS inDO prA LÁ?!"
+    cyclist3_off "eNTão pOR quE a gENtE tÁ iNdO pRa lÁ?!"
 
 # game/script_amos.rpy:3809
 translate languagetwo amos_loses_f5652f60:
 
     # mside "I guess cause everyone else is."
-    mside "Acho que porque todo mundo está indo."
+    mside "Acho que porque todo mundo está."
 
 # game/script_amos.rpy:3810
 translate languagetwo amos_loses_11059c88:
 
     # cyclist3_off "ThaT'S a terriBLE reaSON, mAN?!"
-    cyclist3_off "EsSA é uMA péssiMA razÃO, caRA?!"
+    cyclist3_off "eSSa é uMA péssiMA raZÃo, cARA?!"
 
 # game/script_amos.rpy:3812
 translate languagetwo amos_loses_da806143:
@@ -9018,13 +9498,13 @@ translate languagetwo amos_loses_da806143:
 translate languagetwo amos_loses_851b9638:
 
     # cyclist3_off "YoU cAN’T. YOU knOW whY? ThE cOPS sET thIS uP, thAT’S whY!"
-    cyclist3_off "VoCÊ nÃO poDE. VO cÊ saBE poR quÊ? OS tiRAS armaRAM isSO, É poR isSO!"
+    cyclist3_off "vOCê nÃO pODE. sABe pOR qUÊ? oS tIRaS arMAraM iSSo, é pOR iSSo!"
 
 # game/script_amos.rpy:3814
 translate languagetwo amos_loses_2fcf6b66:
 
     # cyclist3_off "LiKE they'RE juST herdING uS iN oNE plaCE sO thEY cAN taKE uS aLL dOWN aT onCE!"
-    cyclist3_off "TiPO elES estÃO sÓ nOS pastoreanDO nUM lugAR sÓ prA podER nOS pegAR tODOS dE uMA vEZ!"
+    cyclist3_off "tIPo eLEs tÃO sÓ pASStOreAnDO a geNTe nUM lUGAr pRA pODErEm peGAR tODo mUNdo dE uMA vEZ!"
 
 # game/script_amos.rpy:3816
 translate languagetwo amos_loses_7d7cbc2b:
@@ -9036,13 +9516,13 @@ translate languagetwo amos_loses_7d7cbc2b:
 translate languagetwo amos_loses_f70522b5:
 
     # cyclist3_off "YoU knOW whAT?! You'RE crAZY mAN?! YoU’LL faLL riGHT inTO theIR trAP!"
-    cyclist3_off "SaBE dE uMA coiSA?! VoCÊ é louCO caRA?! VoCÊ vAI caIR dirETO nA armadiLHA delES!"
+    cyclist3_off "sABE dE uMA cOIsA?! vOCê é loUCo cARa?! vOCê vAI cAIr dIRetO nA arMADilHa dELEs!"
 
 # game/script_amos.rpy:3819
 translate languagetwo amos_loses_787eae88:
 
     # "You notice the moderately askew gentleman look away from you for a moment, at which point you brake and duck out of his field of vision."
-    "Você percebe o cavalheiro moderadamente torto desviar o olhar de você por um momento, ponto em que você freia e se esconde do campo de visão dele."
+    "Você nota o cavalheiro moderadamente desalinhado desviar o olhar de você por um momento, ponto em que você freia e sai do campo de visão dele."
 
 # game/script_amos.rpy:3820
 translate languagetwo amos_loses_a10889fa:
@@ -9054,25 +9534,25 @@ translate languagetwo amos_loses_a10889fa:
 translate languagetwo amos_loses_a414a40e:
 
     # cyclist3_off "WherE'D yOU gO mAN?! dID thE cOPS gET yOU mAN?!"
-    cyclist3_off "Pra onDE voCÊ foI caRA?! oS tiRAS tE pegaRAM caRA?!"
+    cyclist3_off "pR'OnDe vOCê fOI cARA?! oS tIRAs tE pEGaRam cARA?!"
 
 # game/script_amos.rpy:3822
 translate languagetwo amos_loses_3a0c1a71:
 
     # "He's looking around for you, wild-eyed, but can't see that you're right behind him."
-    "Ele está olhando em volta procurando por você, com olhos arregalados, mas não consegue ver que você está bem atrás dele."
+    "Ele está procurando por você, com os olhos arregalados, mas não consegue ver que você está logo atrás dele."
 
 # game/script_amos.rpy:3823
 translate languagetwo amos_loses_0c1ad08d:
 
     # "You feel a little bad for ducking out on your new friend, but quite frankly, he was kind of freaking you the hell out."
-    "Você se sente um pouco mal por fugir do seu novo amigo, mas francamente, ele estava te assustando pra caramba."
+    "Você se sente um pouco mal por abandonar seu novo amigo, mas francamente, ele estava te assustando pra caramba."
 
 # game/script_amos.rpy:3824
 translate languagetwo amos_loses_9dc7d6d6:
 
     # "The way he annunciated the end of each word and ended each sentence like an excited question was causing some cognitive dissonance."
-    "O jeito que ele pronunciava o final de cada palavra e terminava cada frase como uma pergunta empolgada estava causando certa dissonância cognitiva."
+    "O jeito que ele pronunciava o final de cada palavra e terminava cada frase como uma pergunta animada estava causando uma certa dissonância cognitiva."
 
 # game/script_amos.rpy:3826
 translate languagetwo amos_loses_160ceb83:
@@ -9084,31 +9564,31 @@ translate languagetwo amos_loses_160ceb83:
 translate languagetwo amos_loses_c68561fe:
 
     # cyclist3_off "itsthecopsmaneveryBODYRUN!!!!!!!?"
-    cyclist3_off "saoostirascaratodoMUNDOCORRE!!!!!!!?"
+    cyclist3_off "saoostirascaratodomundoCORRE!!!!!!!?"
 
 # game/script_amos.rpy:3828
 translate languagetwo amos_loses_d636876e:
 
     # cyclist3_off "copscopscopscOPS!!!!!?"
-    cyclist3_off "tirastirastirastiRAS!!!!!?"
+    cyclist3_off "tirastirastirastIRAS!!!!!?"
 
 # game/script_amos.rpy:3829
 translate languagetwo amos_loses_5e0c2748:
 
     # cyclist3_off "saveyourselvesitSTHECOPS!!!!!?"
-    cyclist3_off "se-salvemsaoOSTIRAS!!!!!?"
+    cyclist3_off "salvesequempudersAOosTIRAS!!!!!?"
 
 # game/script_amos.rpy:3830
 translate languagetwo amos_loses_df554eed:
 
     # "The bummish gentleman waves his arms wildly over his head in warning before bolting from the pack down an alleyway."
-    "O cavalheiro vagabundo agita os braços selvagemente acima da cabeça em aviso antes de disparar do grupo por um beco."
+    "O senhor com cara de vagabundo agita os braços loucamente sobre a cabeça em aviso antes de disparar do grupo por um beco."
 
 # game/script_amos.rpy:3831
 translate languagetwo amos_loses_9ee57b54:
 
     # "Like fire in the brush, shouts of 'COPS' spread down and back up the procession, at first with only a few people fleeing in panic."
-    "Como fogo no mato, gritos de 'TIRAS' se espalham para baixo e para cima da procissão, no começo com apenas algumas pessoas fugindo em pânico."
+    "Como fogo em mato seco, gritos de 'POLÍCIA' se espalham para frente e para trás na procissão, a princípio com apenas algumas pessoas fugindo em pânico."
 
 # game/script_amos.rpy:3832
 translate languagetwo amos_loses_56e54433:
@@ -9120,37 +9600,37 @@ translate languagetwo amos_loses_56e54433:
 translate languagetwo amos_loses_41ec6fac:
 
     # "Within seconds the Critical Mass reaches critical mass and disperses like water over rocks, flowing in any and all directions fast as it can."
-    "Em segundos a Massa Crítica atinge a massa crítica e se dispersa como água sobre pedras, fluindo em todas as direções o mais rápido possível."
+    "Em segundos, a Massa Crítica atinge massa crítica e se dispersa como água sobre pedras, fluindo em todas as direções o mais rápido possível."
 
 # game/script_amos.rpy:3838
 translate languagetwo amos_loses_eeaba7c1:
 
     # "Except for you. The one guy who knows what actually happened."
-    "Exceto você. O único cara que sabe o que realmente aconteceu."
+    "Exceto por você. O único cara que sabe o que realmente aconteceu."
 
 # game/script_amos.rpy:3839
 translate languagetwo amos_loses_fd5f2e6d:
 
     # "You see some of the other cyclists look back at you and raise their fists in solidarity."
-    "Você vê alguns dos outros ciclistas olharem para trás para você e erguerem os punhos em solidariedade."
+    "Você vê alguns dos outros ciclistas olharem para trás e levantarem os punhos em solidariedade."
 
 # game/script_amos.rpy:3840
 translate languagetwo amos_loses_3fc2b1c6:
 
     # "'Fight the power, brother!' one yells."
-    "'Lute contra o poder, irmão!' um grita."
+    "'Lute contra o poder, irmão!', um grita."
 
 # game/script_amos.rpy:3841
 translate languagetwo amos_loses_59f1af96:
 
     # "'Who is that guy? He's out of his mind! One man! Facing the power structure alone!’ another exclaims."
-    "'Quem é aquele cara? Ele ficou louco! Um homem só! Enfrentando a estrutura de poder sozinho!’ outro exclama."
+    "'Quem é aquele cara? Ele ficou maluco! Um homem! Enfrentando a estrutura de poder sozinho!', outro exclama."
 
 # game/script_amos.rpy:3845
 translate languagetwo amos_loses_883c1fe7:
 
     # "A crowd blocking one of the streets watches you in awe as you approach."
-    "Uma multidão bloqueando uma das ruas assiste você com admiração enquanto se aproxima."
+    "Uma multidão bloqueando uma das ruas te observa com admiração enquanto você se aproxima."
 
 # game/script_amos.rpy:3847
 translate languagetwo amos_loses_eaf82aa1:
@@ -9168,13 +9648,13 @@ translate languagetwo amos_loses_ec79adf7:
 translate languagetwo amos_loses_bd64200d:
 
     # "‘ONE MAN CRITICAL MASS! ONE MAN CRITICAL MASS!’ yells the crowd, parting reverently before you. You high five at least a dozen people as you sail past."
-    "‘MASSA CRÍTICA DE UM HOMEM SÓ! MASSA CRÍTICA DE UM HOMEM SÓ!’ grita a multidão, abrindo caminho reverentemente diante de você. Você bate na mão de pelo menos uma dúzia de pessoas enquanto passa."
+    "‘MASSA CRÍTICA DE UM HOMEM SÓ! MASSA CRÍTICA DE UM HOMEM SÓ!’ grita a multidão, abrindo caminho reverentemente diante de você. Você toca a mão de pelo menos uma dúzia de pessoas ao passar."
 
 # game/script_amos.rpy:3851
 translate languagetwo amos_loses_94a217b4:
 
     # "You pedal off towards your meeting as fast as your legs can push."
-    "Você pedala em direção ao seu encontro o mais rápido que suas pernas conseguem empurrar."
+    "Você pedala em direção ao seu encontro o mais rápido que suas pernas aguentam."
 
 # game/script_amos.rpy:3857
 translate languagetwo amos_after_gregor_295feaec:
@@ -9186,13 +9666,13 @@ translate languagetwo amos_after_gregor_295feaec:
 translate languagetwo amos_after_gregor_6d12caa3:
 
     # mside "Oh my gosh, I'm sorry I'm super late but you'd never guess what—"
-    mside "Ai meu deus, desculpe pelo atraso enorme mas você nunca vai adivinhar o que—"
+    mside "Ai meu Deus, me desculpe pelo atraso enorme, mas você nunca vai adivinhar o que—"
 
 # game/script_amos.rpy:3868
 translate languagetwo amos_after_gregor_80250b6f:
 
     # mside "Oh my god. What happened?"
-    mside "Ai meu deus. O que aconteceu?"
+    mside "Ai meu Deus. O que aconteceu?"
 
 # game/script_amos.rpy:3870
 translate languagetwo amos_after_gregor_33691ebb:
@@ -9216,7 +9696,7 @@ translate languagetwo amos_after_gregor_cd5810d5:
 translate languagetwo amos_after_gregor_97451b59:
 
     # amos "Yes, yes, but it was on the level. After all, I answered his challenge to do battle. We fought. He won."
-    amos "Sim, sim, mas foi tudo justo. Afinal, eu aceitei o desafio dele para lutar. Nós lutamos. Ele venceu."
+    amos "Sim, sim, mas foi tudo justo. Afinal, eu aceitei o desafio dele para batalhar. Lutamos. Ele venceu."
 
 # game/script_amos.rpy:3882
 translate languagetwo amos_after_gregor_d4d6f285:
@@ -9228,43 +9708,43 @@ translate languagetwo amos_after_gregor_d4d6f285:
 translate languagetwo amos_after_gregor_bb5b2219:
 
     # amos "Trust me, that already crossed my mind and I'm not pleased about it."
-    amos "Acredite em mim, isso já passou pela minha cabeça e não estou feliz com isso."
+    amos "Confie em mim, isso já passou pela minha cabeça e não estou feliz com isso."
 
 # game/script_amos.rpy:3886
 translate languagetwo amos_after_gregor_9b325b39:
 
     # mside "Sorry, I didn't mean to make light of your situation."
-    mside "Desculpe, não quis fazer pouco da sua situação."
+    mside "Desculpe, não quis menosprezar sua situação."
 
 # game/script_amos.rpy:3889
 translate languagetwo amos_after_gregor_5fcde760:
 
     # amos "Let's be realistic. I don't expect that you'd fare well against someone so much larger than you."
-    amos "Vamos ser realistas. Eu não espero que você se saia bem contra alguém muito maior que você."
+    amos "Vamos ser realistas. Não espero que você se saia bem contra alguém muito maior que você."
 
 # game/script_amos.rpy:3891
 translate languagetwo amos_after_gregor_94da4826:
 
     # amos "Also, revenge needs to be crafted carefully. Not just rushed into. At the moment, I'd like to recuperate a little."
-    amos "Além disso, a vingança precisa ser elaborada com cuidado. Não apenas apressada. No momento, gostaria de me recuperar um pouco."
+    amos "Além disso, vingança precisa ser elaborada com cuidado. Não apressada. No momento, gostaria de me recuperar um pouco."
 
 # game/script_amos.rpy:3894
 translate languagetwo amos_after_gregor_ff3d86cb:
 
     # amos "No, it's just superficial. My pride more than anything else."
-    amos "Não, é apenas superficial. Meu orgulho mais do que qualquer outra coisa."
+    amos "Não, é só superficial. Meu orgulho mais do que qualquer outra coisa."
 
 # game/script_amos.rpy:3898
 translate languagetwo amos_after_gregor_93df43ab:
 
     # mside "Do you want to take a walk?"
-    mside "Quer dar uma volta?"
+    mside "Quer dar uma caminhada?"
 
 # game/script_amos.rpy:3900
 translate languagetwo amos_after_gregor_65566136:
 
     # amos "Not at the moment, no."
-    amos "Não no momento, não."
+    amos "No momento não, obrigado."
 
 # game/script_amos.rpy:3902
 translate languagetwo amos_after_gregor_514eb9d9:
@@ -9282,25 +9762,25 @@ translate languagetwo amos_after_gregor_755bb5d4:
 translate languagetwo amos_after_gregor_c04ff92e:
 
     # amos "I feel as if I've failed. Not so much in the fight, but more so that I let it get to that point."
-    amos "Sinto como se tivesse falhado. Não tanto na luta, mas mais por ter deixado chegar a esse ponto."
+    amos "Sinto que falhei. Não tanto na luta, mas mais por ter deixado chegar a esse ponto."
 
 # game/script_amos.rpy:3908
 translate languagetwo amos_after_gregor_c669afc1:
 
     # amos "Just stupid, really. I reacted in haste. What I should've done is quit this ridiculous fetish of mine."
-    amos "Estupidez, sério. Eu reagi com pressa. O que eu deveria ter feito era abandonar esse meu fetiche ridículo."
+    amos "Simplesmente estúpido, na verdade. Reagi com pressa. O que eu deveria ter feito era abandonar esse meu fetiche ridículo."
 
 # game/script_amos.rpy:3910
 translate languagetwo amos_after_gregor_bdd428aa:
 
     # amos "Don't mistake my meaning. Wrestling was fun and exciting and it worked for me for a long while. But it is a younger man's providence."
-    amos "Não entenda mal o que quero dizer. Luta livre era divertida e emocionante e funcionou para mim por muito tempo. Mas é coisa de gente mais jovem."
+    amos "Não me entenda mal. Luta livre foi divertida e empolgante e funcionou para mim por muito tempo. Mas é coisa de gente mais jovem."
 
 # game/script_amos.rpy:3912
 translate languagetwo amos_after_gregor_fe10969c:
 
     # amos "I suppose this is a hard-won lesson. I'd be foolish to not gather the meaning of the situation."
-    amos "Suponho que esta seja uma lição duramente aprendida. Eu seria tolo em não compreender o significado da situação."
+    amos "Suponho que essa seja uma lição duramente aprendida. Eu seria tolo se não entendesse o significado da situação."
 
 # game/script_amos.rpy:3914
 translate languagetwo amos_after_gregor_723e3f33:
@@ -9324,7 +9804,7 @@ translate languagetwo amos_after_gregor_40ea1c9c:
 translate languagetwo amos_after_gregor_cf7df19f:
 
     # thought "Amos has a look in his eye that you're not sure about, but you did give him your word."
-    thought "Amos tem um olhar que você não tem certeza do que significa, mas você deu sua palavra a ele."
+    thought "Amos tem um olhar que te deixa incerto, mas você deu sua palavra a ele."
 
 # game/script_amos.rpy:3926
 translate languagetwo amos_after_gregor_cfc150eb:
@@ -9336,7 +9816,7 @@ translate languagetwo amos_after_gregor_cfc150eb:
 translate languagetwo amos_after_gregor_45279235:
 
     # mside "{i}Failure is not a call to reexamine your reasons, but a call to arms to try again, and again, and again! As much as is required, you must give!{/i}"
-    mside "{i}O fracasso não é um chamado para reexaminar suas razões, mas um chamado às armas para tentar de novo, e de novo, e de novo! O quanto for necessário, você deve dar!{/i}"
+    mside "{i}O fracasso não é um chamado para reexaminar suas razões, mas um chamado às armas para tentar de novo, e de novo, e de novo! Tanto quanto for necessário, você deve dar!{/i}"
 
 # game/script_amos.rpy:3932
 translate languagetwo amos_after_gregor_227ea778:
@@ -9378,7 +9858,7 @@ translate languagetwo amos_after_gregor_c4be8b44:
 translate languagetwo amos_after_gregor_dac534ee:
 
     # "He looks like he's struck by sudden inspiration."
-    "Ele parece ter sido atingido por uma inspiração súbita."
+    "Ele parece ter sido atingido por uma súbita inspiração."
 
 # game/script_amos.rpy:3945
 translate languagetwo amos_after_gregor_f45fe9e1:
@@ -9396,19 +9876,19 @@ translate languagetwo amos_after_gregor_656ae968:
 translate languagetwo amos_after_gregor_89284592:
 
     # amos "He's terrible at working with other people. It doesn't matter who he gets on his team. They'll lack unity and teamwork."
-    amos "Ele é péssimo em trabalhar com outras pessoas. Não importa quem ele pegue para o time dele. Eles não terão unidade e trabalho em equipe."
+    amos "Ele é péssimo em trabalhar com outras pessoas. Não importa quem ele pegue para o time. Faltará unidade e trabalho em equipe."
 
 # game/script_amos.rpy:3951
 translate languagetwo amos_after_gregor_9e5d1c35:
 
     # mside "But I do not, and cannot wrestle. AT ALL."
-    mside "Mas eu não sei, e não consigo lutar. DE JEITO NENHUM."
+    mside "Mas eu não luto, e não posso lutar. DE JEITO NENHUM."
 
 # game/script_amos.rpy:3953
 translate languagetwo amos_after_gregor_31e93c96:
 
     # amos "This is just amateur stuff. I'll help you train. Trust me. I know when I'm on to something."
-    amos "Isso é coisa amadora. Eu te ajudo a treinar. Confie em mim. Eu sei quando estou no caminho certo."
+    amos "Isso é coisa de amador. Vou te ajudar a treinar. Confie em mim. Eu sei quando estou no caminho certo."
 
 # game/script_amos.rpy:3955
 translate languagetwo amos_after_gregor_109319ca:
@@ -9420,19 +9900,19 @@ translate languagetwo amos_after_gregor_109319ca:
 translate languagetwo amos_after_gregor_11e5fea4:
 
     # mside "Okay. I mean, why the hell not? It's not like I'm going to die or anything. {size=-10}Right?{/size}"
-    mside "Ok. Quer dizer, por que diabos não? Não é como se eu fosse morrer nem nada. {size=-10}Certo?{/size}"
+    mside "Tudo bem. Quer dizer, por que não? Não é como se eu fosse morrer ou algo assim. {size=-10}Né?{/size}"
 
 # game/script_amos.rpy:3960
 translate languagetwo amos_after_gregor_e46704fe:
 
     # amos "This is a master stroke! There is an order to all things in the universe, [m], whether we can see that order or not."
-    amos "Esta é uma jogada de mestre! Há uma ordem em todas as coisas no universo, [m], quer possamos ver essa ordem ou não."
+    amos "Essa é uma jogada de mestre! Há uma ordem em todas as coisas no universo, [m], quer possamos ver essa ordem ou não."
 
 # game/script_amos.rpy:3961
 translate languagetwo amos_after_gregor_7bf2c88f:
 
     # amos "And the ability to detect that order lies not in conscious thought, but in having the sensitivity to notice those higher truths in the depths of our being."
-    amos "E a capacidade de detectar essa ordem não está no pensamento consciente, mas em ter a sensibilidade para perceber essas verdades superiores nas profundezas do nosso ser."
+    amos "E a capacidade de detectar essa ordem não está no pensamento consciente, mas em ter a sensibilidade de notar essas verdades superiores nas profundezas do nosso ser."
 
 # game/script_amos.rpy:3962
 translate languagetwo amos_after_gregor_84c095a0:
@@ -9456,13 +9936,13 @@ translate languagetwo amos_after_gregor_b56b1559:
 translate languagetwo amos_after_gregor_d34fbd16:
 
     # amos "Then we're agreed. I'm going to go tend to my wounds. Then I'll issue the challenge at once."
-    amos "Então estamos de acordo. Vou cuidar dos meus ferimentos. Depois lançarei o desafio imediatamente."
+    amos "Então estamos combinados. Vou cuidar dos meus ferimentos. Depois vou lançar o desafio imediatamente."
 
 # game/script_amos.rpy:3972
 translate languagetwo amos_after_gregor_785b0281:
 
     # "He opens his trunk and hands you a book, encouraging you to read it cover to cover. He then gives you a big, enthusiastic hug. You leave, not sure what the hell you've just agreed to do."
-    "Ele abre o baú e te entrega um livro, encorajando você a lê-lo de capa a capa. Em seguida, ele te dá um abraço grande e entusiasmado. Você vai embora, sem ter certeza do que diabos acabou de concordar em fazer."
+    "Ele abre o baú e te entrega um livro, encorajando-o a lê-lo de capa a capa. Em seguida, ele te dá um abraço grande e entusiasmado. Você sai, sem ter certeza do que diabos acabou de concordar em fazer."
 
 # game/script_amos.rpy:3982
 translate languagetwo amos_gear_up_623105de:
@@ -9474,13 +9954,13 @@ translate languagetwo amos_gear_up_623105de:
 translate languagetwo amos_gear_up_0b7a0471:
 
     # "You sit on the bed in your room, tucked into a light blue wrestling singlet, reading the book Amos gave you, 'Lucha Libre Para Idiotas.'"
-    "Você se senta na cama em seu quarto, vestindo um singlete de luta livre azul claro, lendo o livro que Amos te deu, 'Lucha Libre Para Idiotas'."
+    "Você senta na cama do seu quarto, enfiado num collant de luta azul claro, lendo o livro que Amos te deu, 'Lucha Libre Para Idiotas'."
 
 # game/script_amos.rpy:3985
 translate languagetwo amos_gear_up_cd9ae735:
 
     # "You can't understand much of the book as it's in Spanish, but the pictures are kind of nice."
-    "Você não entende muito do livro, pois está em espanhol, mas as figuras são legais."
+    "Você não entende muito do livro já que está em espanhol, mas as figuras são legais."
 
 # game/script_amos.rpy:3992
 translate languagetwo amos_gear_up_928c266e:
@@ -9492,19 +9972,19 @@ translate languagetwo amos_gear_up_928c266e:
 translate languagetwo amos_gear_up_24eac565:
 
     # "Ian appears almost instantaneously in the doorway. As if he were perhaps waiting right by your door."
-    "Ian aparece quase instantaneamente na porta. Como se ele estivesse talvez esperando bem na sua porta."
+    "Ian aparece quase instantaneamente na porta. Como se estivesse esperando bem ali na sua porta."
 
 # game/script_amos.rpy:3994
 translate languagetwo amos_gear_up_53218dde:
 
     # "His eyes grow wide at your singlet."
-    "Os olhos dele se arregalam com o seu singlete."
+    "Os olhos dele se arregalam ao ver seu collant."
 
 # game/script_amos.rpy:3996
 translate languagetwo amos_gear_up_140bb18b:
 
     # iside "Woah dude. Woah. What's with the get-up?"
-    iside "Uau cara. Uau. O que é essa roupa?"
+    iside "Uau cara. Uau. Que roupa é essa?"
 
 # game/script_amos.rpy:3999
 translate languagetwo amos_gear_up_91170930:
@@ -9534,13 +10014,13 @@ translate languagetwo amos_gear_up_fd1e1370:
 translate languagetwo amos_gear_up_b2802387:
 
     # iside "Jes. Jes I do."
-    iside "Jes. Jes eu falo."
+    iside "Jes. Jes, eu falo."
 
 # game/script_amos.rpy:4008
 translate languagetwo amos_gear_up_b7604ec9:
 
     # mside "Let's put your genius to the test. Come here and see if you can understand any of this."
-    mside "Vamos colocar seu gênio à prova. Vem aqui e vê se você consegue entender alguma coisa disso."
+    mside "Vamos colocar sua genialidade à prova. Vem aqui e vê se entende alguma coisa disso."
 
 # game/script_amos.rpy:4009
 translate languagetwo amos_gear_up_d78fecf0:
@@ -9552,13 +10032,13 @@ translate languagetwo amos_gear_up_d78fecf0:
 translate languagetwo amos_gear_up_d5fe6011:
 
     # iside "Pretty sure that's {i}Espanol,{/i} dude. Not Esperanto."
-    iside "Tenho quase certeza de que isso é {i}Espanol,{/i} cara. Não Esperanto."
+    iside "Tenho quase certeza que isso é {i}Espanhol,{/i} cara. Não Esperanto."
 
 # game/script_amos.rpy:4013
 translate languagetwo amos_gear_up_604cc532:
 
     # mside "Yeah, but if you know Esperanto, you should be kind of familiar with all languages, right?"
-    mside "Sim, mas se você sabe Esperanto, você deveria estar meio familiarizado com todas as línguas, certo?"
+    mside "É, mas se você sabe Esperanto, deveria estar familiarizado com todas as línguas, certo?"
 
 # game/script_amos.rpy:4015
 translate languagetwo amos_gear_up_1d3a4087:
@@ -9576,13 +10056,13 @@ translate languagetwo amos_gear_up_b10d6164:
 translate languagetwo amos_gear_up_9116e00e:
 
     # iside "You wouldn't understand even if I translated, amiko."
-    iside "Você não entenderia nem se eu traduzisse, amiko."
+    iside "Você não entenderia mesmo se eu traduzisse, amiko."
 
 # game/script_amos.rpy:4020
 translate languagetwo amos_gear_up_b8da3344:
 
     # mside "I may have to make my room a 'no Esperanto' zone."
-    mside "Talvez eu tenha que tornar meu quarto uma zona 'livre de Esperanto'."
+    mside "Vou ter que tornar meu quarto uma zona 'livre de Esperanto'."
 
 # game/script_amos.rpy:4022
 translate languagetwo amos_gear_up_55829157:
@@ -9594,19 +10074,19 @@ translate languagetwo amos_gear_up_55829157:
 translate languagetwo amos_gear_up_d3c66d72:
 
     # iside "At any rate, allow me to employ the powers of my genius. There is nothing the human mind cannot accomplish once fully unlocked."
-    iside "De qualquer forma, permita-me empregar os poderes do meu gênio. Não há nada que a mente humana não possa realizar uma vez totalmente desbloqueada."
+    iside "De qualquer forma, permita-me empregar os poderes da minha genialidade. Não há nada que a mente humana não possa realizar uma vez totalmente desbloqueada."
 
 # game/script_amos.rpy:4026
 translate languagetwo amos_gear_up_fc24b8c2:
 
     # iside "Now, if you could just be quiet for a moment, I'll work my magic."
-    iside "Agora, se você pudesse ficar quieto por um momento, vou fazer minha mágica."
+    iside "Agora, se você puder ficar quieto por um momento, vou fazer minha mágica."
 
 # game/script_amos.rpy:4028
 translate languagetwo amos_gear_up_ca69039d:
 
     # "Ian closes the book and holds it flat on one of his palms. He begins circling his other hand over the top of the book."
-    "Ian fecha o livro e o segura plano em uma das palmas. Ele começa a circular a outra mão sobre o topo do livro."
+    "Ian fecha o livro e o segura plano na palma da mão. Ele começa a circular a outra mão sobre o livro."
 
 # game/script_amos.rpy:4030
 translate languagetwo amos_gear_up_16f9ffcf:
@@ -9618,37 +10098,37 @@ translate languagetwo amos_gear_up_16f9ffcf:
 translate languagetwo amos_gear_up_1aa1979f:
 
     # "Ian quickly flips through the book. A frown pulls his lips downward."
-    "Ian folheia rapidamente o livro. Uma carranca puxa seus lábios para baixo."
+    "Ian folheia rapidamente o livro. Um cenho franzido puxa seus lábios para baixo."
 
 # game/script_amos.rpy:4033
 translate languagetwo amos_gear_up_faae2626:
 
     # iside "Sorry, dude, it didn't work."
-    iside "Desculpe, cara, não funcionou."
+    iside "Desculpa, cara, não funcionou."
 
 # game/script_amos.rpy:4035
 translate languagetwo amos_gear_up_ca8081aa:
 
     # mside "Wait. {i}What{/i} didn't work?"
-    mside "Espere. {i}O que{/i} não funcionou?"
+    mside "Espera. {i}O que{/i} não funcionou?"
 
 # game/script_amos.rpy:4037
 translate languagetwo amos_gear_up_d993a944:
 
     # iside "I tried to change the book's language to Esperanto. But, uh, I don't know. I may need to unlock a few more percent of my brain."
-    iside "Tentei mudar o idioma do livro para Esperanto. Mas, uh, não sei. Talvez eu precise desbloquear mais alguns por cento do meu cérebro."
+    iside "Tentei mudar a língua do livro para Esperanto. Mas, hã, não sei. Talvez eu precise desbloquear mais alguns por cento do meu cérebro."
 
 # game/script_amos.rpy:4039
 translate languagetwo amos_gear_up_bca3914f:
 
     # mside "Ian, if you were going to change the book's language, why wouldn't you just change it to English? You know, so {i}I{/i} could read it?"
-    mside "Ian, se você ia mudar o idioma do livro, por que não mudou logo para inglês? Sabe, para que {i}eu{/i} pudesse ler?"
+    mside "Ian, se você ia mudar a língua do livro, por que não mudou logo para Inglês? Sabe, para que {i}eu{/i} pudesse ler?"
 
 # game/script_amos.rpy:4041
 translate languagetwo amos_gear_up_c9f16a39:
 
     # iside "Clever, dude. That is actually very perceptive. Good job."
-    iside "Esperto, cara. Isso é na verdade muito perspicaz. Bom trabalho."
+    iside "Esperto, cara. Isso é realmente muito perspicaz. Bom trabalho."
 
 # game/script_amos.rpy:4043
 translate languagetwo amos_gear_up_9927ad97:
@@ -9672,7 +10152,7 @@ translate languagetwo amos_gear_up_a2fc9880:
 translate languagetwo amos_gear_up_5817734d:
 
     # ian "So what's with the outfit? You have a tournament or something?"
-    ian "Então qual é a da roupa? Você tem um torneio ou algo assim?"
+    ian "Então, qual é a dessa roupa? Tem um torneio ou algo assim?"
 
 # game/script_amos.rpy:4053
 translate languagetwo amos_gear_up_73411503:
@@ -9684,13 +10164,13 @@ translate languagetwo amos_gear_up_73411503:
 translate languagetwo amos_gear_up_720a6a8a:
 
     # mside "I somehow agreed to be in a tag team match with Amos. Still not sure exactly how that happened."
-    mside "Eu de alguma forma concordei em participar de uma luta de duplas com o Amos. Ainda não tenho certeza de como isso aconteceu."
+    mside "Eu, de alguma forma, concordei em participar de uma luta de duplas com o Amos. Ainda não tenho certeza de como isso aconteceu."
 
 # game/script_amos.rpy:4057
 translate languagetwo amos_gear_up_5ef297a8:
 
     # ian "The more exciting question is, where'd you get the amazing gear?!"
-    ian "A pergunta mais empolgante é: onde você conseguiu esse equipamento incrível?!"
+    ian "A pergunta mais emocionante é: onde você conseguiu esse equipamento incrível?!"
 
 # game/script_amos.rpy:4059
 translate languagetwo amos_gear_up_ec0d8909:
@@ -9702,13 +10182,13 @@ translate languagetwo amos_gear_up_ec0d8909:
 translate languagetwo amos_gear_up_3652543f:
 
     # ian "You bought all that? Bummer. You could've borrowed my stuff."
-    ian "Você comprou tudo isso? Que pena. Você poderia ter pegado minhas coisas emprestadas."
+    ian "Você comprou tudo isso? Que chato. Podia ter pegado minhas coisas emprestadas."
 
 # game/script_amos.rpy:4063
 translate languagetwo amos_gear_up_eb36f6eb:
 
     # mside "Huh? I didn't know you wrestled."
-    mside "Hã? Eu não sabia que você lutava."
+    mside "Hã? Não sabia que você lutava."
 
 # game/script_amos.rpy:4065
 translate languagetwo amos_gear_up_7b990860:
@@ -9726,25 +10206,25 @@ translate languagetwo amos_gear_up_9c44e2f3:
 translate languagetwo amos_gear_up_b845aa29:
 
     # ian "I cannot disclose that information. It may or may not have been shart related."
-    ian "Não posso divulgar essa informação. Pode ou não ter sido relacionado a um peido molhado."
+    ian "Não posso divulgar essa informação. Pode ou não ter sido relacionada a um peido molhado."
 
 # game/script_amos.rpy:4071
 translate languagetwo amos_gear_up_23446de3:
 
     # mside "{size=-10}Not so sure I'd have wanted to borrow that singlet.{/size}"
-    mside "{size=-10}Não tenho tanta certeza se eu gostaria de pegar esse singlete emprestado.{/size}"
+    mside "{size=-10}Não tenho tanta certeza se eu ia querer aquele collant emprestado.{/size}"
 
 # game/script_amos.rpy:4073
 translate languagetwo amos_gear_up_05b20599:
 
     # mside "Anyway, that's kind of a strange nickname for a high school league sport."
-    mside "De qualquer forma, é um apelido meio estranho para um esporte da liga escolar."
+    mside "Enfim, esse é um apelido meio estranho para um esporte da liga escolar."
 
 # game/script_amos.rpy:4075
 translate languagetwo amos_gear_up_420257f1:
 
     # ian "This wasn't league wrestling. Me and my friends just liked to do professional wrestling style stuff after school."
-    ian "Isso não era luta da liga. Eu e meus amigos só gostávamos de fazer coisas no estilo de luta livre profissional depois da escola."
+    ian "Não era luta da liga. Eu e meus amigos só gostávamos de fazer coisas estilo luta livre profissional depois da aula."
 
 # game/script_amos.rpy:4077
 translate languagetwo amos_gear_up_494b69cb:
@@ -9756,7 +10236,7 @@ translate languagetwo amos_gear_up_494b69cb:
 translate languagetwo amos_gear_up_83067907:
 
     # ian "We actually got really good. I bet I could still pull off my world famous Inferno Suplex."
-    ian "Nós ficamos muito bons, na verdade. Aposto que ainda consigo fazer meu mundialmente famoso Suplex Inferno."
+    ian "A gente ficou muito bom, na verdade. Aposto que ainda consigo mandar meu mundialmente famoso Suplex Infernal."
 
 # game/script_amos.rpy:4081
 translate languagetwo amos_gear_up_14bd4b70:
@@ -9768,7 +10248,7 @@ translate languagetwo amos_gear_up_14bd4b70:
 translate languagetwo amos_gear_up_99d11ce5:
 
     # ian "'Do you know some moves...' Understatement much?"
-    ian "'Você conhece alguns golpes...' Eufemismo, né?"
+    ian "'Você conhece alguns golpes...' Subestimou muito, hein?"
 
 # game/script_amos.rpy:4085
 translate languagetwo amos_gear_up_59ee766d:
@@ -9792,25 +10272,25 @@ translate languagetwo amos_gear_up_8610b536:
 translate languagetwo amos_gear_up_8ad8c002:
 
     # ian "Okay...what?"
-    ian "Ok...o quê?"
+    ian "Ok... o quê?"
 
 # game/script_amos.rpy:4093
 translate languagetwo amos_gear_up_2e7ead99:
 
     # mside "Oh my god. Okay, I promise!"
-    mside "Ai meu deus. Ok, eu prometo!"
+    mside "Ai meu Deus. Tá bom, eu prometo!"
 
 # game/script_amos.rpy:4098
 translate languagetwo amos_gear_up_68d491f8:
 
     # "Ian guides you through the basics of 'professional' wrestling. Then shows you the steps for a few more advanced moves. Finally he teaches you how to scream good while talking trash."
-    "Ian te guia pelo básico da luta livre 'profissional'. Depois mostra os passos para alguns golpes mais avançados. Finalmente ele te ensina como gritar bem enquanto provoca o adversário."
+    "Ian te guia pelo básico da luta livre 'profissional'. Depois te mostra os passos para alguns golpes mais avançados. Finalmente, ele te ensina a gritar bem enquanto provoca o adversário."
 
 # game/script_amos.rpy:4103
 translate languagetwo amos_gear_up_2e7699b2:
 
     # ian "Don’t forget to talk trash. That is, by far, the most important part of wrestling."
-    ian "Não se esqueça de provocar. Essa é, de longe, a parte mais importante da luta livre."
+    ian "Não esqueça de provocar. Essa é, de longe, a parte mais importante da luta livre."
 
 # game/script_amos.rpy:4105
 translate languagetwo amos_gear_up_d4ee52ff:
@@ -9822,7 +10302,7 @@ translate languagetwo amos_gear_up_d4ee52ff:
 translate languagetwo amos_gear_up_decdec98:
 
     # mside "Thanks for your help. I'm happy to know a little something, even though I suppose it's rooted in fake wrestling."
-    mside "Obrigado pela ajuda. Fico feliz em saber alguma coisa, embora eu suponha que esteja enraizado na luta livre falsa."
+    mside "Obrigado pela ajuda. Fico feliz em saber um pouquinho, mesmo supondo que seja baseado em luta livre falsa."
 
 # game/script_amos.rpy:4109
 translate languagetwo amos_gear_up_009c083d:
@@ -9834,13 +10314,13 @@ translate languagetwo amos_gear_up_009c083d:
 translate languagetwo amos_gear_up_109edc7f:
 
     # ian "YOU SAY THAT AGAIN AND YOU'LL BE EATING YOUR BIG TOE FOR DINNER AND YOUR PINKY TOE FOR DESSERT, [lastname]!"
-    ian "DIGA ISSO DE NOVO E VOCÊ VAI COMER SEU DEDÃO DO PÉ NO JANTAR E SEU DEDINHO DE SOBREMESA, [lastname]!"
+    ian "FALA ISSO DE NOVO E VOCÊ VAI COMER SEU DEDÃO DO PÉ NO JANTAR E SEU DEDINHO DE SOBREMESA, [lastname]!"
 
 # game/script_amos.rpy:4113
 translate languagetwo amos_gear_up_f30441ac:
 
     # mside "Ian, okay, okay. Just, forget it."
-    mside "Ian, ok, ok. Só, esquece."
+    mside "Ian, tá bom, tá bom. Só, esquece."
 
 # game/script_amos.rpy:4123
 translate languagetwo amos_wrestling_match_2a3259da:
@@ -9852,7 +10332,7 @@ translate languagetwo amos_wrestling_match_2a3259da:
 translate languagetwo amos_wrestling_match_2dc09a04:
 
     # "You arrive at Amos' place, clad only in your singlet and matching high-top wrestling boots."
-    "Você chega à casa de Amos, vestindo apenas seu singlete e botas de luta livre de cano alto combinando."
+    "Você chega à casa de Amos, vestido apenas com seu collant e botas de luta de cano alto combinando."
 
 # game/script_amos.rpy:4127
 translate languagetwo amos_wrestling_match_7601bb8e:
@@ -9894,13 +10374,13 @@ translate languagetwo amos_wrestling_match_27c39a07:
 translate languagetwo amos_wrestling_match_7677c61d:
 
     # "She puts her head back down, full of disappointment."
-    "Ela abaixa a cabeça de volta, cheia de decepção."
+    "Ela abaixa a cabeça novamente, cheia de decepção."
 
 # game/script_amos.rpy:4144
 translate languagetwo amos_wrestling_match_8373948c:
 
     # thought "Screw you too, freaky little dog."
-    thought "Vai se ferrar também, cachorra esquisita."
+    thought "Vai se ferrar também, cachorrinha esquisita."
 
 # game/script_amos.rpy:4146
 translate languagetwo amos_wrestling_match_f4a44c1a:
@@ -9912,7 +10392,7 @@ translate languagetwo amos_wrestling_match_f4a44c1a:
 translate languagetwo amos_wrestling_match_5b3f5455:
 
     # mside "Oh. Hey. Guess we arrived at the same time."
-    mside "Ah. Ei. Acho que chegamos na mesma hora."
+    mside "Ah. Oi. Acho que chegamos na mesma hora."
 
 # game/script_amos.rpy:4153
 translate languagetwo amos_wrestling_match_6d336b19:
@@ -9924,7 +10404,7 @@ translate languagetwo amos_wrestling_match_6d336b19:
 translate languagetwo amos_wrestling_match_a6af21c6:
 
     # mside "So, who am I fighting today?"
-    mside "Então, com quem eu vou lutar hoje?"
+    mside "Então, com quem eu luto hoje?"
 
 # game/script_amos.rpy:4156
 translate languagetwo amos_wrestling_match_6d336b19_1:
@@ -9948,19 +10428,19 @@ translate languagetwo amos_wrestling_match_31693c35:
 translate languagetwo amos_wrestling_match_ed94130f:
 
     # gregor_poetry "He knew whose gentle hand was at the latch,"
-    gregor_poetry "Ele sabia de quem era a mão gentil na trinco,"
+    gregor_poetry "Ele sabia de quem era a mão gentil no trinco,"
 
 # game/script_amos.rpy:4165
 translate languagetwo amos_wrestling_match_5dba683e:
 
     # gregor_poetry "Before the door had given her to his eyes;"
-    gregor_poetry "Antes que a porta a tivesse dado aos seus olhos;"
+    gregor_poetry "Antes que a porta a entregasse aos seus olhos;"
 
 # game/script_amos.rpy:4167
 translate languagetwo amos_wrestling_match_2da11d79:
 
     # gregor_poetry "And from her chamber-window he would catch"
-    gregor_poetry "E da janela do quarto dela ele pegaria"
+    gregor_poetry "E da janela de seu quarto ele capturaria"
 
 # game/script_amos.rpy:4169
 translate languagetwo amos_wrestling_match_65ef1a0c:
@@ -9996,7 +10476,7 @@ translate languagetwo amos_wrestling_match_a20cefa7:
 translate languagetwo amos_wrestling_match_3f96c2db:
 
     # "Both men regard you as if you were a speck of dirt."
-    "Ambos os homens olham para você como se você fosse um grão de poeira."
+    "Ambos os homens te olham como se você fosse um grão de poeira."
 
 # game/script_amos.rpy:4186
 translate languagetwo amos_wrestling_match_e500018b:
@@ -10014,7 +10494,7 @@ translate languagetwo amos_wrestling_match_d7aad070:
 translate languagetwo amos_wrestling_match_82fe65c8:
 
     # mside "Are you guys just giving me the cold shoulder or what?"
-    mside "Vocês estão me ignorando ou o quê?"
+    mside "Vocês vão ficar me dando um gelo ou o quê?"
 
 # game/script_amos.rpy:4191
 translate languagetwo amos_wrestling_match_a20cefa7_1:
@@ -10032,7 +10512,7 @@ translate languagetwo amos_wrestling_match_9927ad97:
 translate languagetwo amos_wrestling_match_c93c22b3:
 
     # mside "By the way, I like how your outfits match. That's cute."
-    mside "A propósito, gostei de como as roupas de vocês combinam. Que fofo."
+    mside "A propósito, gostei de como as roupas de vocês combinam. É uma gracinha."
 
 # game/script_amos.rpy:4204
 translate languagetwo amos_wrestling_match_49ce709c:
@@ -10044,7 +10524,7 @@ translate languagetwo amos_wrestling_match_49ce709c:
 translate languagetwo amos_wrestling_match_7657f504:
 
     # mside "Ha. I win. Your silent treatment plan didn't work out so well, did it?"
-    mside "Ha. Eu ganhei. Seu plano de tratamento de silêncio não funcionou muito bem, não é?"
+    mside "Ha. Ganhei. Seu plano de tratamento de silêncio não funcionou muito bem, né?"
 
 # game/script_amos.rpy:4208
 translate languagetwo amos_wrestling_match_74bf0845:
@@ -10062,13 +10542,13 @@ translate languagetwo amos_wrestling_match_fb6d25aa:
 translate languagetwo amos_wrestling_match_39383485:
 
     # dante "Yeah, this guy's a real comedian. Likes to joke about all kinds of things."
-    dante "É, esse cara é um comediante de verdade. Gosta de fazer piada sobre todo tipo de coisa."
+    dante "É, esse cara é um verdadeiro comediante. Gosta de fazer piada sobre todo tipo de coisa."
 
 # game/script_amos.rpy:4215
 translate languagetwo amos_wrestling_match_820a13a0:
 
     # mside "Oh yeah? Let's test your knowledge of basic wrestling moves. You familiar with the Deadly Docker?"
-    mside "Ah é? Vamos testar seu conhecimento de movimentos básicos de luta livre. Você conhece o Deadly Docker?"
+    mside "Ah é? Vamos testar seu conhecimento de golpes básicos de luta. Conhece o Estivador Mortal?"
 
 # game/script_amos.rpy:4217
 translate languagetwo amos_wrestling_match_4aa71d66:
@@ -10080,13 +10560,13 @@ translate languagetwo amos_wrestling_match_4aa71d66:
 translate languagetwo amos_wrestling_match_456f69cb:
 
     # mside "Heard of the Cathedral of Doom?"
-    mside "Ouviu falar da Catedral da Perdição?"
+    mside "Já ouviu falar da Catedral da Perdição?"
 
 # game/script_amos.rpy:4221
 translate languagetwo amos_wrestling_match_0506e6f3:
 
     # lb "No again."
-    lb "Não de novo."
+    lb "Não novamente."
 
 # game/script_amos.rpy:4223
 translate languagetwo amos_wrestling_match_90563311:
@@ -10122,13 +10602,13 @@ translate languagetwo amos_wrestling_match_5cf4cb61:
 translate languagetwo amos_wrestling_match_d6df89bd:
 
     # thought "Here goes nothing."
-    thought "Aqui vai nada."
+    thought "Seja o que Deus quiser."
 
 # game/script_amos.rpy:4238
 translate languagetwo amos_wrestling_match_1238a37f:
 
     # "You jump forward and start looking around like you can barely contain your rage, like you can't fucking wait to unleash your fury."
-    "Você pula para frente e começa a olhar em volta como se mal pudesse conter sua raiva, como se mal pudesse esperar para liberar sua fúria."
+    "Você pula para frente e começa a olhar em volta como se mal conseguisse conter sua raiva, como se não pudesse esperar, porra, para liberar sua fúria."
 
 # game/script_amos.rpy:4242
 translate languagetwo amos_wrestling_match_1c9db8cb:
@@ -10140,7 +10620,7 @@ translate languagetwo amos_wrestling_match_1c9db8cb:
 translate languagetwo amos_wrestling_match_b024baf6:
 
     # mside "YOU KNOW, AS I WAS WALKING OVER HERE I COULDN'T STOP THINKING ABOUT ONE THING."
-    mside "SABE, ENQUANTO EU VINHA PARA CÁ NÃO CONSEGUIA PARAR DE PENSAR EM UMA COISA."
+    mside "SABEM, ENQUANTO EU VINHA CAMINHANDO PARA CÁ EU NÃO CONSEGUIA PARAR DE PENSAR EM UMA COISA."
 
 # game/script_amos.rpy:4244
 translate languagetwo amos_wrestling_match_a20cefa7_2:
@@ -10152,7 +10632,7 @@ translate languagetwo amos_wrestling_match_a20cefa7_2:
 translate languagetwo amos_wrestling_match_4426a88a:
 
     # mside "ONE THING! NOW ASK ME WHAT IT WAS."
-    mside "UMA COISA! AGORA ME PERGUNTE O QUE ERA."
+    mside "UMA COISA! AGORA ME PERGUNTEM O QUE ERA."
 
 # game/script_amos.rpy:4246
 translate languagetwo amos_wrestling_match_a20cefa7_3:
@@ -10164,7 +10644,7 @@ translate languagetwo amos_wrestling_match_a20cefa7_3:
 translate languagetwo amos_wrestling_match_0944e62b:
 
     # mside "ASK ME WHAT IT WAS?!?"
-    mside "ME PERGUNTE O QUE ERA?!?"
+    mside "ME PERGUNTEM O QUE ERA?!?"
 
 # game/script_amos.rpy:4249
 translate languagetwo amos_wrestling_match_09cf78e1:
@@ -10182,37 +10662,37 @@ translate languagetwo amos_wrestling_match_90894505:
 translate languagetwo amos_wrestling_match_7d7798bb:
 
     # mside "HOW THIS CREATURE OVER HERE CAN EVEN CALL HIMSELF A MAN. HOW HE CAN LOOK AT HIMSELF IN THE MIRROR EVERY MORNING,"
-    mside "COMO ESSA CRIATURA AQUI PODE SE CHAMAR DE HOMEM. COMO ELE PODE SE OLHAR NO ESPELHO TODA MANHÃ,"
+    mside "COMO ESSA CRIATURA AQUI PODE SEQUER SE CHAMAR DE HOMEM. COMO ELE PODE SE OLHAR NO ESPELHO TODA MANHÃ,"
 
 # game/script_amos.rpy:4253
 translate languagetwo amos_wrestling_match_109102fc:
 
     # mside "WITHOUT VOMITING, WITHOUT CRYING, WITHOUT BASHING HIMSELF IN THE FACE, BECAUSE LET ME TELL YOU SOMETHING, FOLKS—"
-    mside "SEM VOMITAR, SEM CHORAR, SEM SOCAR A PRÓPRIA CARA, PORQUE DEIXE-ME DIZER UMA COISA, PESSOAL—"
+    mside "SEM VOMITAR, SEM CHORAR, SEM SOCAR A PRÓPRIA CARA, PORQUE DEIXEM EU DIZER UMA COISA, PESSOAL—"
 
 # game/script_amos.rpy:4254
 translate languagetwo amos_wrestling_match_4720cefc:
 
     # "You remember Ian's tip about trash talking and how to yell properly. 'You gotta let the words rattle around in your throat. It makes you sound {i}crazy{/i}.'"
-    "Você se lembra da dica do Ian sobre provocação e como gritar corretamente. 'Você tem que deixar as palavras chacoalharem na garganta. Isso faz você parecer {i}louco{/i}.'"
+    "Você se lembra da dica do Ian sobre provocação e como gritar direito. 'Você tem que deixar as palavras chacoalharem na garganta. Isso faz você parecer {i}louco{/i}.'"
 
 # game/script_amos.rpy:4255
 translate languagetwo amos_wrestling_match_accc68cc:
 
     # mside "THAT IS NOT A MAN. THAT IS GARBAGE ON LEGS, THAT IS A WALKING EXCREMENT, THAT IS A BADLY FAILED ABORTION,"
-    mside "ISSO NÃO É UM HOMEM. ISSO É LIXO COM PERNAS, ISSO É UM EXCREMENTO AMBULANTE, ISSO É UM ABORTO MAL SUCEDIDO,"
+    mside "ISSO NÃO É UM HOMEM. ISSO É LIXO COM PERNAS, ISSO É UM EXCREMENTO AMBULANTE, ISSO É UM ABORTO QUE DEU MUITO ERRADO,"
 
 # game/script_amos.rpy:4256
 translate languagetwo amos_wrestling_match_f8e19391:
 
     # mside "THE STINK IN THE TOILET AFTER A NIGHT OF HARD DRINKING AND QUESTIONABLE LOOKING STREET FOOD."
-    mside "O FEDOR NA PRIVADA DEPOIS DE UMA NOITE DE BEBEDEIRA E COMIDA DE RUA DUVIDOSA."
+    mside "O FEDOR NA PRIVADA DEPOIS DE UMA NOITE DE BEBEDEIRA PESADA E COMIDA DE RUA DE APARÊNCIA DUVIDOSA."
 
 # game/script_amos.rpy:4257
 translate languagetwo amos_wrestling_match_e1401a42:
 
     # mside "THAT IS THE MOLDY CHEESE ON AN OLD MAN'S ROTTING DICK WHO DIED WHILE MASTURBATING."
-    mside "ESSE É O QUEIJO MOFADO NO PAU PODRE DE UM VELHO QUE MORREU SE MASTURBANDO."
+    mside "ISSO É O QUEIJO MOFADO NO PAU APODRECIDO DE UM VELHO QUE MORREU ENQUANTO SE MASTURBAVA."
 
 # game/script_amos.rpy:4259
 translate languagetwo amos_wrestling_match_c9fe672e:
@@ -10242,7 +10722,7 @@ translate languagetwo amos_wrestling_match_f00cbbad:
 translate languagetwo amos_wrestling_match_fad86a08:
 
     # mside "Honestly, as far as wrestling antics go, the silent treatment is about as bush-league as it gets."
-    mside "Sinceramente, no que diz respeito a palhaçadas de luta livre, o tratamento do silêncio é o mais amador possível."
+    mside "Honestamente, no que diz respeito a travessuras de luta livre, o tratamento do silêncio é o mais amador possível."
 
 # game/script_amos.rpy:4272
 translate languagetwo amos_wrestling_match_7444d7ad:
@@ -10266,25 +10746,25 @@ translate languagetwo amos_wrestling_match_487e778a:
 translate languagetwo amos_wrestling_match_e3ec912e:
 
     # mside "I can wait here all day. I don't even need a magazine!"
-    mside "Eu posso esperar aqui o dia todo. Eu nem preciso de uma revista!"
+    mside "Posso esperar aqui o dia todo. Nem preciso de uma revista!"
 
 # game/script_amos.rpy:4281
 translate languagetwo amos_wrestling_match_4aa0c917:
 
     # "You stand there."
-    "Você fica parado aí."
+    "Você fica parado ali."
 
 # game/script_amos.rpy:4282
 translate languagetwo amos_wrestling_match_a78842e1:
 
     # "After all, you are but a man of action."
-    "Afinal, você é um homem de ação."
+    "Afinal, você não passa de um homem de ação."
 
 # game/script_amos.rpy:4284
 translate languagetwo amos_wrestling_match_770cb5ec:
 
     # "Amos appears, his fire engine red attire bulky in all the right places."
-    "Amos aparece, seu traje vermelho bombeiro volumoso em todos os lugares certos."
+    "Amos aparece, seu traje vermelho-bombeiro volumoso em todos os lugares certos."
 
 # game/script_amos.rpy:4286
 translate languagetwo amos_wrestling_match_329612fc:
@@ -10314,7 +10794,7 @@ translate languagetwo amos_wrestling_match_6f3c4485:
 translate languagetwo amos_wrestling_match_05d35b1a:
 
     # "A man in a striped shirt, presumably the referee, walks in after Amos."
-    "Um homem com uma camisa listrada, presumivelmente o árbitro, entra depois de Amos."
+    "Um homem de camisa listrada, presumivelmente o árbitro, entra depois de Amos."
 
 # game/script_amos.rpy:4300
 translate languagetwo amos_wrestling_match_8556e0af:
@@ -10332,7 +10812,7 @@ translate languagetwo amos_wrestling_match_77482822:
 translate languagetwo amos_wrestling_match_435066e0:
 
     # refereeside "No scratching, biting, eye raking, nut punching, or penis pulling. No use of weaponry or foreign substances."
-    refereeside "Sem arranhar, morder, cutucar os olhos, socar as bolas ou puxar o pênis. Sem uso de armas ou substâncias estranhas."
+    refereeside "Nada de arranhar, morder, dedo no olho, soco no saco ou puxar o pênis. Nada de uso de armas ou substâncias estranhas."
 
 # game/script_amos.rpy:4308
 translate languagetwo amos_wrestling_match_ab76aec2:
@@ -10344,13 +10824,13 @@ translate languagetwo amos_wrestling_match_ab76aec2:
 translate languagetwo amos_wrestling_match_cfa2867e:
 
     # refereeside "Any violation of any of these rules is an automatic DQ. That's 'disqualification' for those you unversed in the parlance."
-    refereeside "Qualquer violação de qualquer uma dessas regras é uma DQ automática. Isso é 'desqualificação' para aqueles que não conhecem o jargão."
+    refereeside "Qualquer violação dessas regras é uma DQ automática. Isso é 'desclassificação' para vocês que não conhecem o linguajar."
 
 # game/script_amos.rpy:4312
 translate languagetwo amos_wrestling_match_6e1f7ae5:
 
     # refereeside "Per the usual terms of these contests, winners do with the losers as they wish."
-    refereeside "De acordo com os termos usuais desses concursos, os vencedores fazem o que quiserem com os perdedores."
+    refereeside "Conforme os termos usuais destas disputas, os vencedores fazem o que quiserem com os perdedores."
 
 # game/script_amos.rpy:4314
 translate languagetwo amos_wrestling_match_7159e503:
@@ -10362,13 +10842,13 @@ translate languagetwo amos_wrestling_match_7159e503:
 translate languagetwo amos_wrestling_match_1651b985:
 
     # "Everyone nods."
-    "Todos acenam com a cabeça."
+    "Todos concordam com a cabeça."
 
 # game/script_amos.rpy:4319
 translate languagetwo amos_wrestling_match_d92d59e3:
 
     # dante "One question, though. Where do I deliver the flowers for motor-mouth’s funeral?"
-    dante "Uma pergunta, no entanto. Onde eu entrego as flores para o funeral do boca-frouxa?"
+    dante "Só uma pergunta. Onde entrego as flores para o funeral do tagarela?"
 
 # game/script_amos.rpy:4321
 translate languagetwo amos_wrestling_match_ab03cfff:
@@ -10380,13 +10860,13 @@ translate languagetwo amos_wrestling_match_ab03cfff:
 translate languagetwo amos_wrestling_match_7a4d744e:
 
     # refereeside "Except maybe decorum, decency, and the innocence of anyone unfortunate enough to witness this spectacle."
-    refereeside "Exceto talvez o decoro, a decência e a inocência de qualquer pessoa infeliz o suficiente para testemunhar esse espetáculo."
+    refereeside "Exceto talvez o decoro, a decência e a inocência de qualquer um azarado o suficiente para testemunhar este espetáculo."
 
 # game/script_amos.rpy:4326
 translate languagetwo amos_wrestling_match_ee996c82:
 
     # refereeside "All right. Let's head to the garage and get this party started."
-    refereeside "Tudo bem. Vamos para a garagem e começar essa festa."
+    refereeside "Muito bem. Vamos para a garagem e começar essa festa."
 
 # game/script_amos.rpy:4335
 translate languagetwo amos_prefight_044f039f:
@@ -10398,7 +10878,7 @@ translate languagetwo amos_prefight_044f039f:
 translate languagetwo amos_prefight_87686f11:
 
     # "Despite your boisterous pre-match speech, you start to feel shaky. Amos notices."
-    "Apesar do seu discurso barulhento pré-jogo, você começa a se sentir trêmulo. Amos percebe."
+    "Apesar do seu discurso barulhento pré-luta, você começa a se sentir trêmulo. Amos percebe."
 
 # game/script_amos.rpy:4340
 translate languagetwo amos_prefight_8f89a8c3:
@@ -10422,13 +10902,13 @@ translate languagetwo amos_prefight_de4c082f:
 translate languagetwo amos_prefight_e7a61fa3:
 
     # amos "Oh. Whoops. I forgot about that."
-    amos "Ah. Ops. Esqueci disso."
+    amos "Ah. Ops. Esqueci desse detalhe."
 
 # game/script_amos.rpy:4350
 translate languagetwo amos_prefight_1cc33396:
 
     # amos "Just don't be nervous, that's the worst thing you can do."
-    amos "Só não fique nervoso, é a pior coisa que você pode fazer."
+    amos "Só não fique nervoso, essa é a pior coisa que você pode fazer."
 
 # game/script_amos.rpy:4352
 translate languagetwo amos_prefight_e2cf2d27:
@@ -10440,7 +10920,7 @@ translate languagetwo amos_prefight_e2cf2d27:
 translate languagetwo amos_prefight_518be890:
 
     # amos "Don't worry, I've got a plan. I know his weaknesses. I'm going to wear him down, then bring you in for the finish. Stay in the corner and wait for my tap."
-    amos "Não se preocupe, eu tenho um plano. Eu conheço as fraquezas dele. Vou cansá-lo, depois te trago para finalizar. Fique no canto e espere pelo meu toque."
+    amos "Não se preocupe, eu tenho um plano. Conheço as fraquezas dele. Vou cansá-lo e depois te coloco para finalizar. Fique no canto e espere pelo meu toque."
 
 # game/script_amos.rpy:4357
 translate languagetwo amos_prefight_3fc9177e:
@@ -10453,11 +10933,12 @@ translate languagetwo amos_prefight_b268e381:
 
     # amos "Again, you have to trust me."
     amos "De novo, você tem que confiar em mim."
+
 # game/script_amos.rpy:4367
 translate languagetwo amos_announce_fight_c53152ec:
 
     # "The referee takes center ring."
-    "O árbitro toma o centro do ringue."
+    "O árbitro vai para o centro do ringue."
 
 # game/script_amos.rpy:4378
 translate languagetwo amos_announce_fight_438d8589:
@@ -10469,7 +10950,7 @@ translate languagetwo amos_announce_fight_438d8589:
 translate languagetwo amos_announce_fight_44970660:
 
     # refereeside "In this corner, weighing in at a combined 467 pounds, in the red and blue, we have Amos, and uh, {size=-10}what's your name, kid?{/size}"
-    refereeside "Neste canto, pesando um total de 211 quilos, de vermelho e azul, temos Amos, e uh, {size=-10}qual é o seu nome, garoto?{/size}"
+    refereeside "Neste canto, pesando um total de 211 quilos, de vermelho e azul, temos Amos, e hã, {size=-10}qual é o seu nome, garoto?{/size}"
 
 # game/script_amos.rpy:4383
 translate languagetwo amos_announce_fight_dcc69064:
@@ -10493,7 +10974,7 @@ translate languagetwo amos_announce_fight_d07128ba:
 translate languagetwo amos_announce_fight_6d175de8:
 
     # lb "He doesn't. He's just making it up."
-    lb "Ele não sabe. Ele só está inventando."
+    lb "Ele não sabe. Ele está inventando."
 
 # game/script_amos.rpy:4401
 translate languagetwo amos_announce_fight_59b89059:
@@ -10505,7 +10986,7 @@ translate languagetwo amos_announce_fight_59b89059:
 translate languagetwo amos_announce_fight_473bd9f7:
 
     # refereeside "Alright, center ring you two."
-    refereeside "Muito bem, centro do ringue vocês dois."
+    refereeside "Certo, centro do ringue vocês dois."
 
 # game/script_amos.rpy:4413
 translate languagetwo amos_wrestles_gregor_326fc1b3:
@@ -10535,13 +11016,13 @@ translate languagetwo amos_wrestles_gregor_9f22e69e:
 translate languagetwo amos_wrestles_gregor_829c852f:
 
     # "The ref jumps out of the way as Amos and Gregor begin circling, sizing each other up."
-    "O árbitro pula para fora do caminho enquanto Amos e Gregor começam a circular, medindo um ao outro."
+    "O árbitro pula fora do caminho enquanto Amos e Gregor começam a circular, medindo um ao outro."
 
 # game/script_amos.rpy:4438
 translate languagetwo amos_wrestles_gregor_7a784846:
 
     # gregor_poetry "How strange it is that man on earth should roam,"
-    gregor_poetry "Quão estranho é que o homem na terra deva vagar,"
+    gregor_poetry "Que estranho é que o homem na terra deva vagar,"
 
 # game/script_amos.rpy:4439
 translate languagetwo amos_wrestles_gregor_f6cf5ed7:
@@ -10553,7 +11034,7 @@ translate languagetwo amos_wrestles_gregor_f6cf5ed7:
 translate languagetwo amos_wrestles_gregor_c08ee9b6:
 
     # gregor_poetry "His rugged path; nor dare he view alone"
-    gregor_poetry "Seu caminho acidentado; nem ousa ele ver sozinho"
+    gregor_poetry "Seu caminho acidentado; nem ousa ver sozinho"
 
 # game/script_amos.rpy:4442
 translate languagetwo amos_wrestles_gregor_bed33fd2:
@@ -10565,7 +11046,7 @@ translate languagetwo amos_wrestles_gregor_bed33fd2:
 translate languagetwo amos_wrestles_gregor_f8858cc6:
 
     # amside "Rhyming? That's not expression. It's slavery."
-    amside "Rimando? Isso não é expressão. É escravidão."
+    amside "Rimas? Isso não é expressão. É escravidão."
 
 # game/script_amos.rpy:4447
 translate languagetwo amos_wrestles_gregor_dbb0cd63:
@@ -10577,19 +11058,19 @@ translate languagetwo amos_wrestles_gregor_dbb0cd63:
 translate languagetwo amos_wrestles_gregor_fb38d03f:
 
     # gregor "It's neither less nor more absurd than any other of language's harsh restraints."
-    gregor "Não é nem menos nem mais absurdo do que qualquer outra das duras restrições da linguagem."
+    gregor "Não é nem mais nem menos absurdo do que qualquer outra das duras restrições da linguagem."
 
 # game/script_amos.rpy:4452
 translate languagetwo amos_wrestles_gregor_ef9b9af3:
 
     # gregor "The point, though, is simple. For beauty. Something always lost on you."
-    gregor "O ponto, porém, é simples. Pela beleza. Algo sempre perdido em você."
+    gregor "O ponto, no entanto, é simples. Pela beleza. Algo sempre perdido em você."
 
 # game/script_amos.rpy:4458
 translate languagetwo amos_wrestles_gregor_495438f3:
 
     # amos "And beauty at what cost? At the cost of freedom, you've paid too much."
-    amos "E beleza a que custo? Ao custo da liberdade, você pagou demais."
+    amos "E beleza a que custo? Ao custo da liberdade, você pagou caro demais."
 
 # game/script_amos.rpy:4459
 translate languagetwo amos_wrestles_gregor_0b2935ea:
@@ -10607,19 +11088,19 @@ translate languagetwo amos_wrestles_gregor_07c30f22:
 translate languagetwo amos_wrestles_gregor_2b0abbc2:
 
     # amos "{i}'Perfection'{/i}—that name for something that never existed. Not anywhere on Earth or above. Only in the minds of men. Only in the minds of foolish men."
-    amos "{i}'Perfeição'{/i}—aquele nome para algo que nunca existiu. Nem em lugar nenhum na Terra ou acima. Apenas nas mentes dos homens. Apenas nas mentes de homens tolos."
+    amos "{i}'Perfeição'{/i}—aquele nome para algo que nunca existiu. Em lugar nenhum na Terra ou acima dela. Apenas nas mentes dos homens. Apenas nas mentes dos homens tolos."
 
 # game/script_amos.rpy:4469
 translate languagetwo amos_wrestles_gregor_1b962b87:
 
     # amos "Words will never be perfect, that which they describe will never be perfect. Words should be like soil in the hands—coarse, solid, powerful and cool."
-    amos "As palavras nunca serão perfeitas, aquilo que elas descrevem nunca será perfeito. As palavras devem ser como terra nas mãos—grossas, sólidas, poderosas e frescas."
+    amos "Palavras nunca serão perfeitas, aquilo que descrevem nunca será perfeito. Palavras devem ser como terra nas mãos—ásperas, sólidas, poderosas e frescas."
 
 # game/script_amos.rpy:4474
 translate languagetwo amos_wrestles_gregor_2f5bf2a2:
 
     # gregor "Words are nothing more than dirt to you, then? Loose chunks of Earth beaten from the boots of civilized men? You've made my point."
-    gregor "Palavras não são nada mais que sujeira para você, então? Pedaços soltos de Terra batidos das botas de homens civilizados? Você provou meu ponto."
+    gregor "Palavras não são nada mais do que sujeira para você, então? Pedaços soltos de Terra batidos das botas de homens civilizados? Você provou meu ponto."
 
 # game/script_amos.rpy:4480
 translate languagetwo amos_wrestles_gregor_0f7bdcbd:
@@ -10661,13 +11142,13 @@ translate languagetwo amos_wrestles_gregor_a59bbe12:
 translate languagetwo amos_wrestles_gregor_f67165df:
 
     # amos_poetry "The best of the earth cannot be told anyhow—all or any is best!"
-    amos_poetry "O melhor da terra não pode ser dito de qualquer maneira—todo ou qualquer é o melhor!"
+    amos_poetry "O melhor da terra não pode ser dito de qualquer maneira—tudo ou qualquer coisa é o melhor!"
 
 # game/script_amos.rpy:4490
 translate languagetwo amos_wrestles_gregor_eda25a89:
 
     # gregorside "Illiterate nonsense for pseudo-intellectuals. Nothing more. Now prepare yourself for another thrashing."
-    gregorside "Absurdos analfabetos para pseudo-intelectuais. Nada mais. Agora prepare-se para outra surra."
+    gregorside "Absurdo iletrado para pseudo-intelectuais. Nada mais. Agora prepare-se para outra surra."
 
 # game/script_amos.rpy:4496
 translate languagetwo amos_wrestles_gregor_c948987b:
@@ -10679,13 +11160,13 @@ translate languagetwo amos_wrestles_gregor_c948987b:
 translate languagetwo amos_wrestles_gregor_19897cdc:
 
     # "Amos slides to his right, attempting to flip Gregor who counters fast as a whip."
-    "Amos desliza para a direita, tentando virar Gregor que contra-ataca rápido como um chicote."
+    "Amos desliza para a direita, tentando virar Gregor, que contra-ataca rápido como um chicote."
 
 # game/script_amos.rpy:4500
 translate languagetwo amos_wrestles_gregor_23190afc:
 
     # "Amos slips a hard elbow into Gregor's gut, sending him sprawling backwards."
-    "Amos desfere uma cotovelada dura no estômago de Gregor, mandando-o cambaleando para trás."
+    "Amos desfere uma cotovelada forte no estômago de Gregor, mandando-o cambaleando para trás."
 
 # game/script_amos.rpy:4504
 translate languagetwo amos_wrestles_gregor_6841f322:
@@ -10715,13 +11196,13 @@ translate languagetwo amos_wrestles_gregor_877a6f3d:
 translate languagetwo amos_wrestles_gregor_d114a11d:
 
     # amside "Today is the day you fall. Maybe you don't realize it yet, but as you begin to comprehend this fact, I'd like to know how it feels."
-    amside "Hoje é o dia em que você cai. Talvez você não perceba ainda, mas à medida que começar a compreender esse fato, gostaria de saber como é a sensação."
+    amside "Hoje é o dia em que você cai. Talvez você não perceba ainda, mas conforme você começa a compreender este fato, eu gostaria de saber como é a sensação."
 
 # game/script_amos.rpy:4510
 translate languagetwo amos_wrestles_gregor_9aaf98ec:
 
     # "Gregor heaves himself off the ground."
-    "Gregor se levanta do chão."
+    "Gregor se levanta do chão com esforço."
 
 # game/script_amos.rpy:4513
 translate languagetwo amos_wrestles_gregor_03b77fba:
@@ -10751,25 +11232,25 @@ translate languagetwo amos_wrestles_gregor_97f04e43:
 translate languagetwo amos_wrestles_gregor_ba943c4d:
 
     # amside "I have every idea. And I know how small you truly are."
-    amside "Eu tenho toda a ideia. E eu sei quão pequeno você realmente é."
+    amside "Eu faço toda ideia. E sei o quão pequeno você realmente é."
 
 # game/script_amos.rpy:4521
 translate languagetwo amos_wrestles_gregor_c75c7aff:
 
     # "Gregor charges, face gnarled, arm outstretched going for a clothesline."
-    "Gregor avança, rosto retorcido, braço estendido tentando um 'clothesline'."
+    "Gregor investe, rosto contorcido, braço esticado indo para um clothesline."
 
 # game/script_amos.rpy:4525
 translate languagetwo amos_wrestles_gregor_e7107169:
 
     # "Amos dodges and as Gregor turns back to face him, Amos launches a flying drop kick, knocking Gregor to the mat."
-    "Amos desvia e, quando Gregor se vira para encará-lo, Amos lança um 'drop kick' voador, derrubando Gregor no tatame."
+    "Amos desvia e, quando Gregor se vira para encará-lo, Amos lança um chute voador, derrubando Gregor no tatame."
 
 # game/script_amos.rpy:4530
 translate languagetwo amos_wrestles_gregor_37cf057b:
 
     # amos "Seems you're getting angry. That's exactly the wrong thing to do. You need to collect yourself and think your way through this."
-    amos "Parece que você está ficando com raiva. Essa é exatamente a coisa errada a se fazer. Você precisa se recompor e pensar em uma saída."
+    amos "Parece que você está ficando com raiva. Essa é exatamente a coisa errada a se fazer. Você precisa se recompor e pensar no que está fazendo."
 
 # game/script_amos.rpy:4532
 translate languagetwo amos_wrestles_gregor_95dda093:
@@ -10781,7 +11262,7 @@ translate languagetwo amos_wrestles_gregor_95dda093:
 translate languagetwo amos_wrestles_gregor_dc0d3269:
 
     # amos "What are you if you lose today? Same that you've always been. Nothing."
-    amos "O que você é se perder hoje? O mesmo que sempre foi. Nada."
+    amos "O que você é se perder hoje? O mesmo que você sempre foi. Nada."
 
 # game/script_amos.rpy:4536
 translate languagetwo amos_wrestles_gregor_e0fae700:
@@ -10811,13 +11292,13 @@ translate languagetwo amos_wrestles_gregor_43e52037:
 translate languagetwo amos_wrestles_gregor_db68f099:
 
     # amos "If only you were serious, you could save yourself some pain."
-    amos "Se ao menos você estivesse falando sério, poderia se poupar de alguma dor."
+    amos "Se você estivesse falando sério, poderia se poupar de alguma dor."
 
 # game/script_amos.rpy:4550
 translate languagetwo amos_wrestles_gregor_1f6c6f47:
 
     # "Gregor springs from the mat, attempting to land a haymaker. Amos easily swerves away, grabs Gregor by the torso and flips him, lifting him overhead before slamming him down."
-    "Gregor pula do tatame, tentando acertar um soco. Amos desvia facilmente, agarra Gregor pelo torso e o vira, levantando-o acima da cabeça antes de jogá-lo no chão."
+    "Gregor pula do tatame, tentando acertar um soco cruzado. Amos desvia facilmente, agarra Gregor pelo torso e o gira, levantando-o acima da cabeça antes de jogá-lo no chão."
 
 # game/script_amos.rpy:4554
 translate languagetwo amos_wrestles_gregor_a02de707:
@@ -10829,13 +11310,13 @@ translate languagetwo amos_wrestles_gregor_a02de707:
 translate languagetwo amos_wrestles_gregor_e689d051:
 
     # mside "Holy shit!"
-    mside "Caramba!"
+    mside "Puta merda!"
 
 # game/script_amos.rpy:4560
 translate languagetwo amos_wrestles_gregor_62ab4576:
 
     # "Gregor, stunned, lays on the mat, unmoving."
-    "Gregor, atordoado, jaz no tatame, imóvel."
+    "Gregor, atordoado, fica deitado no tatame, imóvel."
 
 # game/script_amos.rpy:4562
 translate languagetwo amos_wrestles_gregor_4a41eb80:
@@ -10859,19 +11340,19 @@ translate languagetwo amos_wrestles_gregor_17f91507:
 translate languagetwo amos_wrestles_gregor_ae073a05:
 
     # danteside "TAG!"
-    danteside "TAG!"
+    danteside "TROCA!"
 
 # game/script_amos.rpy:4569
 translate languagetwo amos_wrestles_gregor_a9384632:
 
     # "Dante flies into the ring—a flash of sparkly-white lycra spandex moving at speeds only younger men can achieve."
-    "Dante voa para o ringue—um flash de elastano branco brilhante se movendo a velocidades que apenas homens mais jovens conseguem alcançar."
+    "Dante voa para o ringue—um flash de lycra branca brilhante se movendo a velocidades que apenas homens mais jovens conseguem alcançar."
 
 # game/script_amos.rpy:4570
 translate languagetwo amos_wrestles_gregor_924870e3:
 
     # "He darts toward Amos, ferocity burning in his eyes, his tiger spirit unleashed as he yells."
-    "Ele corre em direção a Amos, ferocidade queimando em seus olhos, seu espírito de tigre libertado enquanto ele grita."
+    "Ele corre em direção a Amos, ferocidade queimando em seus olhos, seu espírito de tigre liberado enquanto ele grita."
 
 # game/script_amos.rpy:4572
 translate languagetwo amos_wrestles_gregor_af3b5773:
@@ -10883,7 +11364,7 @@ translate languagetwo amos_wrestles_gregor_af3b5773:
 translate languagetwo amos_wrestles_gregor_9e783194:
 
     # "With a mighty leap, he springs towards Amos. Arms outstretched, fists clenched, a thunderbolt shooting from the sky ready to smite the enemy."
-    "Com um salto poderoso, ele pula em direção a Amos. Braços estendidos, punhos cerrados, um raio disparando do céu pronto para golpear o inimigo."
+    "Com um salto poderoso, ele pula em direção a Amos. Braços esticados, punhos cerrados, um raio caindo do céu pronto para destruir o inimigo."
 
 # game/script_amos.rpy:4576
 translate languagetwo amos_wrestles_gregor_41f27a29:
@@ -10895,13 +11376,13 @@ translate languagetwo amos_wrestles_gregor_41f27a29:
 translate languagetwo amos_wrestles_gregor_8611c7b6:
 
     # mside "HEY! REF! THEY GOT TWO GUYS IN THE RING! DQ! DQ!"
-    mside "EI! JUIZ! ELES TÊM DOIS CARAS NO RINGUE! DQ! DQ!"
+    mside "EI! JUIZ! TEM DOIS CARAS NO RINGUE! DESCLASSIFICA! DESCLASSIFICA!"
 
 # game/script_amos.rpy:4581
 translate languagetwo amos_wrestles_gregor_62c6da80:
 
     # "Willy the referee turns toward you, unappreciative of your vigilance in telling him how to do his job."
-    "Willy, o árbitro, se vira para você, não apreciando sua vigilância em dizer a ele como fazer seu trabalho."
+    "Willy, o árbitro, se vira para você, nada agradecido por sua vigilância em dizer a ele como fazer seu trabalho."
 
 # game/script_amos.rpy:4582
 translate languagetwo amos_wrestles_gregor_ec2b8ebb:
@@ -10913,19 +11394,19 @@ translate languagetwo amos_wrestles_gregor_ec2b8ebb:
 translate languagetwo amos_wrestles_gregor_9761184b:
 
     # "Willy heads straight toward you, looking somewhat pissed."
-    "Willy vai direto em sua direção, parecendo um pouco irritado."
+    "Willy vem direto na sua direção, parecendo um tanto irritado."
 
 # game/script_amos.rpy:4584
 translate languagetwo amos_wrestles_gregor_aa6cd09f:
 
     # refereeside "{i}I'll{/i} decide what's a disqualification and what's not. Do you understand me?"
-    refereeside "{i}Eu{/i} decido o que é desqualificação e o que não é. Você me entende?"
+    refereeside "{i}Eu{/i} decido o que é uma desclassificação e o que não é. Você me entendeu?"
 
 # game/script_amos.rpy:4586
 translate languagetwo amos_wrestles_gregor_45616232:
 
     # "You begin bickering with him, meanwhile Amos is approaching Gregor to make sure he's okay. Gregor still lies motionless."
-    "Você começa a discutir com ele, enquanto isso Amos se aproxima de Gregor para ter certeza de que ele está bem. Gregor ainda está deitado imóvel."
+    "Você começa a discutir com ele, enquanto isso Amos se aproxima de Gregor para ter certeza de que ele está bem. Gregor ainda está imóvel."
 
 # game/script_amos.rpy:4587
 translate languagetwo amos_wrestles_gregor_a290de68:
@@ -10937,7 +11418,7 @@ translate languagetwo amos_wrestles_gregor_a290de68:
 translate languagetwo amos_wrestles_gregor_783fb5ce:
 
     # "Dante launches himself again, this time landing square on Amos' back. He latches on like a hungry monkey."
-    "Dante se lança novamente, desta vez pousando bem nas costas de Amos. Ele se agarra como um macaco faminto."
+    "Dante se lança novamente, desta vez caindo bem nas costas de Amos. Ele se agarra como um macaco faminto."
 
 # game/script_amos.rpy:4592
 translate languagetwo amos_wrestles_gregor_76f18fb3:
@@ -10955,7 +11436,7 @@ translate languagetwo amos_wrestles_gregor_e6018c51:
 translate languagetwo amos_wrestles_gregor_9e87c1d8:
 
     # "Amos looks back at him in disbelief."
-    "Amos olha para ele, descrente."
+    "Amos olha para trás, incrédulo."
 
 # game/script_amos.rpy:4597
 translate languagetwo amos_wrestles_gregor_2c6fc5f8:
@@ -10973,7 +11454,7 @@ translate languagetwo amos_wrestles_gregor_2b2d2f9b:
 translate languagetwo amos_wrestles_gregor_6a6d7196:
 
     # "Amos tumbles to the ground. Dante and Gregor together have little problem in subduing him."
-    "Amos cai no chão. Dante e Gregor juntos não têm problemas em dominá-lo."
+    "Amos cai no chão. Dante e Gregor juntos têm poucos problemas em dominá-lo."
 
 # game/script_amos.rpy:4605
 translate languagetwo amos_wrestles_gregor_0d8023cb:
@@ -10985,7 +11466,7 @@ translate languagetwo amos_wrestles_gregor_0d8023cb:
 translate languagetwo amos_wrestles_gregor_27081fa7:
 
     # refereeside "YOU DON'T TELL ME WHAT TO DO! DO YOU UNDERSTAND ME? I'M IN CHARGE! ME!"
-    refereeside "VOCÊ NÃO ME DIZ O QUE FAZER! ME ENTENDEU? EU ESTOU NO COMANDO! EU!"
+    refereeside "VOCÊ NÃO ME DIZ O QUE FAZER! VOCÊ ME ENTENDEU? EU ESTOU NO COMANDO! EU!"
 
 # game/script_amos.rpy:4608
 translate languagetwo amos_wrestles_gregor_2729b34b:
@@ -10997,7 +11478,7 @@ translate languagetwo amos_wrestles_gregor_2729b34b:
 translate languagetwo amos_wrestles_gregor_aaf693c2:
 
     # "With Gregor pinning Amos to the ground, Dante begins taking a series of cheap shots."
-    "Com Gregor imobilizando Amos no chão, Dante começa a desferir uma série de golpes baixos."
+    "Com Gregor imobilizando Amos no chão, Dante começa a dar uma série de golpes baixos."
 
 # game/script_amos.rpy:4610
 translate languagetwo amos_wrestles_gregor_fb14e4a4:
@@ -11015,37 +11496,37 @@ translate languagetwo amos_wrestles_gregor_108467d4:
 translate languagetwo amos_wrestle_win_a9e8641a:
 
     # dulcieside "RARF!"
-    dulcieside "RARF!"
+    dulcieside "AU!"
 
 # game/script_amos.rpy:4648
 translate languagetwo amos_wrestle_win_1b7c41ea:
 
     # "Dulcie begins barking her messed-up little face off. The sight of her master under attack has sent her into a frenzy."
-    "Dulcie começa a latir com sua carinha bagunçada. A visão de seu dono sendo atacado a deixou frenética."
+    "Dulcie começa a latir com aquela carinha estragada dela. A visão de seu dono sob ataque a deixou em frenesi."
 
 # game/script_amos.rpy:4649
 translate languagetwo amos_wrestle_win_42f54504:
 
     # "Her crippled, withered legs dragging behind her, she pulls herself to the commotion. And with a single, hard shih-poo bite, munches down on Gregor's finger."
-    "Suas pernas aleijadas e murchas se arrastando atrás dela, ela se puxa para a confusão. E com uma única mordida forte de shih-poo, mastiga o dedo de Gregor."
+    "Arrastando as pernas atrofiadas e murchas, ela se arrasta para a confusão. E com uma única e forte mordida de shih-poo, mastiga o dedo de Gregor."
 
 # game/script_amos.rpy:4650
 translate languagetwo amos_wrestle_win_fb61f4dc:
 
     # "He screams out in pain and lashes out, sending Dulcinea flying. She slams into the wall and lands in a pile. A soft whimper emanates from her limp body."
-    "Ele grita de dor e ataca, mandando Dulcinea pelos ares. Ela bate na parede e cai em um monte. Um gemido suave emana de seu corpo inerte."
+    "Ele grita de dor e reage violentamente, mandando Dulcinea pelos ares. Ela bate na parede e cai amontoada. Um gemido suave emana de seu corpo inerte."
 
 # game/script_amos.rpy:4651
 translate languagetwo amos_wrestle_win_135efa0e:
 
     # "Willy, distracted by the screaming, slamming, and whimpering, turns to see the commotion. You grab the opportunity and bolt into the fray."
-    "Willy, distraído pelos gritos, batidas e gemidos, vira-se para ver a comoção. Você aproveita a oportunidade e corre para a briga."
+    "Willy, distraído pelos gritos, batidas e gemidos, se vira para ver a comoção. Você agarra a oportunidade e corre para a briga."
 
 # game/script_amos.rpy:4652
 translate languagetwo amos_wrestle_win_48c575d5:
 
     # "Amos, outraged by the sight of his injured dog, heaves Gregor off him with a great hurumph and stands, ready to annihilate."
-    "Amos, indignado ao ver sua cachorra ferida, tira Gregor de cima dele com um grande grunhido e se levanta, pronto para aniquilar."
+    "Amos, ultrajado ao ver sua cachorra ferida, joga Gregor para longe com um grande esforço e se levanta, pronto para aniquilar."
 
 # game/script_amos.rpy:4654
 translate languagetwo amos_wrestle_win_827eeb0e:
@@ -11087,19 +11568,19 @@ translate languagetwo amos_wrestle_win_9c8d377c:
 translate languagetwo amos_wrestle_win_74bbd7a8:
 
     # mside "SLAPPY SLAPPY SLAPPITY SLAP SLAP!"
-    mside "TAPA TAPA TAPINHA TAPA TAPA!"
+    mside "TAPINHA TAPINHA TAPA TAPA!"
 
 # game/script_amos.rpy:4664
 translate languagetwo amos_wrestle_win_58f09d20:
 
     # "You redden his cheeks with a combo of slaps while Amos unleashes his own unrelenting fury."
-    "Você avermelha as bochechas dele com um combo de tapas enquanto Amos libera sua própria fúria implacável."
+    "Você deixa as bochechas dele vermelhas com uma combinação de tapas enquanto Amos libera sua própria fúria implacável."
 
 # game/script_amos.rpy:4666
 translate languagetwo amos_wrestle_win_72baae00:
 
     # "Gregor, tossed, lifted and beaten like a gigantic sack of rice, remains helpless against Amos' onslaught."
-    "Gregor, jogado, levantado e espancado como um saco gigante de arroz, permanece indefeso contra o ataque de Amos."
+    "Gregor, arremessado, levantado e espancado como um gigantesco saco de arroz, permanece indefeso contra o ataque de Amos."
 
 # game/script_amos.rpy:4667
 translate languagetwo amos_wrestle_win_c127de75:
@@ -11111,13 +11592,13 @@ translate languagetwo amos_wrestle_win_c127de75:
 translate languagetwo amos_wrestle_win_83c05b60:
 
     # refereeside "You know what? That looks pretty good. You guys win. Victory goes to Amos and [m]. Congrats. Let's hurry up and get to the fun part."
-    refereeside "Quer saber? Isso parece muito bom. Vocês ganharam. A vitória vai para Amos e [m]. Parabéns. Vamos nos apressar e ir para a parte divertida."
+    refereeside "Quer saber? Isso parece muito bom. Vocês venceram. A vitória vai para Amos e [m]. Parabéns. Vamos nos apressar e ir para a parte divertida."
 
 # game/script_amos.rpy:4670
 translate languagetwo amos_wrestle_win_ba3f0041:
 
     # "You roll off of Dante and catch your breath as Amos hurries to Dulcinea's side. Her shortened, stunted breaths indicate that she's dying..."
-    "Você rola para fora de Dante e recupera o fôlego enquanto Amos corre para o lado de Dulcinea. Suas respirações curtas e atrofiadas indicam que ela está morrendo..."
+    "Você sai de cima de Dante e recupera o fôlego enquanto Amos corre para o lado de Dulcinea. A respiração curta e atrofiada indica que ela está morrendo..."
 
 # game/script_amos.rpy:4672
 translate languagetwo amos_wrestle_win_329612fc:
@@ -11135,7 +11616,7 @@ translate languagetwo amos_wrestle_win_9927ad97:
 translate languagetwo amos_wrestle_win_f840cc0d:
 
     # "Then she snaps right back to, wags her tail, lets out a cute yip."
-    "Então ela volta ao normal, abana o rabo, solta um ganido fofo."
+    "Então ela volta ao normal, abana o rabo, solta um latido fofo."
 
 # game/script_amos.rpy:4678
 translate languagetwo amos_wrestle_win_c2926291:
@@ -11165,13 +11646,13 @@ translate languagetwo amos_wrestle_win_d146acdf:
 translate languagetwo amos_wrestle_win_4df23490:
 
     # gregorside "Well, you've beaten us. Aren't you going to make us submit to you?"
-    gregorside "Bem, vocês nos venceram. Não vão nos fazer submeter a vocês?"
+    gregorside "Bem, vocês nos venceram. Vocês não vão nos forçar a nos submeter a vocês?"
 
 # game/script_amos.rpy:4687
 translate languagetwo amos_wrestle_win_7af144a5:
 
     # gregorside "You're supposed to fuck us now. Really give us a good pounding!"
-    gregorside "Vocês deveriam nos foder agora. Nos dar uma boa surra de verdade!"
+    gregorside "Vocês deveriam nos foder agora. Nos dar uma boa surra mesmo!"
 
 # game/script_amos.rpy:4689
 translate languagetwo amos_wrestle_win_163b7e49:
@@ -11213,13 +11694,13 @@ translate languagetwo amos_bedroom_wrestle_17774cca:
 translate languagetwo amos_bedroom_wrestle_16b95e34:
 
     # mside "I didn't know what to expect. But it definitely wasn't {i}that.{/i} I thought we were goners."
-    mside "Eu não sabia o que esperar. Mas definitivamente não era {i}aquilo.{/i} Pensei que estávamos ferrados."
+    mside "Eu não sabia o que esperar. Mas definitivamente não era {i}aquilo.{/i} Achei que já éramos."
 
 # game/script_amos.rpy:4711
 translate languagetwo amos_bedroom_wrestle_ab872b16:
 
     # amos "Honestly, so did I. The events turned in the right direction, though."
-    amos "Honestamente, eu também. Os eventos tomaram a direção certa, no entanto."
+    amos "Honestamente, eu também. Mas os eventos tomaram a direção certa."
 
 # game/script_amos.rpy:4713
 translate languagetwo amos_bedroom_wrestle_07db8c5f:
@@ -11237,19 +11718,19 @@ translate languagetwo amos_bedroom_wrestle_33830f6b:
 translate languagetwo amos_bedroom_wrestle_90c68ba0:
 
     # "Neither of you say a word. Instead you look down toward the thick bulge of his crotch, held back only by the fabric of his singlet."
-    "Nenhum de vocês diz uma palavra. Em vez disso, você olha para o volume grosso da virilha dele, contido apenas pelo tecido do singlete."
+    "Nenhum de vocês diz uma palavra. Em vez disso, você olha para baixo em direção ao volume grosso da virilha dele, contido apenas pelo tecido do collant."
 
 # game/script_amos.rpy:4717
 translate languagetwo amos_bedroom_wrestle_5bcaec44:
 
     # "Your heart pounds. Suddenly he sets upon you, throwing you onto the bed."
-    "Seu coração dispara. De repente ele se joga em cima de você, te atirando na cama."
+    "Seu coração dispara. De repente ele se lança sobre você, te jogando na cama."
 
 # game/script_amos.rpy:4725
 translate languagetwo amos_bedroom_wrestle_12c88103:
 
     # "Pinned under his massive torso, your back flattened against the mattress, you can barely move."
-    "Pressionado sob seu torso maciço, suas costas achatadas contra o colchão, você mal consegue se mover."
+    "Preso sob o torso maciço dele, suas costas achatadas contra o colchão, você mal consegue se mover."
 
 # game/script_amos.rpy:4729
 translate languagetwo amos_bedroom_wrestle_7cc508ce:
@@ -11267,13 +11748,13 @@ translate languagetwo amos_bedroom_wrestle_d35f9c44:
 translate languagetwo amos_bedroom_wrestle_ed185e9e:
 
     # "You and Amos strip off your singlets and lie in bed."
-    "Você e Amos tiram seus singletes e deitam na cama."
+    "Você e Amos tiram seus collants e deitam na cama."
 
 # game/script_amos.rpy:4739
 translate languagetwo amos_bedroom_wrestle_58ff2588:
 
     # "You watch each other breathe deeply, slowly, feel the sweat cooling off your bodies. Finally he turns to you and wraps one arm around you."
-    "Vocês se observam respirar profunda e lentamente, sentem o suor esfriando em seus corpos. Finalmente ele se vira para você e envolve um braço ao seu redor."
+    "Vocês observam um ao outro respirar fundo, lentamente, sentem o suor esfriando em seus corpos. Finalmente ele se vira para você e te envolve com um braço."
 
 # game/script_amos.rpy:4740
 translate languagetwo amos_bedroom_wrestle_4e27dbcc:
@@ -11309,7 +11790,7 @@ translate languagetwo amos_bedroom_wrestle_9927ad97:
 translate languagetwo amos_bedroom_wrestle_aa769c06:
 
     # amside "Let's stay here for a while."
-    amside "Vamos ficar aqui por um tempo."
+    amside "Vamos ficar aqui um pouco."
 
 # game/script_amos.rpy:4751
 translate languagetwo amos_bedroom_wrestle_8610b536:
@@ -11321,13 +11802,13 @@ translate languagetwo amos_bedroom_wrestle_8610b536:
 translate languagetwo amos_bedroom_wrestle_c5cfe344:
 
     # "Amos leans towards you, slow, gentle, eyes vulnerable, wanting."
-    "Amos se inclina em sua direção, devagar, gentil, olhos vulneráveis, desejosos."
+    "Amos se inclina em sua direção, lento, gentil, olhos vulneráveis, querendo."
 
 # game/script_amos.rpy:4753
 translate languagetwo amos_bedroom_wrestle_1d7dd911:
 
     # "The look on his face communicating the same need. You move to him, lips joining, losing yourself in the feeling."
-    "O olhar em seu rosto comunicando a mesma necessidade. Você se move em direção a ele, lábios se unindo, perdendo-se na sensação."
+    "A expressão no rosto dele comunicando a mesma necessidade. Você se move em direção a ele, lábios se unindo, perdendo-se na sensação."
 
 # game/script_amos.rpy:4754
 translate languagetwo amos_bedroom_wrestle_4f8f5899:
@@ -11339,7 +11820,7 @@ translate languagetwo amos_bedroom_wrestle_4f8f5899:
 translate languagetwo amos_bedroom_wrestle_d0062c42:
 
     # "You squirm underneath him until your hand slips underneath his singlet. You slide it over his swollen cock, rubbing his foreskin teasingly against his shaft."
-    "Você se contorce debaixo dele até que sua mão deslize por baixo do singlete dele. Você a desliza sobre o pau inchado dele, esfregando o prepúcio provocantemente contra o eixo."
+    "Você se contorce embaixo dele até sua mão deslizar por baixo do collant dele. Você a desliza sobre o pau inchado dele, esfregando o prepúcio de forma provocante contra o eixo."
 
 # game/script_amos.rpy:4761
 translate languagetwo amos_bedroom_wrestle_31239d07:
@@ -11357,19 +11838,19 @@ translate languagetwo amos_bedroom_wrestle_209e04e9:
 translate languagetwo amos_bedroom_wrestle_b9dc8e5b:
 
     # "In a flash, he flips you over."
-    "Em um piscar de olhos, ele te vira."
+    "Num piscar de olhos, ele te vira."
 
 # game/script_amos.rpy:4766
 translate languagetwo amos_bedroom_wrestle_072de346:
 
     # "As you try to regain your breath, he squeezes your ass with one hand. He slides the other down your singlet, grabbing onto your cock, stroking it, pumping it."
-    "Enquanto você tenta recuperar o fôlego, ele aperta sua bunda com uma mão. Ele desliza a outra para dentro do seu singlete, agarrando seu pau, acariciando-o, bombeando-o."
+    "Enquanto você tenta recuperar o fôlego, ele aperta sua bunda com uma mão. Ele desliza a outra pelo seu collant, agarrando seu pau, acariciando-o, bombeando-o."
 
 # game/script_amos.rpy:4767
 translate languagetwo amos_bedroom_wrestle_b5418514:
 
     # "Gasping, you squirm underneath him. His weight on your body feels so fucking good. Like it belongs there. It wouldn't be a bad way to lose. Still..."
-    "Ofegante, você se contorce debaixo dele. O peso dele no seu corpo é tão bom, caramba. Como se pertencesse ali. Não seria uma maneira ruim de perder. Ainda assim..."
+    "Ofegando, você se contorce embaixo dele. O peso dele sobre seu corpo é bom pra caralho. Como se pertencesse ali. Não seria um jeito ruim de perder. Ainda assim..."
 
 # game/script_amos.rpy:4768
 translate languagetwo amos_bedroom_wrestle_322bf6fa:
@@ -11387,25 +11868,25 @@ translate languagetwo amos_bedroom_wrestle_c5e04434:
 translate languagetwo amos_bedroom_wrestle_74f51018:
 
     # "He stops a moment, letting you breathe. You wonder what he's up to when you realize he's reaching under the bed. After another moment, you feel him yank down your singlet, exposing your bare ass."
-    "Ele para um momento, deixando você respirar. Você se pergunta o que ele está tramando quando percebe que ele está alcançando algo debaixo da cama. Após outro momento, você sente ele puxar seu singlete para baixo, expondo sua bunda nua."
+    "Ele para um momento, deixando você respirar. Você se pergunta o que ele está aprontando quando percebe que ele está pegando algo debaixo da cama. Um momento depois, você sente ele puxar seu collant para baixo, expondo sua bunda nua."
 
 # game/script_amos.rpy:4771
 translate languagetwo amos_bedroom_wrestle_b7719ebd:
 
     # "His cool, lubed fingers slide in slowly. You buck against the bed, your face pressed against the mattress, groaning in pleasure."
-    "Seus dedos frios e lubrificados deslizam lentamente para dentro. Você se debate contra a cama, seu rosto pressionado contra o colchão, gemendo de prazer."
+    "Os dedos frios e lubrificados dele deslizam lentamente para dentro. Você se debate contra a cama, seu rosto pressionado contra o colchão, gemendo de prazer."
 
 # game/script_amos.rpy:4773
 translate languagetwo amos_bedroom_wrestle_d5b23e7e:
 
     # "A pause as you hear him open a condom."
-    "Uma pausa enquanto você ouve ele abrir um preservativo."
+    "Uma pausa enquanto você ouve ele abrir uma camisinha."
 
 # game/script_amos.rpy:4774
 translate languagetwo amos_bedroom_wrestle_e36a1603:
 
     # "Unless you think of something, you're in danger of losing. Badly."
-    "A menos que você pense em algo, você corre perigo de perder. Feio."
+    "A menos que você pense em algo, corre o risco de perder. Feio."
 
 # game/script_amos.rpy:4779
 translate languagetwo amos_bedroom_wrestle_d270f84c:
@@ -11417,31 +11898,31 @@ translate languagetwo amos_bedroom_wrestle_d270f84c:
 translate languagetwo amos_bedroom_wrestle_63f9a303:
 
     # "With a single shift of his body, he has you pinned between his calves. Try as you might, you're unable to budge even a centimeter beneath him."
-    "Com um único movimento de corpo, ele te prende entre as panturrilhas. Por mais que você tente, é incapaz de se mover um centímetro sequer debaixo dele."
+    "Com um único movimento de seu corpo, ele te prende entre as panturrilhas. Por mais que tente, você é incapaz de se mover um centímetro sequer sob ele."
 
 # game/script_amos.rpy:4781
 translate languagetwo amos_bedroom_wrestle_f9dda3b5:
 
     # "Keeping you pinned, he starts to strip off his singlet. From the corner of your eye you can see his cock, thicker than your wrist, pointed straight in front of him and hovering above your ass."
-    "Mantendo você preso, ele começa a tirar o singlete. Pelo canto do olho, você pode ver o pau dele, mais grosso que seu pulso, apontado diretamente para frente e pairando sobre sua bunda."
+    "Mantendo você preso, ele começa a tirar o collant. Pelo canto do olho, você pode ver o pau dele, mais grosso que seu pulso, apontado diretamente para frente e pairando sobre sua bunda."
 
 # game/script_amos.rpy:4782
 translate languagetwo amos_bedroom_wrestle_da676a48:
 
     # "His singlet now off, his pubes tickle the back of your thighs while his flesh rubs against your own."
-    "Com o singlete agora fora, os pelos pubianos dele fazem cócegas na parte de trás das suas coxas enquanto a carne dele roça na sua."
+    "Com o collant fora, os pelos pubianos dele fazem cócegas na parte de trás das suas coxas enquanto a carne dele roça na sua."
 
 # game/script_amos.rpy:4783
 translate languagetwo amos_bedroom_wrestle_afd1fdd8:
 
     # "He shifts his weight again, pulling both of the straps down of your singlet at once. You hear it rip as he yanks it off your body."
-    "Ele muda o peso novamente, puxando ambas as alças do seu singlete para baixo de uma vez. Você ouve rasgar enquanto ele o arranca do seu corpo."
+    "Ele muda o peso novamente, puxando as duas alças do seu collant de uma vez. Você ouve o tecido rasgar enquanto ele o arranca do seu corpo."
 
 # game/script_amos.rpy:4788
 translate languagetwo amos_bedroom_wrestle_e16070aa:
 
     # mside "You seem pretty confident that I'm cumming first."
-    mside "Você parece bem confiante de que vou gozar primeiro."
+    mside "Você parece bem confiante de que eu vou gozar primeiro."
 
 # game/script_amos.rpy:4790
 translate languagetwo amos_bedroom_wrestle_722e55f9:
@@ -11453,13 +11934,13 @@ translate languagetwo amos_bedroom_wrestle_722e55f9:
 translate languagetwo amos_bedroom_wrestle_82f7bbe9:
 
     # "You feel him position himself so his inner thighs press against the outside of yours, locking you in."
-    "Você sente ele se posicionar de modo que a parte interna das coxas dele pressione contra a parte externa das suas, prendendo você."
+    "Você sente ele se posicionar de modo que a parte interna das coxas dele pressione a parte externa das suas, te prendendo."
 
 # game/script_amos.rpy:4792
 translate languagetwo amos_bedroom_wrestle_de0376f2:
 
     # "You feel the head of his cock slide between the cheeks of your ass, seeking entrance."
-    "Você sente a cabeça do pau dele deslizar entre as nádegas da sua bunda, buscando entrada."
+    "Você sente a cabeça do pau dele deslizar entre as nádegas, buscando entrada."
 
 # game/script_amos.rpy:4795
 translate languagetwo amos_bedroom_wrestle_82c67f67:
@@ -11471,19 +11952,19 @@ translate languagetwo amos_bedroom_wrestle_82c67f67:
 translate languagetwo amos_bedroom_wrestle_41eb4cff:
 
     # amside "Fuuuck."
-    amside "Porraaa."
+    amside "Pooorra."
 
 # game/script_amos.rpy:4815
 translate languagetwo amos_bedroom_wrestle_a83ee49a:
 
     # "After a moment of pressure, you feel your ass take the head of his enormous cock. You feel it breach the outside of your anus and slowly push into you."
-    "Após um momento de pressão, você sente sua bunda receber a cabeça do enorme pau dele. Você sente ele romper a parte externa do seu ânus e empurrar lentamente para dentro de você."
+    "Após um momento de pressão, você sente sua bunda receber a cabeça do pau enorme dele. Você sente ele romper a parte externa do seu ânus e empurrar lentamente para dentro de você."
 
 # game/script_amos.rpy:4816
 translate languagetwo amos_bedroom_wrestle_5fa4dbed:
 
     # "You groan as he slides in. And louder as he rubs his lubed hand all over your cock."
-    "Você geme enquanto ele desliza para dentro. E mais alto enquanto ele esfrega a mão lubrificada por todo o seu pau."
+    "Você geme quando ele desliza para dentro. E mais alto quando ele esfrega a mão lubrificada por todo o seu pau."
 
 # game/script_amos.rpy:4817
 translate languagetwo amos_bedroom_wrestle_13f0e5cb:
@@ -11495,13 +11976,13 @@ translate languagetwo amos_bedroom_wrestle_13f0e5cb:
 translate languagetwo amos_bedroom_wrestle_bb2d3d38:
 
     # "You feel his hot, sweaty body start to slam against your own as he thrusts in and out of you, working in a slow, steady rhythm."
-    "Você sente o corpo quente e suado dele começar a bater contra o seu enquanto ele empurra para dentro e para fora de você, trabalhando em um ritmo lento e constante."
+    "Você sente o corpo quente e suado dele começar a bater contra o seu enquanto ele estoca para dentro e para fora de você, trabalhando em um ritmo lento e constante."
 
 # game/script_amos.rpy:4829
 translate languagetwo amos_bedroom_wrestle_fd409dfd:
 
     # "Before you realize it, he's slamming you with hard, furious strokes. With every thrust, you feel him getting larger."
-    "Antes que você perceba, ele está te socando com golpes duros e furiosos. A cada empurrão, você sente ele ficando maior."
+    "Antes que você perceba, ele está te socando com estocadas duras e furiosas. A cada empurrão, você sente ele ficando maior."
 
 # game/script_amos.rpy:4830
 translate languagetwo amos_bedroom_wrestle_57117cd1:
@@ -11519,7 +12000,7 @@ translate languagetwo amos_bedroom_wrestle_6ab08b56:
 translate languagetwo amos_bedroom_wrestle_34ee7308:
 
     # "You cum, shoving your face hard against the mattress and your ass against his crotch."
-    "Você goza, enfiando o rosto com força contra o colchão e a bunda contra a virilha dele."
+    "Você goza, empurrando o rosto com força contra o colchão e a bunda contra a virilha dele."
 
 # game/script_amos.rpy:4842
 translate languagetwo amos_bedroom_wrestle_1b828a2e:
@@ -11531,7 +12012,7 @@ translate languagetwo amos_bedroom_wrestle_1b828a2e:
 translate languagetwo amos_bedroom_wrestle_3cae71a0:
 
     # "You slowly regain your senses."
-    "Você recupera lentamente os sentidos."
+    "Você lentamente recupera os sentidos."
 
 # game/script_amos.rpy:4847
 translate languagetwo amos_bedroom_wrestle_fc55f466:
@@ -11543,7 +12024,7 @@ translate languagetwo amos_bedroom_wrestle_fc55f466:
 translate languagetwo amos_bedroom_wrestle_e12b86d0:
 
     # mside "Uh, what? I think {i}I{/i} won."
-    mside "Uh, o quê? Acho que {i}eu{/i} ganhei."
+    mside "Hã, o quê? Acho que {i}eu{/i} ganhei."
 
 # game/script_amos.rpy:4851
 translate languagetwo amos_bedroom_wrestle_178ca64b:
@@ -11555,7 +12036,7 @@ translate languagetwo amos_bedroom_wrestle_178ca64b:
 translate languagetwo amos_bedroom_wrestle_d10d9485:
 
     # "He kisses you on the shoulder, on the neck, and rumples your hair."
-    "Ele beija você no ombro, no pescoço e despenteia seu cabelo."
+    "Ele beija seu ombro, seu pescoço, e bagunça seu cabelo."
 
 # game/script_amos.rpy:4856
 translate languagetwo amos_bedroom_wrestle_9373724a:
@@ -11567,7 +12048,7 @@ translate languagetwo amos_bedroom_wrestle_9373724a:
 translate languagetwo amos_bedroom_wrestle_4d6b2108:
 
     # "Amos, brow furrowed in worry, rolls off of you."
-    "Amos, com a testa franzida de preocupação, rola para fora de você."
+    "Amos, com a testa franzida de preocupação, rola de cima de você."
 
 # game/script_amos.rpy:4859
 translate languagetwo amos_bedroom_wrestle_8a519522:
@@ -11579,7 +12060,7 @@ translate languagetwo amos_bedroom_wrestle_8a519522:
 translate languagetwo amos_bedroom_wrestle_ac46c01f:
 
     # "As you pretend to nurse your side, you take the opportunity to wriggle out of his grasp."
-    "Enquanto você finge cuidar do seu lado, aproveita a oportunidade para se livrar do aperto dele."
+    "Enquanto finge cuidar da lateral do corpo, você aproveita a oportunidade para se livrar do aperto dele."
 
 # game/script_amos.rpy:4861
 translate languagetwo amos_bedroom_wrestle_159308ea:
@@ -11591,7 +12072,7 @@ translate languagetwo amos_bedroom_wrestle_159308ea:
 translate languagetwo amos_bedroom_wrestle_eb231819:
 
     # "He laughs, half aghast, half amused."
-    "Ele ri, meio horrorizado, meio divertido."
+    "Ele ri, meio espantado, meio divertido."
 
 # game/script_amos.rpy:4864
 translate languagetwo amos_bedroom_wrestle_2208ed7e:
@@ -11603,13 +12084,13 @@ translate languagetwo amos_bedroom_wrestle_2208ed7e:
 translate languagetwo amos_bedroom_wrestle_a88345ec:
 
     # "Before he can recover from his shock, you yank one arm of his singlet down, then the other. You stare at his wondrous body as you peel away the rest of the fabric."
-    "Antes que ele possa se recuperar do choque, você puxa um braço do singlete dele para baixo, depois o outro. Você encara o corpo maravilhoso dele enquanto arranca o resto do tecido."
+    "Antes que ele possa se recuperar do choque, você puxa um braço do collant dele para baixo, depois o outro. Você encara o corpo maravilhoso dele enquanto descasca o resto do tecido."
 
 # game/script_amos.rpy:4867
 translate languagetwo amos_bedroom_wrestle_0693d3c5:
 
     # "His cock stands at attention, waiting. Leaning over him, you wrap your fist around his ample girth."
-    "O pau dele está em riste, esperando. Inclinando-se sobre ele, você envolve seu punho em torno de sua ampla circunferência."
+    "O pau dele fica em sentido, esperando. Inclinando-se sobre ele, você envolve seu punho em torno de sua ampla circunferência."
 
 # game/script_amos.rpy:4869
 translate languagetwo amos_bedroom_wrestle_de9fc3d9:
@@ -11621,13 +12102,13 @@ translate languagetwo amos_bedroom_wrestle_de9fc3d9:
 translate languagetwo amos_bedroom_wrestle_fdf3126c:
 
     # "Your shaft throbs in your hand, pulsing. Not wasting a second, you spread some lube between his thighs, and smear it around with the head of your cock."
-    "Seu membro pulsa na sua mão. Sem perder um segundo, você espalha um pouco de lubrificante entre as coxas dele e o espalha com a cabeça do seu pau."
+    "Seu membro lateja em sua mão, pulsando. Sem perder um segundo, você espalha um pouco de lubrificante entre as coxas dele e besunta com a cabeça do seu pau."
 
 # game/script_amos.rpy:4872
 translate languagetwo amos_bedroom_wrestle_81fbf28a:
 
     # "He groans under your roving hand, as you roll on a condom with the other."
-    "Ele geme sob sua mão errante, enquanto você coloca um preservativo com a outra."
+    "Ele geme sob sua mão que percorre o corpo, enquanto você coloca uma camisinha com a outra."
 
 # game/script_amos.rpy:4891
 translate languagetwo amos_bedroom_wrestle_76fd240c:
@@ -11639,7 +12120,7 @@ translate languagetwo amos_bedroom_wrestle_76fd240c:
 translate languagetwo amos_bedroom_wrestle_37e6ac5a:
 
     # "Amos' grunts spur you on."
-    "Os grunhidos de Amos te incentivam."
+    "Os grunhidos de Amos te estimulam."
 
 # game/script_amos.rpy:4893
 translate languagetwo amos_bedroom_wrestle_fa5cccd6:
@@ -11663,7 +12144,7 @@ translate languagetwo amos_bedroom_wrestle_4e1cb1e5:
 translate languagetwo amos_bedroom_wrestle_f15a243c:
 
     # "He squeezes his thighs around your hips as you drive your cock as deep as you can."
-    "Ele aperta as coxas ao redor dos seus quadris enquanto você enfia seu pau o mais fundo que pode."
+    "Ele aperta as coxas em volta dos seus quadris enquanto você enterra seu pau o mais fundo que pode."
 
 # game/script_amos.rpy:4913
 translate languagetwo amos_bedroom_wrestle_50b18c2d:
@@ -11687,19 +12168,19 @@ translate languagetwo amos_bedroom_wrestle_844a2354:
 translate languagetwo amos_bedroom_wrestle_b93843ef:
 
     # "You pump furiously into him, slamming every last ounce of cum out of your dick."
-    "Você bombeia furiosamente dentro dele, expelindo até a última gota de sêmen do seu pau."
+    "Você bombeia furiosamente dentro dele, expelindo até a última gota de porra do seu pau."
 
 # game/script_amos.rpy:4924
 translate languagetwo amos_bedroom_wrestle_6e69e03c:
 
     # "You pump furiously into him, slamming every last ounce of cum into his body."
-    "Você bombeia furiosamente dentro dele, expelindo até a última gota de sêmen dentro do corpo dele."
+    "Você bombeia furiosamente dentro dele, injetando até a última gota de porra no corpo dele."
 
 # game/script_amos.rpy:4927
 translate languagetwo amos_bedroom_wrestle_182c8196:
 
     # "You ease yourself out with a ragged sigh."
-    "Você sai devagar com um suspiro irregular."
+    "Você sai dele devagar com um suspiro irregular."
 
 # game/script_amos.rpy:4929
 translate languagetwo amos_bedroom_wrestle_e65375e5:
@@ -11711,25 +12192,25 @@ translate languagetwo amos_bedroom_wrestle_e65375e5:
 translate languagetwo amos_bedroom_wrestle_01568266:
 
     # amside "A devious move. Not that I'm complaining."
-    amside "Uma jogada tortuosa. Não que eu esteja reclamando."
+    amside "Um movimento ardiloso. Não que eu esteja reclamando."
 
 # game/script_amos.rpy:4932
 translate languagetwo amos_bedroom_wrestle_2d4737fc:
 
     # "He kisses you on the forehead. You feel something in your chest flutter."
-    "Ele beija você na testa. Você sente algo em seu peito vibrar."
+    "Ele te beija na testa. Você sente algo no peito palpitar."
 
 # game/script_amos.rpy:4939
 translate languagetwo amos_wrestle_lose_98471bda:
 
     # "Dulcie, sitting in the corner, looks at you with smoldering derision. Possibly thinking that you are not a man at all. A man would be able to actually do something when the chips are down."
-    "Dulcie, sentada no canto, olha para você com um escárnio latente. Possivelmente pensando que você não é homem nenhum. Um homem seria capaz de realmente fazer algo na hora do aperto."
+    "Dulcie, sentada no canto, olha para você com um escárnio ardente. Possivelmente pensando que você não é homem nenhum. Um homem conseguiria realmente fazer alguma coisa quando a situação ficasse feia."
 
 # game/script_amos.rpy:4940
 translate languagetwo amos_wrestle_lose_b326796b:
 
     # "But you are powerless. Amos held down tight under the heft of Gregor, he continues to weaken as Dante wails away on him."
-    "Mas você é impotente. Amos mantido preso sob o peso de Gregor, ele continua a enfraquecer enquanto Dante o espanca."
+    "Mas você é impotente. Amos, preso com força sob o peso de Gregor, continua a enfraquecer enquanto Dante o espanca."
 
 # game/script_amos.rpy:4941
 translate languagetwo amos_wrestle_lose_34b249a2:
@@ -11741,43 +12222,43 @@ translate languagetwo amos_wrestle_lose_34b249a2:
 translate languagetwo amos_wrestle_lose_e9e4575b:
 
     # mside "Okay okay okay, I'll stop."
-    mside "Ok ok ok, eu paro."
+    mside "Tá bom, tá bom, tá bom, eu paro."
 
 # game/script_amos.rpy:4946
 translate languagetwo amos_wrestle_lose_a75d0529:
 
     # mside "Just please look at what's going on over there."
-    mside "Só por favor olhe o que está acontecendo lá."
+    mside "Só por favor, olha o que está acontecendo ali."
 
 # game/script_amos.rpy:4948
 translate languagetwo amos_wrestle_lose_eb72c0da:
 
     # refereeside "That's right. You understand how this works, buddy? I'm in charge. I make the calls. Good boy."
-    refereeside "Isso mesmo. Você entende como isso funciona, camarada? Eu estou no comando. Eu tomo as decisões. Bom garoto."
+    refereeside "Isso mesmo. Você entende como isso funciona, amigão? Eu estou no comando. Eu tomo as decisões. Bom garoto."
 
 # game/script_amos.rpy:4949
 translate languagetwo amos_wrestle_lose_68113a8d:
 
     # "And just as Willy turns around, Dante sneaks back outside the white lines of the ring."
-    "E assim que Willy se vira, Dante foge de volta para fora das linhas brancas do ringue."
+    "E bem quando Willy se vira, Dante volta sorrateiramente para fora das linhas brancas do ringue."
 
 # game/script_amos.rpy:4951
 translate languagetwo amos_wrestle_lose_9c241269:
 
     # mside "WHA?! Bullshit!"
-    mside "O QUÊ?! Mentira!"
+    mside "O QUÊ?! Sacanagem!"
 
 # game/script_amos.rpy:4954
 translate languagetwo amos_wrestle_lose_e021253d:
 
     # "Amos bruised and battered, lacks the will to continue. Gregor rests easily upon him as Willy slides over and counts him out."
-    "Amos, machucado e espancado, não tem vontade de continuar. Gregor descansa facilmente sobre ele enquanto Willy desliza e faz a contagem."
+    "Amos, machucado e espancado, não tem vontade de continuar. Gregor descansa facilmente sobre ele enquanto Willy desliza até lá e faz a contagem."
 
 # game/script_amos.rpy:4956
 translate languagetwo amos_wrestle_lose_3d5ace90:
 
     # gregorside_poetry "Yet shall I season high my sudden fall"
-    gregorside_poetry "Ainda assim temperarei alto minha queda repentina"
+    gregorside_poetry "Ainda assim temperarei alto minha queda súbita"
 
 # game/script_amos.rpy:4958
 translate languagetwo amos_wrestle_lose_36478906:
@@ -11801,7 +12282,7 @@ translate languagetwo amos_wrestle_lose_fe957cce:
 translate languagetwo amos_wrestle_lose_7ee9dfee:
 
     # danteside "Hope you're ready to get potted, my little flower."
-    danteside "Espero que esteja pronto para ser envasado, minha florzinha."
+    danteside "Espero que esteja pronto para ser plantado, minha florzinha."
 
 # game/script_amos.rpy:4969
 translate languagetwo amos_wrestle_lose_d9763218:
@@ -11813,7 +12294,7 @@ translate languagetwo amos_wrestle_lose_d9763218:
 translate languagetwo amos_wrestle_lose_cd5aa3c6:
 
     # refereeside "Hey. Settle down. It's over. Nothing to do about it at this point."
-    refereeside "Ei. Acalme-se. Acabou. Nada a fazer sobre isso neste ponto."
+    refereeside "Ei. Acalme-se. Acabou. Nada a fazer sobre isso neste momento."
 
 # game/script_amos.rpy:4973
 translate languagetwo amos_wrestle_lose_9f34599a:
@@ -11825,13 +12306,13 @@ translate languagetwo amos_wrestle_lose_9f34599a:
 translate languagetwo amos_wrestle_lose_d47ee68c:
 
     # amside "It is to all others to suffer them, and suffer they must."
-    amside "É a todos os outros sofrê-las, e sofrer eles devem."
+    amside "Cabe a todos os outros sofrê-las, e sofrer eles devem."
 
 # game/script_amos.rpy:4977
 translate languagetwo amos_wrestle_lose_0b171332:
 
     # gregorside "Oh stop. You lost. Now shut the hell up and take your medicine."
-    gregorside "Ah, pare. Você perdeu. Agora cale a boca e aceite seu remédio."
+    gregorside "Ah, para. Você perdeu. Agora cala a boca e aguenta as consequências."
 
 # game/script_amos.rpy:4979
 translate languagetwo amos_wrestle_lose_9927ad97:
@@ -11855,31 +12336,31 @@ translate languagetwo amos_wrestle_lose_1c8da6f4:
 translate languagetwo amos_wrestle_lose_f156fde5:
 
     # danteside "This time, I'm going to be giving {i}you{/i} the tip."
-    danteside "Desta vez, sou eu quem vai dar a gorjeta (a pontinha) para {i}você{/i}."
+    danteside "Desta vez, sou {i}eu{/i} quem vai dar a ponta para você."
 
 # game/script_amos.rpy:4986
 translate languagetwo amos_wrestle_lose_64075693:
 
     # gregorside "We need to figure out the punishment. Let's discuss this, Dante."
-    gregorside "Precisamos descobrir a punição. Vamos discutir isso, Dante."
+    gregorside "Precisamos decidir a punição. Vamos discutir isso, Dante."
 
 # game/script_amos.rpy:4988
 translate languagetwo amos_wrestle_lose_fb649331:
 
     # danteside "Okay, what do you think? What was the death-by-butt that guy was talking about earlier?"
-    danteside "Ok, o que você acha? O que era a morte-pela-bunda que aquele cara estava falando antes?"
+    danteside "Ok, o que você acha? O que era aquela morte-pela-bunda que aquele cara estava falando mais cedo?"
 
 # game/script_amos.rpy:4989
 translate languagetwo amos_wrestle_lose_daeda85e:
 
     # "Gregor and Dante huddle in the corner of the garage where the discussion appears somewhat heated."
-    "Gregor e Dante se amontoam no canto da garagem onde a discussão parece um pouco acalorada."
+    "Gregor e Dante se reúnem no canto da garagem onde a discussão parece um tanto acalorada."
 
 # game/script_amos.rpy:4990
 translate languagetwo amos_wrestle_lose_40acbe46:
 
     # "They motion Willy to come over."
-    "Eles sinalizam para Willy vir."
+    "Eles fazem sinal para Willy vir."
 
 # game/script_amos.rpy:4991
 translate languagetwo amos_wrestle_lose_90d18236:
@@ -11891,13 +12372,13 @@ translate languagetwo amos_wrestle_lose_90d18236:
 translate languagetwo amos_wrestle_lose_baffcd09:
 
     # "Finally, Gregor puts his enormous hand on Dante's shoulder. The argument stops there as the two of them turn to look at you and Amos."
-    "Finalmente, Gregor coloca sua mão enorme no ombro de Dante. A discussão para ali quando os dois se viram para olhar para você e Amos."
+    "Finalmente, Gregor coloca sua mão enorme no ombro de Dante. A discussão para ali enquanto os dois se viram para olhar para você e Amos."
 
 # game/script_amos.rpy:4994
 translate languagetwo amos_wrestle_lose_3d3d3c76:
 
     # gregorside "We've decided."
-    gregorside "Decidimos."
+    gregorside "Nós decidimos."
 
 # game/script_amos.rpy:4995
 translate languagetwo amos_wrestle_lose_b73d66c0:
@@ -11927,19 +12408,19 @@ translate languagetwo amos_wrestle_lose_a7f1e2cc:
 translate languagetwo amos_wrestle_lose_123e6bef:
 
     # danteside "Uh, where's the rope at?"
-    danteside "Uh, onde está a corda?"
+    danteside "Hã, onde fica a corda?"
 
 # game/script_amos.rpy:5004
 translate languagetwo amos_wrestle_lose_933f3ee1:
 
     # amside "The bin in the bottom of the workbench. On the left."
-    amside "Na caixa no fundo da bancada. À esquerda."
+    amside "Na caixa embaixo da bancada. À esquerda."
 
 # game/script_amos.rpy:5006
 translate languagetwo amos_wrestle_lose_14e53300:
 
     # danteside "Thanks."
-    danteside "Obrigado."
+    danteside "Valeu."
 
 # game/script_amos.rpy:5008
 translate languagetwo amos_wrestle_lose_f1d8e752:
@@ -11963,7 +12444,7 @@ translate languagetwo amos_wrestle_lose_5e3e608f:
 translate languagetwo amos_wrestle_lose_d4de24a8:
 
     # gregorside "I just hope you guys survive."
-    gregorside "Eu só espero que vocês sobrevivam."
+    gregorside "Só espero que vocês sobrevivam."
 
 # game/script_amos.rpy:5016
 translate languagetwo amos_wrestle_lose_9927ad97_1:
@@ -11975,13 +12456,13 @@ translate languagetwo amos_wrestle_lose_9927ad97_1:
 translate languagetwo amos_wrestle_lose_dd26eb8a:
 
     # amside "He's just messing with you. I {i}think.{/i}"
-    amside "Ele só está mexendo com você. Eu {i}acho.{/i}"
+    amside "Ele está só brincando com você. Eu {i}acho.{/i}"
 
 # game/script_amos.rpy:5020
 translate languagetwo amos_wrestle_lose_1e3a233e:
 
     # mside "I'm too young to die."
-    mside "Sou jovem demais para morrer."
+    mside "Sou muito jovem para morrer."
 
 # game/script_amos.rpy:5022
 translate languagetwo amos_wrestle_lose_5724fc76:
@@ -11993,25 +12474,25 @@ translate languagetwo amos_wrestle_lose_5724fc76:
 translate languagetwo amos_wrestle_lose_6f2fc77b:
 
     # gregorside "You'll be more than fine, little flower. You'll be godammed beautiful when I'm done with you."
-    gregorside "Você ficará mais do que bem, florzinha. Você ficará bonita pra caramba quando eu terminar com você."
+    gregorside "Você vai ficar mais do que bem, florzinha. Você vai ficar maravilhosamente lindo quando eu terminar com você."
 
 # game/script_amos.rpy:5027
 translate languagetwo amos_wrestle_lose_bad28e9f:
 
     # "Dante proceeds to wrap you and Amos in rope, sitting the both of you on the ground, back to back with your hands bound behind you."
-    "Dante começa a envolver você e Amos em corda, sentando os dois no chão, costas com costas, com as mãos amarradas atrás de vocês."
+    "Dante passa a amarrar você e Amos com a corda, sentando vocês dois no chão, de costas um para o outro com as mãos amarradas para trás."
 
 # game/script_amos.rpy:5029
 translate languagetwo amos_wrestle_lose_f0a822e2:
 
     # mside "I feel like we're in a western or something."
-    mside "Sinto como se estivéssemos em um faroeste ou algo assim."
+    mside "Sinto que estamos num filme de faroeste ou algo assim."
 
 # game/script_amos.rpy:5031
 translate languagetwo amos_wrestle_lose_1bd3b74a:
 
     # amside "Yes, this does have a spaghetti western vibe to it."
-    amside "Sim, isso tem uma vibe de faroeste spaghetti."
+    amside "Sim, isso tem uma vibe de western spaghetti."
 
 # game/script_amos.rpy:5035
 translate languagetwo amos_wrestle_lose_29f3ca73:
@@ -12023,7 +12504,7 @@ translate languagetwo amos_wrestle_lose_29f3ca73:
 translate languagetwo amos_wrestle_lose_6746d595:
 
     # mside "Aren't we supposed to escape from the ropes and put a stop to the bad guys' evil plan?"
-    mside "Nós não deveríamos escapar das cordas e acabar com o plano maligno dos bandidos?"
+    mside "Não devíamos escapar das cordas e acabar com o plano maligno dos bandidos?"
 
 # game/script_amos.rpy:5039
 translate languagetwo amos_wrestle_lose_0d0bc8c3:
@@ -12035,13 +12516,13 @@ translate languagetwo amos_wrestle_lose_0d0bc8c3:
 translate languagetwo amos_wrestle_lose_e0807b63:
 
     # danteside "I was an Eagle scout. You're not going anywhere."
-    danteside "Eu fui um escoteiro Águia. Vocês não vão a lugar nenhum."
+    danteside "Eu fui Escoteiro. Vocês não vão a lugar nenhum."
 
 # game/script_amos.rpy:5043
 translate languagetwo amos_wrestle_lose_cb9c8b48:
 
     # mside "Whatever. Just get this over with."
-    mside "Tanto faz. Vamos acabar logo com isso."
+    mside "Tanto faz. Vamos logo com isso."
 
 # game/script_amos.rpy:5045
 translate languagetwo amos_wrestle_lose_f97b8bfe:
@@ -12059,13 +12540,13 @@ translate languagetwo amos_wrestle_lose_45d27d9a:
 translate languagetwo amos_wrestle_lose_807dc6b9:
 
     # amside "No wonder you were always a lousy fuck."
-    amside "Não é à toa que você sempre foi uma foda ruim."
+    amside "Não é à toa que você sempre foi ruim de cama."
 
 # game/script_amos.rpy:5051
 translate languagetwo amos_wrestle_lose_c34bd4b9:
 
     # gregorside "You can't blame people for their perspective. That's not very {i}Whitmanesque,{/i} is it?"
-    gregorside "Você não pode culpar as pessoas por sua perspectiva. Isso não é muito {i}Whitmanesque{/i} (estilo Whitman), é?"
+    gregorside "Você não pode culpar as pessoas por sua perspectiva. Isso não é muito {i}Whitmanesco,{/i} é?"
 
 # game/script_amos.rpy:5053
 translate languagetwo amos_wrestle_lose_b74ff81e:
@@ -12083,13 +12564,13 @@ translate languagetwo amos_wrestle_lose_d5feb8f6:
 translate languagetwo amos_wrestle_lose_c1fc64c7:
 
     # refereeside "Alright, let's get naked and take care of business."
-    refereeside "Tudo bem, vamos ficar nus e cuidar dos negócios."
+    refereeside "Muito bem, vamos ficar nus e cuidar dos negócios."
 
 # game/script_amos.rpy:5058
 translate languagetwo amos_wrestle_lose_83761cba:
 
     # danteside "Yes, let's do it. I'm ready to spooey."
-    danteside "Sim, vamos fazer isso. Estou pronto para jorrar."
+    danteside "Sim, vamos nessa. Estou pronto para jorrar."
 
 # game/script_amos.rpy:5060
 translate languagetwo amos_wrestle_lose_f9bc268f:
@@ -12101,13 +12582,13 @@ translate languagetwo amos_wrestle_lose_f9bc268f:
 translate languagetwo amos_wrestle_lose_9a49102b:
 
     # danteside "Yeah, it's another word for—"
-    danteside "É, é outra palavra para—"
+    danteside "Sim, é outra palavra para—"
 
 # game/script_amos.rpy:5064
 translate languagetwo amos_wrestle_lose_bdd5601a:
 
     # gregorside "I {i}know{/i} what it means. It's just so... crass."
-    gregorside "Eu {i}sei{/i} o que significa. É tão... crasso."
+    gregorside "Eu {i}sei{/i} o que significa. É só tão... grosseiro."
 
 # game/script_amos.rpy:5067
 translate languagetwo amos_wrestle_lose_99b5f59e:
@@ -12119,13 +12600,13 @@ translate languagetwo amos_wrestle_lose_99b5f59e:
 translate languagetwo amos_wrestle_lose_3d313317:
 
     # gregorside "It’s all about ambiance."
-    gregorside "É tudo sobre o ambiente."
+    gregorside "É tudo sobre a ambientação."
 
 # game/script_amos.rpy:5071
 translate languagetwo amos_wrestle_lose_bc58ebc7:
 
     # refereeside "Okay, you two, smile and bat your eyelashes. I like my guys to look pretty."
-    refereeside "Ok, vocês dois, sorriam e pisquem os cílios. Gosto que meus garotos pareçam bonitos."
+    refereeside "Ok, vocês dois, sorriam e pisquem os cílios. Gosto que meus garotos fiquem bonitos."
 
 # game/script_amos.rpy:5076
 translate languagetwo amos_wrestle_lose_f8a8763b:
@@ -12137,7 +12618,7 @@ translate languagetwo amos_wrestle_lose_f8a8763b:
 translate languagetwo amos_wrestle_lose_e273c138:
 
     # refereeside "Ohhhh, I like animal noises. Can you whinny like a pony for me?"
-    refereeside "Ohhhh, eu gosto de barulhos de animais. Pode relinchar como um pônei para mim?"
+    refereeside "Ohhhh, eu gosto de sons de animais. Pode relinchar como um pônei para mim?"
 
 # game/script_amos.rpy:5080
 translate languagetwo amos_wrestle_lose_3102bce1:
@@ -12149,7 +12630,7 @@ translate languagetwo amos_wrestle_lose_3102bce1:
 translate languagetwo amos_wrestle_lose_a9aa6e25:
 
     # refereeside "Testy little bastard. That's okay. I like that, too."
-    refereeside "Bastarinho mal-humorado. Tudo bem. Eu gosto disso também."
+    refereeside "Bastardo mal-humorado. Tudo bem. Eu gosto disso também."
 
 # game/script_amos.rpy:5085
 translate languagetwo amos_wrestle_lose_4811ce9b:
@@ -12161,7 +12642,7 @@ translate languagetwo amos_wrestle_lose_4811ce9b:
 translate languagetwo amos_wrestle_lose_475d3ca7:
 
     # "You can't help but marvel at Gregor's incredible proportions and feel guilty for it."
-    "Você não pode deixar de se maravilhar com as proporções incríveis de Gregor e se sentir culpado por isso."
+    "Você não consegue deixar de se maravilhar com as proporções incríveis de Gregor e se sentir culpado por isso."
 
 # game/script_amos.rpy:5087
 translate languagetwo amos_wrestle_lose_7a1df739:
@@ -12173,55 +12654,55 @@ translate languagetwo amos_wrestle_lose_7a1df739:
 translate languagetwo amos_wrestle_lose_2783ce00:
 
     # "Willy looks at you like he's imagining doing awful things."
-    "Willy olha para você como se estivesse imaginando fazer coisas horríveis."
+    "Willy olha para você como se imaginasse fazer coisas terríveis."
 
 # game/script_amos.rpy:5090
 translate languagetwo amos_wrestle_lose_c370a524:
 
     # refereeside "Oh yeah, pet the pony softly. Pretty pretty pony. You like that, pony?"
-    refereeside "Ah sim, acaricie o pônei suavemente. Lindo lindo pônei. Você gosta disso, pônei?"
+    refereeside "Ah sim, acaricie o pônei suavemente. Lindo, lindo pônei. Você gosta disso, pônei?"
 
 # game/script_amos.rpy:5093
 translate languagetwo amos_wrestle_lose_56711364:
 
     # mside "What in the world—"
-    mside "Que diabos—"
+    mside "Mas que diabo—"
 
 # game/script_amos.rpy:5095
 translate languagetwo amos_wrestle_lose_053340d8:
 
     # "They continue circling, with Gregor appearing before you, then Dante. Stroking, getting harder, their eyes lusty and wicked."
-    "Eles continuam circulando, com Gregor aparecendo diante de você, depois Dante. Acariciando, ficando mais duros, seus olhos luxuriosos e perversos."
+    "Eles continuam circulando, com Gregor aparecendo diante de você, depois Dante. Acariciando, ficando mais duros, seus olhos cheios de luxúria e perversidade."
 
 # game/script_amos.rpy:5096
 translate languagetwo amos_wrestle_lose_0e78870d:
 
     # "Orgasms building, the men looking strained, they stop circling, and you find yourself face to dick with Willy."
-    "Orgasmos crescendo, os homens parecendo tensos, eles param de circular, e você se encontra cara a cara com o pau de Willy."
+    "Orgasmos se acumulando, os homens parecendo tensos, eles param de circular e você se encontra cara a pau com Willy."
 
 # game/script_amos.rpy:5097
 translate languagetwo amos_wrestle_lose_85758d79:
 
     # "Their panting turns to grunts, grunts to moans, eyes rolling back into their heads, stroking faster."
-    "Seus ofegos se transformam em grunhidos, grunhidos em gemidos, olhos revirando, acariciando mais rápido."
+    "A respiração ofegante vira grunhidos, grunhidos viram gemidos, olhos revirando, acariciando mais rápido."
 
 # game/script_amos.rpy:5098
 translate languagetwo amos_wrestle_lose_8db1a484:
 
     # "Gregor launches first, shooting wave after sticky wave of his cream upon Amos and beyond. The drops on your head feel like it's starting to rain."
-    "Gregor lança primeiro, atirando onda após onda pegajosa de seu creme sobre Amos e além. As gotas na sua cabeça parecem que está começando a chover."
+    "Gregor dispara primeiro, atirando onda após onda pegajosa de seu creme sobre Amos e além. As gotas na sua cabeça parecem o início de uma chuva."
 
 # game/script_amos.rpy:5099
 translate languagetwo amos_wrestle_lose_e4c099b6:
 
     # "Dante soon follows, deftly switching targets between you and Amos."
-    "Dante logo segue, habilmente trocando de alvo entre você e Amos."
+    "Dante logo o segue, habilmente alternando os alvos entre você e Amos."
 
 # game/script_amos.rpy:5100
 translate languagetwo amos_wrestle_lose_a95ebd99:
 
     # thought "Wow, he's got good aim."
-    thought "Uau, ele tem boa pontaria."
+    thought "Uau, ele tem boa mira."
 
 # game/script_amos.rpy:5101
 translate languagetwo amos_wrestle_lose_3d971e73:
@@ -12233,13 +12714,13 @@ translate languagetwo amos_wrestle_lose_3d971e73:
 translate languagetwo amos_wrestle_lose_f41f982e:
 
     # "With the top of your head and side of your face now thoroughly creamed, you wait for Willy's payload."
-    "Com o topo da sua cabeça e o lado do seu rosto agora totalmente lambuzados, você espera pela carga de Willy."
+    "Com o topo da sua cabeça e a lateral do seu rosto agora completamente cobertos de creme, você espera pela carga de Willy."
 
 # game/script_amos.rpy:5103
 translate languagetwo amos_wrestle_lose_8cd9fd18:
 
     # "Willy strokes furiously, like he's trying to start a fire on his dick, eyes closed, overwhelmed by something."
-    "Willy acaricia furiosamente, como se estivesse tentando iniciar um fogo em seu pau, olhos fechados, dominado por algo."
+    "Willy se acaricia furiosamente, como se estivesse tentando iniciar um fogo no pinto, olhos fechados, dominado por algo."
 
 # game/script_amos.rpy:5104
 translate languagetwo amos_wrestle_lose_84806659:
@@ -12251,7 +12732,7 @@ translate languagetwo amos_wrestle_lose_84806659:
 translate languagetwo amos_wrestle_lose_6d7340b2:
 
     # "He strokes even harder, faster, and you start to wonder if he's okay."
-    "Ele acaricia ainda mais forte, mais rápido, e você começa a se perguntar se ele está bem."
+    "Ele se acaricia ainda mais forte, mais rápido, e você começa a se perguntar se ele está bem."
 
 # game/script_amos.rpy:5106
 translate languagetwo amos_wrestle_lose_102e9008:
@@ -12263,7 +12744,7 @@ translate languagetwo amos_wrestle_lose_102e9008:
 translate languagetwo amos_wrestle_lose_91586239:
 
     # "Dante and Gregor are cheering Willy on, telling him that's he's the man, that this is his, to just let it go, man."
-    "Dante e Gregor estão torcendo por Willy, dizendo a ele que ele é o cara, que isso é dele, para apenas deixar sair, cara."
+    "Dante e Gregor estão torcendo por Willy, dizendo que ele é o cara, que essa é dele, para ele apenas se soltar, cara."
 
 # game/script_amos.rpy:5111
 translate languagetwo amos_wrestle_lose_32dbe374:
@@ -12281,13 +12762,13 @@ translate languagetwo amos_wrestle_lose_12fab119:
 translate languagetwo amos_wrestle_lose_8d2e9da2:
 
     # "A noose around his neck, in the middle of an attic."
-    "Uma corda em volta do pescoço, no meio de um sótão."
+    "Uma corda no pescoço, no meio de um sótão."
 
 # game/script_amos.rpy:5114
 translate languagetwo amos_wrestle_lose_4bc425b3:
 
     # "Surrounded by a mob of purple teddy bears with angry eyebrows."
-    "Cercado por uma multidão de ursinhos de pelúcia roxos com sobrancelhas raivosas."
+    "Cercado por uma multidão de ursinhos de pelúcia roxos com sobrancelhas zangadas."
 
 # game/script_amos.rpy:5115
 translate languagetwo amos_wrestle_lose_1b07f45a:
@@ -12299,7 +12780,7 @@ translate languagetwo amos_wrestle_lose_1b07f45a:
 translate languagetwo amos_wrestle_lose_65bbcc10:
 
     # "He drops a torch to set the pony alight."
-    "Ele solta uma tocha para atear fogo ao pônei."
+    "Ele solta uma tocha para incendiar o pônei."
 
 # game/script_amos.rpy:5128
 translate languagetwo amos_wrestle_lose_088f0d3c:
@@ -12311,19 +12792,19 @@ translate languagetwo amos_wrestle_lose_088f0d3c:
 translate languagetwo amos_wrestle_lose_44a9345a:
 
     # "So he strokes even faster, summoning the white demons from the depths of his testicles, squeezing harder, the head at the end of his long, thin shaft a deep purple."
-    "Então ele acaricia ainda mais rápido, invocando os demônios brancos das profundezas de seus testículos, apertando mais forte, a cabeça na ponta de seu eixo longo e fino de um roxo profundo."
+    "Então ele acaricia ainda mais rápido, invocando os demônios brancos das profundezas de seus testículos, apertando com mais força, a cabeça na ponta de seu eixo longo e fino em um roxo profundo."
 
 # game/script_amos.rpy:5130
 translate languagetwo amos_wrestle_lose_57c1c990:
 
     # "And then... victory! Kind of. A single, large drop of almost-clear cum meanders out of the end of his cock. It flies through the air, briefly, before landing on the ground, between your legs."
-    "E então... vitória! Meio que. Uma única gota grande de sêmen quase transparente serpenteia para fora da ponta de seu pau. Ela voa pelo ar, brevemente, antes de pousar no chão, entre suas pernas."
+    "E então... vitória! Mais ou menos. Uma única gota grande de gozo quase transparente serpenteia para fora da ponta do pau dele. Voa pelo ar, brevemente, antes de pousar no chão, entre suas pernas."
 
 # game/script_amos.rpy:5134
 translate languagetwo amos_wrestle_lose_80456c45:
 
     # refereeside "YYYYYYEEEEEEEEESSSSSSSSSSSSSSSSSSSSS!!!!"
-    refereeside "SIIIIIIIIIMMMMMMMMMMMMMMM!!!!"
+    refereeside "SIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIM!!!!"
 
 # game/script_amos.rpy:5136
 translate languagetwo amos_wrestle_lose_790023a5:
@@ -12335,13 +12816,13 @@ translate languagetwo amos_wrestle_lose_790023a5:
 translate languagetwo amos_wrestle_lose_537e5ef3:
 
     # refereeside "WHOOOOOOOOOO!"
-    refereeside "UHUUUUUUUUUU!"
+    refereeside "YUHUUUUUUUUUU!"
 
 # game/script_amos.rpy:5139
 translate languagetwo amos_wrestle_lose_c762dc5b:
 
     # "Everyone looks down and away from Willy, ashamed by his lack of seminal output in light of such a dramatic build-up. Willy doesn't seem to mind, though, he's all smiles."
-    "Todos olham para baixo e desviam o olhar de Willy, envergonhados por sua falta de produção seminal diante de uma preparação tão dramática. Willy não parece se importar, no entanto, ele é só sorrisos."
+    "Todos olham para baixo e desviam o olhar de Willy, envergonhados por sua falta de produção seminal diante de uma preparação tão dramática. Willy não parece se importar, no entanto, ele é todo sorrisos."
 
 # game/script_amos.rpy:5144
 translate languagetwo amos_wrestle_weird_01e9f046:
@@ -12353,13 +12834,13 @@ translate languagetwo amos_wrestle_weird_01e9f046:
 translate languagetwo amos_wrestle_weird_7e9c7bb9:
 
     # "He twists you around and slides his hands under your arms and around your neck. He wrestles you to the ground and puts his mouth next to your ear."
-    "Ele te gira e desliza as mãos sob seus braços e ao redor do seu pescoço. Ele te derruba no chão e coloca a boca perto da sua orelha."
+    "Ele te gira e desliza as mãos sob seus braços e ao redor do seu pescoço. Ele te derruba no chão e coloca a boca perto do seu ouvido."
 
 # game/script_amos.rpy:5147
 translate languagetwo amos_wrestle_weird_228f8ba8:
 
     # refereeside "You like this, do you, lad? Is this what you wanted? Old Willy's hands on you? Touching your sweet, young skin?"
-    refereeside "Você gosta disso, garoto? É isso que você queria? As mãos do velho Willy em você? Tocando sua pele doce e jovem?"
+    refereeside "Você gosta disso, não é, rapaz? É isso que você queria? As mãos do velho Willy em você? Tocando sua pele doce e jovem?"
 
 # game/script_amos.rpy:5149
 translate languagetwo amos_wrestle_weird_9927ad97:
@@ -12371,13 +12852,13 @@ translate languagetwo amos_wrestle_weird_9927ad97:
 translate languagetwo amos_wrestle_weird_f9320e34:
 
     # "From the ground, you watch Gregor and Dante continue their assault of Amos' incapacitated body. The both of you, pinned to the ground, helpless but to wait for the ordeal to end."
-    "Do chão, você observa Gregor e Dante continuarem o ataque ao corpo incapacitado de Amos. Ambos, presos ao chão, indefesos a não ser esperar o fim da provação."
+    "Do chão, você observa Gregor e Dante continuarem o ataque ao corpo incapacitado de Amos. Ambos, presos ao chão, impotentes, apenas esperando o tormento acabar."
 
 # game/script_amos.rpy:5152
 translate languagetwo amos_wrestle_weird_0e21e6d8:
 
     # "Dulcie comes crawling up to you, dragging her mangled legs behind her, and gives you a single, soft lick on the nose."
-    "Dulcie vem rastejando até você, arrastando as pernas mutiladas atrás dela, e te dá uma lambida única e suave no nariz."
+    "Dulcie se arrasta até você, arrastando as pernas mutiladas, e te dá uma lambida única e suave no nariz."
 
 # game/script_amos.rpy:5155
 translate languagetwo amos_wrestle_weird_c2926291:
@@ -12395,7 +12876,7 @@ translate languagetwo amos_wrestle_weird_e22939ef:
 translate languagetwo amos_wrestle_weird_9f3eb3f3:
 
     # thought "Wait a second. That's not gonna work."
-    thought "Espera um segundo. Isso não vai funcionar."
+    thought "Espere um segundo. Isso não vai funcionar."
 
 # game/script_amos.rpy:5161
 translate languagetwo amos_wrestle_weird_85568e5a:
@@ -12407,19 +12888,19 @@ translate languagetwo amos_wrestle_weird_85568e5a:
 translate languagetwo amos_wrestle_weird_c1f2a4cf:
 
     # mside "Please. Spare me."
-    mside "Por favor. Me poupe."
+    mside "Por favor. Poupe-me."
 
 # game/script_amos.rpy:5165
 translate languagetwo amos_wrestle_weird_8b212e09:
 
     # "You see Amos, his eyes shut, mouth open, body limp on the ground. You struggle, but Willy keeps you held in place."
-    "Você vê Amos, olhos fechados, boca aberta, corpo mole no chão. Você luta, mas Willy te mantém preso no lugar."
+    "Você vê Amos, de olhos fechados, boca aberta, corpo inerte no chão. Você luta, mas Willy te mantém preso no lugar."
 
 # game/script_amos.rpy:5168
 translate languagetwo amos_wrestle_weird_5a9e97b5:
 
     # gregorside "How apt. The triumph of beauty and order over recklessness and chaos. This is the story of mankind."
-    gregorside "Quão apropriado. O triunfo da beleza e da ordem sobre a imprudência e o caos. Esta é a história da humanidade."
+    gregorside "Que apropriado. O triunfo da beleza e da ordem sobre a imprudência e o caos. Esta é a história da humanidade."
 
 # game/script_amos.rpy:5170
 translate languagetwo amos_wrestle_weird_7ec2607d:
@@ -12443,7 +12924,7 @@ translate languagetwo amos_wrestle_weird_9ab7d0d1:
 translate languagetwo amos_wrestle_weird_bdd2282b:
 
     # i_off "He would totally do this, dude."
-    i_off "Ele faria totalmente isso, cara."
+    i_off "Ele faria exatamente isso, cara."
 
 # game/script_amos.rpy:5178
 translate languagetwo amos_wrestle_weird_e94c8349:
@@ -12455,7 +12936,7 @@ translate languagetwo amos_wrestle_weird_e94c8349:
 translate languagetwo amos_wrestle_weird_30eac153:
 
     # "Ian, in a bright yellow singlet, bounds through the door like a superhero. Nunchuks in hand, he begins whirling and swinging them while making a variety of kung-fu style noises."
-    "Ian, em um singlete amarelo brilhante, salta pela porta como um super-herói. Nunchakus na mão, ele começa a girá-los e balançá-los enquanto faz uma variedade de barulhos estilo kung-fu."
+    "Ian, em um collant amarelo brilhante, salta pela porta como um super-herói. Nunchakus na mão, ele começa a girá-los e balançá-los enquanto faz uma variedade de barulhos estilo kung-fu."
 
 # game/script_amos.rpy:5201
 translate languagetwo amos_wrestle_weird_aeb42d90:
@@ -12473,7 +12954,7 @@ translate languagetwo amos_wrestle_weird_bdbf6048:
 translate languagetwo amos_wrestle_weird_92229ed2:
 
     # "You notice his nunchuk skills have seriously improved as he works them back and forth between his hands."
-    "Você percebe que as habilidades dele com o nunchaku melhoraram muito enquanto ele os trabalha de um lado para o outro entre as mãos."
+    "Você nota que as habilidades dele com o nunchaku melhoraram muito enquanto ele os manuseia de um lado para o outro entre as mãos."
 
 # game/script_amos.rpy:5206
 translate languagetwo amos_wrestle_weird_f5c5563a:
@@ -12491,43 +12972,43 @@ translate languagetwo amos_wrestle_weird_59e5971b:
 translate languagetwo amos_wrestle_weird_ca8bec8b:
 
     # iside "Now, allow me to dispatch these ill mannered miscreants."
-    iside "Agora, permita-me despachar esses malfeitores mal-educados."
+    iside "Agora, permitam-me despachar esses malfeitores mal-educados."
 
 # game/script_amos.rpy:5211
 translate languagetwo amos_wrestle_weird_faa5a1ec:
 
     # "Ian swings his chuks with ever increasing momentum as he approaches Dante and Gregor."
-    "Ian balança seus nunchakus com um impulso cada vez maior à medida que se aproxima de Dante e Gregor."
+    "Ian balança seus chuks com um impulso cada vez maior enquanto se aproxima de Dante e Gregor."
 
 # game/script_amos.rpy:5214
 translate languagetwo amos_wrestle_weird_85428f89:
 
     # iside "It's payback time, villains!"
-    iside "É hora da vingança, vilões!"
+    iside "É hora do troco, vilões!"
 
 # game/script_amos.rpy:5216
 translate languagetwo amos_wrestle_weird_9f3ade53:
 
     # danteside "Whoa whoa whoa whoa! You win, man! Don't numchuk me."
-    danteside "Ei ei ei ei! Você venceu, cara! Não me bata com o numchuk."
+    danteside "Ei ei ei ei! Você venceu, cara! Não me bata com o nunchaku."
 
 # game/script_amos.rpy:5218
 translate languagetwo amos_wrestle_weird_7e144fee:
 
     # iside "They're not called 'numchuks,' numb-nuts. They are 'nunchuks.' Say it with me—'nunchuks.'"
-    iside "Eles não se chamam 'numchuks', seu cabeça-oca. São 'nunchuks'. Diga comigo—'nunchuks'."
+    iside "Não se chamam 'numchuks', seu cabeça-oca. São 'nunchakus'. Repita comigo—'nunchakus'."
 
 # game/script_amos.rpy:5219
 translate languagetwo amos_wrestle_weird_5a575f45:
 
     # danteside "NUNCHUKS. OKAY?"
-    danteside "NUNCHUKS. OKAY?"
+    danteside "NUNCHAKUS. TÁ BOM?"
 
 # game/script_amos.rpy:5221
 translate languagetwo amos_wrestle_weird_cd0c0ee3:
 
     # iside "Not okay. Not at all."
-    iside "Não okay. Nem um pouco."
+    iside "Não tá bom. Nem um pouco."
 
 # game/script_amos.rpy:5222
 translate languagetwo amos_wrestle_weird_67a9b806:
@@ -12539,7 +13020,7 @@ translate languagetwo amos_wrestle_weird_67a9b806:
 translate languagetwo amos_wrestle_weird_b2f9859e:
 
     # "Ian drops his chuks and gathers Dante by the waist."
-    "Ian solta seus nunchakus e agarra Dante pela cintura."
+    "Ian larga seus chuks e agarra Dante pela cintura."
 
 # game/script_amos.rpy:5225
 translate languagetwo amos_wrestle_weird_3edd3597:
@@ -12557,25 +13038,25 @@ translate languagetwo amos_wrestle_weird_5bfb0492:
 translate languagetwo amos_wrestle_weird_bb785941:
 
     # iside "IT'S INFERNO SUPLEX TIME, BABY!"
-    iside "É HORA DO SUPLEX INFERNO, BEBÊ!"
+    iside "É HORA DO SUPLEX INFERNAL, BEBÊ!"
 
 # game/script_amos.rpy:5232
 translate languagetwo amos_wrestle_weird_b680cc7d:
 
     # "With that, Ian heaves Dante into the air and launches him up and back, spinning Dante overhead and crashing him to the mat."
-    "Com isso, Ian arremessa Dante para o ar e o lança para cima e para trás, girando Dante acima da cabeça e o fazendo cair no tatame."
+    "Com isso, Ian arremessa Dante para o ar e o lança para cima e para trás, girando Dante acima da cabeça e jogando-o no tatame."
 
 # game/script_amos.rpy:5237
 translate languagetwo amos_wrestle_weird_4fae35c8:
 
     # iside "IIIIIIINNNNNFFFFEEEEERRRRRRRNNNNNNNOOOOOOO—OOOOOOOOOOOOOOOOOO!!!!"
-    iside "IIIIIIINNNNNFFFFEEEEERRRRRRRNNNNNNNOOOOOOO—OOOOOOOOOOOOOOOOOO!!!!"
+    iside "IIIIIIIINNNNNFFFFFEEEEERRRRRRRNNNNNNNOOOOOOO—OOOOOOOOOOOOOOOOOO!!!!"
 
 # game/script_amos.rpy:5238
 translate languagetwo amos_wrestle_weird_1a3a6608:
 
     # "Gregor gets off Amos and turns to face Ian. Ian casually flips up the nunchuks with his foot and begins spinning them."
-    "Gregor sai de cima de Amos e se vira para encarar Ian. Ian casualmente chuta os nunchakus para cima com o pé e começa a girá-los."
+    "Gregor sai de cima de Amos e se vira para encarar Ian. Ian casualmente levanta os nunchakus com o pé e começa a girá-los."
 
 # game/script_amos.rpy:5240
 translate languagetwo amos_wrestle_weird_dfa1e3d3:
@@ -12587,7 +13068,7 @@ translate languagetwo amos_wrestle_weird_dfa1e3d3:
 translate languagetwo amos_wrestle_weird_9702c3ad:
 
     # "Ian whirls his chuks faster, the weapons whistling as they flash through the air."
-    "Ian gira seus nunchakus mais rápido, as armas assobiando enquanto cortam o ar."
+    "Ian gira seus chuks mais rápido, as armas assobiando enquanto cortam o ar."
 
 # game/script_amos.rpy:5244
 translate languagetwo amos_wrestle_weird_ab2c42e6:
@@ -12599,19 +13080,19 @@ translate languagetwo amos_wrestle_weird_ab2c42e6:
 translate languagetwo amos_wrestle_weird_e001952a:
 
     # "His nunchuks moving at impossible speed, Ian continues the demonstration as Gregor sizes him up."
-    "Seus nunchakus se movendo a uma velocidade impossível, Ian continua a demonstração enquanto Gregor o mede."
+    "Com seus nunchakus se movendo a uma velocidade impossível, Ian continua a demonstração enquanto Gregor o avalia."
 
 # game/script_amos.rpy:5246
 translate languagetwo amos_wrestle_weird_2084efaf:
 
     # "But behind Gregor, Amos rises, silently, creeping up on his nemesis."
-    "Mas atrás de Gregor, Amos se levanta, silenciosamente, rastejando até seu inimigo."
+    "Mas atrás de Gregor, Amos se levanta, silenciosamente, aproximando-se sorrateiramente de seu nêmesis."
 
 # game/script_amos.rpy:5247
 translate languagetwo amos_wrestle_weird_609462c3:
 
     # "He locks Gregor's head and neck with his mighty arms and squeezes with intensifying pressure."
-    "Ele trava a cabeça e o pescoço de Gregor com seus braços poderosos e aperta com pressão crescente."
+    "Ele prende a cabeça e o pescoço de Gregor com seus braços poderosos e aperta com pressão crescente."
 
 # game/script_amos.rpy:5248
 translate languagetwo amos_wrestle_weird_927a3869:
@@ -12641,7 +13122,7 @@ translate languagetwo amos_wrestle_weird_1f9afbcf:
 translate languagetwo amos_wrestle_weird_616b4791:
 
     # refereeside "I was just kidding about all that, uh, stuff. You understand that, right?"
-    refereeside "Eu estava só brincando sobre toda aquela, uh, coisa. Você entende, né?"
+    refereeside "Eu estava só brincando sobre toda aquela, hã, coisa. Você entende isso, né?"
 
 # game/script_amos.rpy:5256
 translate languagetwo amos_wrestle_weird_deaeaf5d:
@@ -12653,13 +13134,13 @@ translate languagetwo amos_wrestle_weird_deaeaf5d:
 translate languagetwo amos_wrestle_weird_978b4383:
 
     # ian "Good thing I showed up, dude. I was just going to stop by to watch, but it looks like you guys needed some help."
-    ian "Ainda bem que eu apareci, cara. Eu ia só passar para assistir, mas parece que vocês precisavam de ajuda."
+    ian "Ainda bem que eu apareci, cara. Eu ia só passar pra assistir, mas parece que vocês precisavam de uma ajuda."
 
 # game/script_amos.rpy:5264
 translate languagetwo amos_wrestle_weird_3237c6d5:
 
     # mside "This... I don't know what this is. It makes zero sense."
-    mside "Isso... eu não sei o que é isso. Não faz sentido nenhum."
+    mside "Isso... eu não sei o que é isso. Não faz o menor sentido."
 
 # game/script_amos.rpy:5266
 translate languagetwo amos_wrestle_weird_a32bd76e:
@@ -12677,13 +13158,13 @@ translate languagetwo amos_wrestle_weird_39c01be7:
 translate languagetwo amos_wrestle_weird_6c7c077b:
 
     # ian "{i}That's{/i} what makes for good wrestling drama, dude. It needs to be as weird and unpredictable as possible."
-    ian "{i}Isso{/i} é o que faz um bom drama de luta livre, cara. Precisa ser o mais estranho e imprevisível possível."
+    ian "{i}É isso{/i} que faz um bom drama de luta livre, cara. Tem que ser o mais estranho e imprevisível possível."
 
 # game/script_amos.rpy:5270
 translate languagetwo amos_wrestle_weird_44418d1e:
 
     # mside "Just like modern poetry, right?"
-    mside "Assim como a poesia moderna, certo?"
+    mside "Assim como a poesia moderna, né?"
 
 # game/script_amos.rpy:5272
 translate languagetwo amos_wrestle_weird_6197fe44:
@@ -12695,7 +13176,7 @@ translate languagetwo amos_wrestle_weird_6197fe44:
 translate languagetwo amos_wrestle_weird_a420bd24:
 
     # lb "We need to figure out what to do with these clowns. I've got a very specific idea I'd like to run by you."
-    lb "Precisamos descobrir o que fazer com esses palhaços. Tenho uma ideia muito específica que gostaria de compartilhar com vocês."
+    lb "Precisamos descobrir o que fazer com esses palhaços. Tenho uma ideia bem específica que gostaria de compartilhar com vocês."
 
 # game/script_amos.rpy:5280
 translate languagetwo amos_wrestle_weird_695564cf:
@@ -12707,13 +13188,13 @@ translate languagetwo amos_wrestle_weird_695564cf:
 translate languagetwo amos_wrestle_weird_76289bc0:
 
     # "Amos huddles with you and lets you in on the plan. You feel confused, yet simultaneously aroused by his idea."
-    "Amos se reúne com você e te conta o plano. Você se sente confuso, mas simultaneamente excitado pela ideia dele."
+    "Amos se inclina para você e te conta o plano. Você se sente confuso, mas simultaneamente excitado com a ideia dele."
 
 # game/script_amos.rpy:5286
 translate languagetwo amos_wrestle_weird_027985d5:
 
     # "After he finishes describing the scenario, you mull it over for a few moments."
-    "Depois que ele termina de descrever o cenário, você pondera por alguns momentos."
+    "Depois que ele termina de descrever o cenário, você reflete por alguns momentos."
 
 # game/script_amos.rpy:5288
 translate languagetwo amos_wrestle_weird_bb416b02:
@@ -12731,19 +13212,19 @@ translate languagetwo amos_wrestle_weird_cc076019:
 translate languagetwo amos_wrestle_weird_6a982f04:
 
     # "You, Amos, and Ian gather around the edges of the living room. Gregor and Dante have been put in costume."
-    "Você, Amos e Ian se reúnem nas bordas da sala de estar. Gregor e Dante foram colocados em trajes."
+    "Você, Amos e Ian se reúnem nas bordas da sala de estar. Gregor e Dante foram fantasiados."
 
 # game/script_amos.rpy:5296
 translate languagetwo amos_wrestle_weird_0d37688d:
 
     # "Gregor's with a hole cut out around his ass, and Dante's modified to allow his penis freedom."
-    "O de Gregor com um buraco cortado ao redor da bunda, e o de Dante modificado para permitir liberdade ao pênis."
+    "O de Gregor tem um buraco cortado na bunda, e o de Dante foi modificado para permitir liberdade ao pênis dele."
 
 # game/script_amos.rpy:5298
 translate languagetwo amos_wrestle_weird_de2df28c:
 
     # amside "Alright, you two, go ahead."
-    amside "Tudo bem, vocês dois, vão em frente."
+    amside "Certo, vocês dois, vão em frente."
 
 # game/script_amos.rpy:5300
 translate languagetwo amos_wrestle_weird_bf13d161:
@@ -12755,7 +13236,7 @@ translate languagetwo amos_wrestle_weird_bf13d161:
 translate languagetwo amos_wrestle_weird_fbca2bd6:
 
     # danteside "Yeah, man, this isn't right. This is seriously fucked up."
-    danteside "É, cara, isso não está certo. Isso é muito ferrado."
+    danteside "É, cara, isso não está certo. Isso é muito doentio."
 
 # game/script_amos.rpy:5304
 translate languagetwo amos_wrestle_weird_25bfc6f5:
@@ -12791,7 +13272,7 @@ translate languagetwo amos_wrestle_weird_bde6244b:
 translate languagetwo amos_wrestle_weird_73fc1979:
 
     # "You and Amos unfurl your dicks in anticipation of the action."
-    "Você e Amos desenrolam seus paus em antecipação à ação."
+    "Você e Amos libertam seus paus em antecipação à ação."
 
 # game/script_amos.rpy:5312
 translate languagetwo amos_wrestle_weird_3d93e802:
@@ -12809,7 +13290,7 @@ translate languagetwo amos_wrestle_weird_a679a98e:
 translate languagetwo amos_wrestle_weird_669a5729:
 
     # "You happily spank away as the evil weed chokes the beautiful flower. You're not sure why, but something is really turning you on."
-    "Você espanca alegremente enquanto a erva daninha maligna sufoca a bela flor. Você não sabe por que, mas algo está realmente te excitando."
+    "Você bate feliz enquanto a erva daninha maligna sufoca a bela flor. Você não sabe por que, mas algo está realmente te excitando."
 
 # game/script_amos.rpy:5334
 translate languagetwo amos_wrestle_weird_0bd09cd4:
@@ -12821,7 +13302,7 @@ translate languagetwo amos_wrestle_weird_0bd09cd4:
 translate languagetwo amos_wrestle_weird_69910877:
 
     # "Whatever the reason, you easily finish yourself off as Amos does the same, the two of you cross pollinating the flower and weed with spray after spray of miraculous fertilizer."
-    "Qualquer que seja o motivo, você facilmente se satisfaz enquanto Amos faz o mesmo, vocês dois fazendo a polinização cruzada da flor e da erva daninha com jato após jato de fertilizante milagroso."
+    "Seja qual for o motivo, você facilmente goza enquanto Amos faz o mesmo, vocês dois polinizando a flor e a erva daninha com jato após jato de fertilizante milagroso."
 
 # game/script_amos.rpy:5344
 translate languagetwo amos_end_20bd01a1:
@@ -12833,19 +13314,19 @@ translate languagetwo amos_end_20bd01a1:
 translate languagetwo amos_end_86cade00:
 
     # "You two arrive at the Hotel Quixote in Camden at 8:05 p.m. Almost too late to start anything, but the day's travel has you yearning for a little relaxation, anyway."
-    "Vocês dois chegam ao Hotel Quixote em Camden às 20h05. Quase tarde demais para começar qualquer coisa, mas a viagem do dia faz você ansiar por um pouco de relaxamento, de qualquer maneira."
+    "Vocês dois chegam ao Hotel Quixote em Camden às 20:05. Quase tarde demais para começar qualquer coisa, mas a viagem do dia faz vocês ansiarem por um pouco de relaxamento, de qualquer maneira."
 
 # game/script_amos.rpy:5346
 translate languagetwo amos_end_66268eb7:
 
     # "After checking in and heading to your room, you unload your bags on the floor and surmise your environment."
-    "Depois de fazer o check-in e ir para o seu quarto, você descarrega suas malas no chão e avalia seu ambiente."
+    "Depois de fazer o check-in e ir para o quarto, vocês descarregam as malas no chão e avaliam o ambiente."
 
 # game/script_amos.rpy:5347
 translate languagetwo amos_end_735757e8:
 
     # "The decor consists of antique furniture, you've been told some of it more than two hundred years old. The room has a musty scent that you find genuine and comforting."
-    "A decoração consiste em móveis antigos, disseram que alguns deles têm mais de duzentos anos. O quarto tem um cheiro de mofo que você acha genuíno e reconfortante."
+    "A decoração consiste em móveis antigos, disseram que alguns têm mais de duzentos anos. O quarto tem um cheiro de mofo que você acha genuíno e reconfortante."
 
 # game/script_amos.rpy:5351
 translate languagetwo amos_end_c1c7c23a:
@@ -12857,13 +13338,13 @@ translate languagetwo amos_end_c1c7c23a:
 translate languagetwo amos_end_2f953bcb:
 
     # amside "Indeed it does. I'd love to know everything that's happened in this room. I'm sure there are quite a few stories."
-    amside "De fato. Eu adoraria saber tudo o que aconteceu neste quarto. Tenho certeza de que há muitas histórias."
+    amside "De fato. Adoraria saber tudo o que aconteceu neste quarto. Tenho certeza de que há muitas histórias."
 
 # game/script_amos.rpy:5355
 translate languagetwo amos_end_125358c9:
 
     # amside "I bet just about everything that {i}could{/i} happen, {i}has{/i} happened within these walls."
-    amside "Aposto que quase tudo o que {i}poderia{/i} acontecer, {i}aconteceu{/i} dentro destas paredes."
+    amside "Aposto que quase tudo que {i}poderia{/i} acontecer, {i}já{/i} aconteceu dentro dessas paredes."
 
 # game/script_amos.rpy:5357
 translate languagetwo amos_end_22e698ec:
@@ -12875,13 +13356,13 @@ translate languagetwo amos_end_22e698ec:
 translate languagetwo amos_end_c8fe2d14:
 
     # amside "Possibly. But certainly love has been made. Love has been lost. People have done everything that makes them, them."
-    amside "Possivelmente. Mas certamente o amor foi feito. O amor foi perdido. As pessoas fizeram tudo o que as torna, elas."
+    amside "Possivelmente. Mas certamente amor foi feito. Amor foi perdido. Pessoas fizeram tudo o que as torna quem elas são."
 
 # game/script_amos.rpy:5361
 translate languagetwo amos_end_3a295412:
 
     # amside "Some have been at their best, others at their worst. Joy, suffering, beauty, rage, excitement, boredom, and everything in between, have all been here."
-    amside "Alguns estiveram no seu melhor, outros no seu pior. Alegria, sofrimento, beleza, raiva, excitação, tédio e tudo mais, tudo esteve aqui."
+    amside "Alguns estiveram em seu melhor, outros em seu pior. Alegria, sofrimento, beleza, raiva, excitação, tédio e tudo mais, tudo esteve aqui."
 
 # game/script_amos.rpy:5363
 translate languagetwo amos_end_3d9ce30c:
@@ -12893,13 +13374,13 @@ translate languagetwo amos_end_3d9ce30c:
 translate languagetwo amos_end_3b847fbb:
 
     # amside "Yes. And us. I have to wonder what our story will be. Will these walls have been surprised when we leave?"
-    amside "Sim. E nós. Eu me pergunto qual será a nossa história. Será que estas paredes terão se surpreendido quando sairmos?"
+    amside "Sim. E nós. Fico imaginando qual será a nossa história. Será que essas paredes ficarão surpresas quando partirmos?"
 
 # game/script_amos.rpy:5367
 translate languagetwo amos_end_a8c1bfe1:
 
     # amside "Will they smile? Will they frown? Will they gossip our story to the other walls in excitement?"
-    amside "Elas vão sorrir? Vão franzir a testa? Vão fofocar nossa história para as outras paredes com entusiasmo?"
+    amside "Elas vão sorrir? Vão franzir a testa? Vão fofocar nossa história para as outras paredes com empolgação?"
 
 # game/script_amos.rpy:5369
 translate languagetwo amos_end_2cd984ba:
@@ -12911,7 +13392,7 @@ translate languagetwo amos_end_2cd984ba:
 translate languagetwo amos_end_9e607924:
 
     # amside "Let's have some wine."
-    amside "Vamos tomar um pouco de vinho."
+    amside "Vamos tomar um vinho."
 
 # game/script_amos.rpy:5377
 translate languagetwo amos_end_df789979:
@@ -12929,7 +13410,7 @@ translate languagetwo amos_end_e2a549de:
 translate languagetwo amos_end_f83559c0:
 
     # amside "Elderberry wine. You don't see that very often."
-    amside "Vinho de sabugueiro. Você não vê isso com muita frequência."
+    amside "Vinho de sabugueiro. Não se vê isso com muita frequência."
 
 # game/script_amos.rpy:5382
 translate languagetwo amos_end_bfa6077e:
@@ -12941,25 +13422,25 @@ translate languagetwo amos_end_bfa6077e:
 translate languagetwo amos_end_48c2186a:
 
     # amside "Elderberry—the Englishman's grape. It can make for an excellent wine, although it is frowned upon by many."
-    amside "Sabugueiro—a uva do inglês. Pode render um excelente vinho, embora seja desaprovado por muitos."
+    amside "Sabugueiro—a uva do inglês. Pode render um vinho excelente, embora seja malvisto por muitos."
 
 # game/script_amos.rpy:5386
 translate languagetwo amos_end_830ee158:
 
     # mside "I'll drink anything with you. It could be vinegar for all I care."
-    mside "Bebo qualquer coisa com você. Poderia ser vinagre, eu não me importaria."
+    mside "Bebo qualquer coisa com você. Poderia ser vinagre, por mim tanto faz."
 
 # game/script_amos.rpy:5387
 translate languagetwo amos_end_a7d1f6fe:
 
     # "He pours you each a glass and sits on the edge of the bed."
-    "Ele serve uma taça para cada um e se senta na beira da cama."
+    "Ele serve uma taça para cada um e senta na beirada da cama."
 
 # game/script_amos.rpy:5389
 translate languagetwo amos_end_5b85e827:
 
     # amside "{i}Come here you great, young, splendid boy, and put your hand on my knee.{/i}"
-    amside "{i}Venha aqui, seu grande, jovem e esplêndido garoto, e coloque sua mão no meu joelho.{/i}"
+    amside "{i}Venha aqui, seu garoto grande, jovem e esplêndido, e coloque sua mão no meu joelho.{/i}"
 
 # game/script_amos.rpy:5391
 translate languagetwo amos_end_8610b536:
@@ -12971,7 +13452,7 @@ translate languagetwo amos_end_8610b536:
 translate languagetwo amos_end_804b63ec:
 
     # "You sit beside Amos and coyly place your hand upon his knee. "
-    "Você se senta ao lado de Amos e coloca timidamente a mão no joelho dele. "
+    "Você senta ao lado de Amos e timidamente coloca a mão no joelho dele."
 
 # game/script_amos.rpy:5393
 translate languagetwo amos_end_dfa75907:
@@ -13007,7 +13488,7 @@ translate languagetwo amos_end_9927ad97:
 translate languagetwo amos_end_20af339e:
 
     # amside "I've been thinking about the last time I saw you. I can still remember the taste of your kiss."
-    amside "Tenho pensado na última vez que te vi. Ainda consigo lembrar o gosto do seu beijo."
+    amside "Estive pensando na última vez que te vi. Ainda consigo lembrar o gosto do seu beijo."
 
 # game/script_amos.rpy:5403
 translate languagetwo amos_end_9927ad97_1:
@@ -13025,7 +13506,7 @@ translate languagetwo amos_end_92c6c10d:
 translate languagetwo amos_end_50e44f60:
 
     # mside "We wouldn't want that."
-    mside "Nós não iríamos querer isso."
+    mside "Não gostaríamos disso."
 
 # game/script_amos.rpy:5409
 translate languagetwo amos_end_b561e7c2:
@@ -13043,25 +13524,25 @@ translate languagetwo amos_end_958196e7:
 translate languagetwo amos_end_1ddd29a3:
 
     # amside "I want everything. For me and for you. I want us to always be us."
-    amside "Eu quero tudo. Para mim e para você. Eu quero que sejamos sempre nós."
+    amside "Eu quero tudo. Para mim e para você. Quero que nós sejamos sempre nós."
 
 # game/script_amos.rpy:5415
 translate languagetwo amos_end_8df13c9e:
 
     # amside "I want warm affection on cold nights and on hot summer days."
-    amside "Eu quero carinho quente em noites frias e em dias quentes de verão."
+    amside "Quero afeto quente em noites frias e em dias quentes de verão."
 
 # game/script_amos.rpy:5417
 translate languagetwo amos_end_7e834da1:
 
     # amside "I want your forever, your never, your any, and all."
-    amside "Eu quero o seu para sempre, o seu nunca, o seu qualquer, e tudo."
+    amside "Quero o seu para sempre, o seu nunca, o seu qualquer e o seu tudo."
 
 # game/script_amos.rpy:5419
 translate languagetwo amos_end_3afeec3a:
 
     # amside "I needed you yesterday, I'll need you tomorrow, most of all I need you now."
-    amside "Eu precisava de você ontem, vou precisar de você amanhã, acima de tudo preciso de você agora."
+    amside "Eu precisava de você ontem, precisarei de você amanhã, mas acima de tudo preciso de você agora."
 
 # game/script_amos.rpy:5420
 translate languagetwo amos_end_5bdb5b27:
@@ -13091,43 +13572,43 @@ translate languagetwo amos_end_8d1d8685:
 translate languagetwo amos_end_1a1373c8:
 
     # "His familiar scent, the sound of the sheets on your bodies, the warmth of him everywhere as you touch everything."
-    "Seu cheiro familiar, o som dos lençóis em seus corpos, o calor dele em toda parte enquanto você toca tudo."
+    "O cheiro familiar dele, o som dos lençóis em seus corpos, o calor dele em toda parte enquanto você toca tudo."
 
 # game/script_amos.rpy:5442
 translate languagetwo amos_end_be69ce85:
 
     # "The kisses, the flavor of him here and of him there, his tongue on your body."
-    "Os beijos, o sabor dele aqui e dele ali, a língua dele no seu corpo."
+    "Os beijos, o sabor dele aqui e ali, a língua dele no seu corpo."
 
 # game/script_amos.rpy:5443
 translate languagetwo amos_end_3c6e8b0c:
 
     # "Mind racing, then calming, then joyful and laughing, finally disappearing in the sensations of flesh."
-    "Mente acelerada, depois calma, depois alegre e rindo, finalmente desaparecendo nas sensações da carne."
+    "A mente acelerada, depois calma, depois alegre e rindo, finalmente desaparecendo nas sensações da carne."
 
 # game/script_amos.rpy:5444
 translate languagetwo amos_end_4451dd36:
 
     # "Minutes passing, endless touching, your body the spool on which pleasure is wrapped, string after string, layer upon layer, encompassing, encircling, every moment new and thrilling."
-    "Minutos passando, toques intermináveis, seu corpo o carretel onde o prazer é enrolado, fio após fio, camada sobre camada, abrangendo, circundando, cada momento novo e emocionante."
+    "Minutos passando, toques intermináveis, seu corpo o carretel no qual o prazer é enrolado, fio após fio, camada sobre camada, abrangendo, circundando, cada momento novo e emocionante."
 
 # game/script_amos.rpy:5446
 translate languagetwo amos_end_8b772a27:
 
     # "Trying to count how many times you've kissed, you lose track at thirteen."
-    "Tentando contar quantas vezes vocês se beijaram, você perde a conta em treze."
+    "Tentando contar quantas vezes vocês se beijaram, você perde a conta no treze."
 
 # game/script_amos.rpy:5447
 translate languagetwo amos_end_c133774d:
 
     # "Hours falling by one after the other, but time altogether forgotten, the touching, everything done again and again."
-    "Horas caindo uma após a outra, mas o tempo totalmente esquecido, o toque, tudo feito de novo e de novo."
+    "Horas passando uma após a outra, mas o tempo totalmente esquecido, o toque, tudo feito de novo e de novo."
 
 # game/script_amos.rpy:5448
 translate languagetwo amos_end_7e9eef98:
 
     # "Love repeating itself but new every instant, until finally, beautifully, you finish and further finish him."
-    "O amor se repetindo, mas novo a cada instante, até que finalmente, lindamente, você termina e termina ainda mais ele."
+    "O amor se repetindo, mas novo a cada instante, até que finalmente, lindamente, você termina e o faz terminar ainda mais."
 
 # game/script_amos.rpy:5454
 translate languagetwo amos_end_b8e141aa:
@@ -13157,13 +13638,13 @@ translate languagetwo amos_end_6d5840cd:
 translate languagetwo amos_end_2b6e33f1:
 
     # amside "I think it's morning."
-    amside "Acho que já é de manhã."
+    amside "Acho que é de manhã."
 
 # game/script_amos.rpy:5464
 translate languagetwo amos_end_e43489c6:
 
     # mside "Should we go get breakfast?"
-    mside "Vamos tomar café da manhã?"
+    mside "Devemos ir tomar café da manhã?"
 
 # game/script_amos.rpy:5466
 translate languagetwo amos_end_87c81f27:
@@ -13199,25 +13680,25 @@ translate languagetwo amos_epilogue_42199833:
 translate languagetwo amos_epilogue_cf1c97a5:
 
     # "Instead, the two of you head to Etretat on the western coast of France, Dulcie in tow."
-    "Em vez disso, vocês dois partem para Etretat na costa oeste da França, com Dulcie a tiracolo."
+    "Em vez disso, vocês dois vão para Étretat na costa oeste da França, com Dulcie a reboque."
 
 # game/script_amos.rpy:5497
 translate languagetwo amos_epilogue_3929ce77:
 
     # "In a small, cliffside villa overlooking the Atlantic, the two of you farm Gerbera flowers and rabbits that you sell to the local markets."
-    "Em uma pequena vila à beira do penhasco com vista para o Atlântico, vocês dois cultivam flores Gérberas e coelhos que vendem nos mercados locais."
+    "Em uma pequena vila à beira do penhasco com vista para o Atlântico, vocês dois cultivam gérberas e criam coelhos que vendem nos mercados locais."
 
 # game/script_amos.rpy:5498
 translate languagetwo amos_epilogue_b08a1792:
 
     # "You adjust well to your new life—eating amazing food, drinking fine wine, and honest, genuine work that nourishes your soul."
-    "Você se adapta bem à sua nova vida—comendo comida incrível, bebendo vinho fino e fazendo um trabalho honesto e genuíno que nutre sua alma."
+    "Você se adapta bem à sua nova vida—comendo comida incrível, bebendo vinho bom e com um trabalho honesto e genuíno que nutre sua alma."
 
 # game/script_amos.rpy:5499
 translate languagetwo amos_epilogue_ce59dff2:
 
     # "But most of all, you cherish Amos—the two of you blissful and serene and falling more in love with each other every day. The way he adorns the bunnies with corn flowers always makes you smile."
-    "Mas acima de tudo, você aprecia Amos—vocês dois felizes e serenos e se apaixonando mais um pelo outro a cada dia. A maneira como ele adorna os coelhinhos com centáureas sempre te faz sorrir."
+    "Mas acima de tudo, você estima Amos—vocês dois felizes e serenos e se apaixonando mais um pelo outro a cada dia. O jeito que ele enfeita os coelhinhos com centáureas sempre te faz sorrir."
 
 # game/script_amos.rpy:5504
 translate languagetwo amos_epilogue_6e5b6293:
@@ -13229,31 +13710,31 @@ translate languagetwo amos_epilogue_6e5b6293:
 translate languagetwo amos_epilogue_e1ae0216:
 
     # "Hanging out with Amos post-match one day, the two of you begin talking about the enormous opportunity that sex-wrestling presents."
-    "Passando um tempo com Amos após uma luta um dia, vocês dois começam a conversar sobre a enorme oportunidade que a luta livre sexual apresenta."
+    "Passando um tempo com Amos após uma luta um dia, vocês dois começam a falar sobre a enorme oportunidade que a luta livre sexual apresenta."
 
 # game/script_amos.rpy:5521
 translate languagetwo amos_epilogue_9cc9ada9:
 
     # "Convinced you've stumbled onto a million dollar idea, you and he start a chain of sex-wrestling clubs. You name the company Sex Bomb Worldwide and take your fetish international."
-    "Convencido de que você tropeçou em uma ideia de um milhão de dólares, você e ele iniciam uma cadeia de clubes de luta livre sexual. Vocês chamam a empresa de Sex Bomb Worldwide e levam seu fetiche para o mundo."
+    "Convencidos de que tropeçaram em uma ideia de um milhão de dólares, você e ele iniciam uma cadeia de clubes de luta livre sexual. Vocês nomeiam a empresa Sex Bomb Worldwide e levam seu fetiche para o nível internacional."
 
 # game/script_amos.rpy:5522
 translate languagetwo amos_epilogue_06bfe77e:
 
     # "Within two years, the company grows to more than 400 locations across the globe."
-    "Em dois anos, a empresa cresce para mais de 400 locais em todo o mundo."
+    "Em dois anos, a empresa cresce para mais de 400 locais ao redor do globo."
 
 # game/script_amos.rpy:5523
 translate languagetwo amos_epilogue_08436223:
 
     # "On the third anniversary of Sex Bomb Worldwide, you host a giant party that quickly descends into the world's largest (and best) orgy ever."
-    "No terceiro aniversário da Sex Bomb Worldwide, você organiza uma festa gigante que rapidamente se transforma na maior (e melhor) orgia do mundo."
+    "No terceiro aniversário da Sex Bomb Worldwide, vocês organizam uma festa gigante que rapidamente se transforma na maior (e melhor) orgia do mundo."
 
 # game/script_amos.rpy:5524
 translate languagetwo amos_epilogue_64540ce9:
 
     # "You and Amos look out over the crowd and wave, triumphant, as you bang the ever-loving hell out of each other."
-    "Você e Amos olham para a multidão e acenam, triunfantes, enquanto transam loucamente um com o outro."
+    "Você e Amos olham para a multidão e acenam, triunfantes, enquanto fodem loucamente um ao outro."
 
 # game/script_amos.rpy:5527
 translate languagetwo amos_epilogue_bf0874e3:
@@ -13271,55 +13752,55 @@ translate languagetwo amos_epilogue_547ce089:
 translate languagetwo amos_epilogue_48ca81e4:
 
     # "No longer sated by the trappings of normalcy, you and Amos know you'll need more out of life than a house with a white picket fence, 2.5 kids, and a minivan."
-    "Não mais satisfeitos com as armadilhas da normalidade, você e Amos sabem que precisarão de mais da vida do que uma casa com cerca branca, 2,5 filhos e uma minivan."
+    "Não mais satisfeitos com as armadilhas da normalidade, você e Amos sabem que precisam de mais da vida do que uma casa com cerca branca, 2,5 filhos e uma minivan."
 
 # game/script_amos.rpy:5531
 translate languagetwo amos_epilogue_48ca81e4_1:
 
     # "No longer sated by the trappings of normalcy, you and Amos know you'll need more out of life than a house with a white picket fence, 2.5 kids, and a minivan."
-    "Não mais satisfeitos com as armadilhas da normalidade, você e Amos sabem que precisarão de mais da vida do que uma casa com cerca branca, 2,5 filhos e uma minivan."
+    "Não mais satisfeitos com as armadilhas da normalidade, você e Amos sabem que precisam de mais da vida do que uma casa com cerca branca, 2,5 filhos e uma minivan."
 
 # game/script_amos.rpy:5532
 translate languagetwo amos_epilogue_b6c5d089:
 
     # "You pick up and move with him to the Appalachians where you set about starting your own gypsy-like cult."
-    "Você pega suas coisas e se muda com ele para os Apalaches, onde começam a fundar seu próprio culto estilo cigano."
+    "Você pega suas coisas e se muda com ele para os Apalaches, onde vocês começam a iniciar seu próprio culto tipo cigano."
 
 # game/script_amos.rpy:5533
 translate languagetwo amos_epilogue_d39884c8:
 
     # "After abducting a few breeding-stock women from a nearby village and luring some hot, strapping, willing men for stud service,"
-    "Depois de sequestrar algumas mulheres de uma vila próxima para reprodução e atrair alguns homens gostosos, fortes e dispostos para serviço de garanhão,"
+    "Depois de sequestrar algumas mulheres para reprodução de uma vila próxima e atrair alguns homens gostosos, fortes e dispostos para serviço de garanhão,"
 
 # game/script_amos.rpy:5534
 translate languagetwo amos_epilogue_5b901aba:
 
     # "you implement a set of arbitrary rules designed to shame and control your following."
-    "você implementa um conjunto de regras arbitrárias projetadas para envergonhar e controlar seus seguidores."
+    "vocês implementam um conjunto de regras arbitrárias projetadas para envergonhar e controlar seus seguidores."
 
 # game/script_amos.rpy:5535
 translate languagetwo amos_epilogue_5de7ccc7:
 
     # "It works and after 20 years, the two of you are the kings of a large tribe known as 'The Unshaven.' Your clan specializes in pickpocketing, rustling neighboring livestock, and running guns for the Serbian mafia."
-    "Funciona e depois de 20 anos, vocês dois são os reis de uma grande tribo conhecida como 'Os Não Barbeados'. Seu clã é especializado em bater carteiras, roubar gado vizinho e contrabandear armas para a máfia sérvia."
+    "Funciona e, após 20 anos, vocês dois são os reis de uma grande tribo conhecida como 'Os Barbudos'. Seu clã é especializado em bater carteiras, roubar gado vizinho e traficar armas para a máfia sérvia."
 
 # game/script_amos.rpy:5549
 translate languagetwo amos_epilogue_129d99c6:
 
     # "After the feds raid your camp and arrest everyone, you turn state's witness against Amos in exchange for immunity."
-    "Depois que os federais invadem seu acampamento e prendem todos, você vira testemunha do estado contra Amos em troca de imunidade."
+    "Depois que os federais invadem seu acampamento e prendem todo mundo, você se torna testemunha do estado contra Amos em troca de imunidade."
 
 # game/script_amos.rpy:5550
 translate languagetwo amos_epilogue_287421f4:
 
     # "You relocate to South Miami where you open an herbal smoke enema parlor and make a damn fine living charging people $300 a pop to literally blow smoke up their asses."
-    "Você se muda para o sul de Miami, onde abre um salão de enema de fumaça de ervas e ganha uma vida muito boa cobrando US$ 300 por cabeça para literalmente soprar fumaça na bunda das pessoas."
+    "Você se muda para o sul de Miami, onde abre um salão de enema de fumaça de ervas e ganha uma vida muito boa cobrando das pessoas US$ 300 por sessão para literalmente soprar fumaça na bunda delas."
 
 # game/script_amos.rpy:5554
 translate languagetwo amos_epilogue_d203c43d:
 
     # "You never hear from Amos again, but time eventually heals that wound. In the meantime, you've buckled down and dedicated yourself to your career."
-    "Você nunca mais ouve falar de Amos, mas o tempo eventualmente cura essa ferida. Enquanto isso, você se dedicou à sua carreira."
+    "Você nunca mais ouve falar de Amos, mas o tempo eventualmente cura essa ferida. Enquanto isso, você se dedicou firme e focou na sua carreira."
 
 # game/script_amos.rpy:5568
 translate languagetwo amos_epilogue_4f57582a:
@@ -13331,7 +13812,7 @@ translate languagetwo amos_epilogue_4f57582a:
 translate languagetwo amos_epilogue_58ef8974:
 
     # "You're making bank. You settle in for the easy, well-paid ride and soon enough meet someone new."
-    "Você está ganhando muito dinheiro. Você se acomoda para a vida fácil e bem paga e logo conhece alguém novo."
+    "Você está ganhando muito dinheiro. Você se acomoda na vida fácil e bem paga e logo conhece alguém novo."
 
 # game/script_amos.rpy:5570
 translate languagetwo amos_epilogue_d501ce6c:
@@ -13343,19 +13824,19 @@ translate languagetwo amos_epilogue_d501ce6c:
 translate languagetwo amos_epilogue_ad2cf8cd:
 
     # "You see him as a weight around your ankle and he sees you as a paycheck. But you keep going, hoping it will get better. "
-    "Você o vê como um peso no tornozelo e ele o vê como um contracheque. Mas você continua, esperando que melhore. "
+    "Você o vê como um peso no tornozelo e ele te vê como um contracheque. Mas vocês continuam, esperando que melhore."
 
 # game/script_amos.rpy:5572
 translate languagetwo amos_epilogue_f22cf301:
 
     # "It doesn't. You try to assuage your lack of deep connection with anyone else with material excess and eventually develop an alcohol problem."
-    "Não melhora. Você tenta amenizar sua falta de conexão profunda com qualquer outra pessoa com excesso material e acaba desenvolvendo um problema com álcool."
+    "Não melhora. Você tenta mitigar sua falta de conexão profunda com qualquer outra pessoa com excesso material e acaba desenvolvendo um problema com álcool."
 
 # game/script_amos.rpy:5573
 translate languagetwo amos_epilogue_52dc9a17:
 
     # "You lose your kid, house, husband, and wind up in a series of shallow relationships that never go anywhere."
-    "Você perde seu filho, casa, marido e acaba em uma série de relacionamentos superficiais que nunca levam a lugar nenhum."
+    "Você perde seu filho, casa, marido e acaba em uma série de relacionamentos superficiais que nunca dão em nada."
 
 # game/script_amos.rpy:5576
 translate languagetwo amos_epilogue_beab1701:
