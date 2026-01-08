@@ -6094,7 +6094,7 @@ translate languagetwo ian_penny_toy_b63df5c0:
 translate languagetwo ian_penny_toy_76b2fe88:
 
     # nvl clear
-    # nvl clear
+    nvl clear
 
 # game/script_ian.rpy:2278
 translate languagetwo ian_penny_toy_5296ef64:
